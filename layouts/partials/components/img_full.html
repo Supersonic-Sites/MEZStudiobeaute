@@ -1,0 +1,23 @@
+<section class="bg-{{ .bg_color }} pb-8 md:pb-12 md:hidden">
+ 
+  <div class="container max-w-7xl mx-auto px-4 flex flex-col items-center">
+
+          <img
+          class="lazyload w-full mb-6 md:mb-0 shadow" 
+          alt="{{ .img_alt }}"
+          title="{{ .img_title }}"
+          {{ if .aos_select }}
+          data-aos="{{ .aos }}" data-aos-duration="800"
+          {{ end }}
+          width="584px"
+          height="584px" 
+          data-srcset="
+              {{ .img }} 640w,
+              {{ .img }} 768w,
+              {{ .img }} 1280w"
+          sizes="(max-width: 468px) 640px, 640px"
+          data-src="{{ .img }}"
+           /> 
+         
+  </div>
+</section>

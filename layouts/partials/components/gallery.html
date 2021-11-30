@@ -1,0 +1,19 @@
+<section id="gallery" class="grid grid-cols-12 gap-0">
+    {{ range .images }}
+    <div class="col-span-6 md:col-span-4 3xl:col-span-2">
+        <img
+        class="lazyload w-full" 
+        alt="{{ .img_alt }}"
+        title="{{ .img_title }}"
+        width="600px"
+        height="600px" 
+        sizes="(max-width: 1440px) 400px, 600px"
+        data-srcset="
+            {{ .img }} 200w,
+            {{ .img }} 400w,
+            {{ .img }} 600w"
+        data-src="{{ .img }}"
+         />
+    </div>
+    {{ end }}
+</section>

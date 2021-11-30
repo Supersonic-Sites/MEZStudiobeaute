@@ -1,0 +1,29 @@
+/*
+	Content-Security-Policy: upgrade-insecure-requests
+	Strict-Transport-Security: max-age=31536000; includeSubDomains
+	X-Xss-Protection: 1; mode=block
+	X-Frame-Options: DENY
+	X-Content-Type-Options: nosniff
+	Referrer-Policy: strict-origin-when-cross-origin
+  Cache-Control: public, max-age=604800
+
+/*.jpg
+  Cache-Control: public, max-age=604800
+
+/*.png
+  Cache-Control: public, max-age=604800
+
+/*.css
+  Cache-Control: public, max-age=604800
+
+/*.js
+  Cache-Control: public, max-age=604800
+
+https://imagedelivery.net/*
+  Cache-Control: public, max-age=604800
+
+https://griffinpainting.pages.dev/*
+  X-Robots-Tag: noindex
+
+
+
