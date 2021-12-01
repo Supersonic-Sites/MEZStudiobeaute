@@ -49,7 +49,7 @@ weight = "2"
 
 [[languages.en.menu.main]]
 name = "Services"
-url = "Services/"
+url = "services/"
 weight = "3"
 
 [[languages.en.menu.main]]
@@ -64,7 +64,7 @@ weight = "5"
 
 [[languages.en.menu.main]]
 name = "Appointment"
-url = "appointment/"
+url = "https://mez-collections-and-studio-beaute.appointlet.com/"
 weight = "6"
 
 [languages.fr]
@@ -116,7 +116,7 @@ weight = 5
 
 [[languages.fr.menu.main]]
 name = "Rendez-vous"
-url = "rendez-vous/"
+url = "https://mez-collections-and-studio-beaute.appointlet.com/"
 weight = 6
 
 [params]

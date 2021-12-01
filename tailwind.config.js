@@ -29,7 +29,7 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: [
-          '"Playfair Display"',
+          '"PT Serif"',
           'system-ui',
           '-apple-system',
           'BlinkMacSystemFont',

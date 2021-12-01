@@ -1,5 +1,5 @@
 ---
-title: About {{Business_Name}}
+title: About MezCollection & Salon Beauty
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
   aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
   aliquam at ut neque.
@@ -8,4 +8,116 @@ components:
     bg_color: primary
     img: /img/banner.jpg
     title: About Us
+  - type: testimonial_half
+    bg_color: white
+    testimonials:
+      - name: Erica Bailey
+        img: https://via.placeholder.com/150x150
+        img_alt: Please type in a description of the image for the search engine or
+          visually impaired people
+        img_title: Please type in a description of the image that would help the user
+          when they hover the image
+        position: CEO at Tulip.com
+        desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a
+          fermentum diam, vitae pretium diam. Nam in diam egestas, lacinia urna
+          in, ornare dui. Duis at sapien cursus, tincidunt mi a, facilisis
+          felis.
+        image_toggle: true
+      - name: Erica Bailey
+        img: https://via.placeholder.com/150x150
+        img_alt: Please type in a description of the image for the search engine or
+          visually impaired people
+        img_title: Please type in a description of the image that would help the user
+          when they hover the image
+        position: CEO at Tulip.com
+        desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a
+          fermentum diam, vitae pretium diam. Nam in diam egestas, lacinia urna
+          in, ornare dui. Duis at sapien cursus, tincidunt mi a, facilisis
+          felis.
+        image_toggle: true
+  - img: https://via.placeholder.com/750x750.png
+    aos: fade
+    cta_link: contact/
+    bg_color: white
+    img_alt: Please type in a description of the image for the search engine or
+      visually impaired people
+    cta: Call To Action
+    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a
+      fermentum diam, vitae pretium diam. Nam in diam egestas, lacinia urna in,
+      ornare dui. Duis at sapien cursus, tincidunt mi a, facilisis felis.
+      Maecenas accumsan sem ut enim fermentum efficitur. Mauris a dui eu arcu
+      finibus sodales ultricies id felis. Integer dapibus tempus lorem, id
+      placerat eros. Nunc pellentesque metus nulla, ac elementum purus dapibus
+      eu. Donec eu tincidunt ante. Vivamus fringilla dui et ex porta pharetra.
+      Integer non arcu turpis. Morbi elit massa, ornare nec enim nec, iaculis
+      laoreet lacus. Nullam tristique eros libero. Quisque faucibus efficitur
+      eros.<br><br>Vivamus fringilla dui et ex porta pharetra. Integer non arcu
+      turpis. Morbi elit massa, ornare nec enim nec, iaculis laoreet lacus.
+      Nullam tristique eros libero. Quisque faucibus efficitur eros.
+    aos_select: true
+    title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    type: img_half_right
+    img_title: Please type in a description of the image that would help the user
+      when they hover the image
+  - type: divider
+    bg_color: white
+  - img: https://via.placeholder.com/350x350
+    aos: fade-up
+    cta_link: contact/
+    bg_color: white
+    img_alt: Please type in a description of the image for the search engine or
+      visually impaired people
+    cta: Call To Action
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a
+      fermentum diam, vitae pretium diam. Nam in diam egestas, lacinia urna in,
+      ornare dui. Duis at sapien cursus, tincidunt mi a, facilisis felis.
+      Maecenas accumsan sem ut enim fermentum efficitur. Mauris a dui eu arcu
+      finibus sodales ultricies id felis. Integer dapibus tempus lorem, id
+      placerat eros. "
+    title: Lorem ipsum
+    type: img_third_left
+    img_title: Please type in a description of the image that would help the user when they hover the image
+  - type: divider
+    bg_color: white
+  - img: https://via.placeholder.com/350x350
+    aos: fade-up
+    cta_link: contact/
+    bg_color: white
+    img_alt: Please type in a description of the image for the search engine or
+      visually impaired people
+    cta: Call To Action
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a
+      fermentum diam, vitae pretium diam. Nam in diam egestas, lacinia urna in,
+      ornare dui. Duis at sapien cursus, tincidunt mi a, facilisis felis.
+      Maecenas accumsan sem ut enim fermentum efficitur. Mauris a dui eu arcu
+      finibus sodales ultricies id felis. Integer dapibus tempus lorem, id
+      placerat eros. "
+    title: Lorem ipsum
+    type: img_third_right
+    img_title: Please type in a description of the image that would help the user when they hover the image
+  - type: divider
+    bg_color: white
+  - img: https://via.placeholder.com/350x350
+    aos: fade-up
+    cta_link: contact/
+    bg_color: white
+    img_alt: Please type in a description of the image for the search engine or
+      visually impaired people
+    cta: Call To Action
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a
+      fermentum diam, vitae pretium diam. Nam in diam egestas, lacinia urna in,
+      ornare dui. Duis at sapien cursus, tincidunt mi a, facilisis felis.
+      Maecenas accumsan sem ut enim fermentum efficitur. Mauris a dui eu arcu
+      finibus sodales ultricies id felis. Integer dapibus tempus lorem, id
+      placerat eros. "
+    title: Lorem ipsum
+    type: img_third_left
+    img_title: Please type in a description of the image that would help the user when they hover the image
+  - type: divider
+    bg_color: white
+  - type: cta
+    bg_color: primary
+    title: We're Here To Help. Reach Out With Any Questions.
+    cta: Contact Us Today
+    cta_link: contact/
 ---
