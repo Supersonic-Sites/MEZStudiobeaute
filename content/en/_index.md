@@ -23,14 +23,68 @@ components:
     align: center
     id: none
     bg_color: white
-    title: Lorem ipsum dolor sit amet,
+    title: Our Process
     title_size: small
     desc_select: true
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a
-      fermentum diam, vitae pretium diam. Nam in diam egestas, lacinia urna in,
-      ornare dui. Duis at sapien cursus, tincidunt mi a, facilisis felis.
+    desc: We want to make the design process easy, interesting, and engaging for
+      you. After all, it’s YOUR creation. We’re just lucky that we get to walk
+      this journey with you.
   - type: divider_half
     bg_color: white
+  - type: cards_fourth_text
+    bg_color: white
+    cards:
+      - divider_select: true
+        title_select: true
+        subtitle_select: false
+        aos: flip-up
+        title_size: small
+        cta_link: "#"
+        cta: "#"
+        aos_select: true
+        subtitle: "#"
+        title: "Step 1: TALK"
+        title_color: black
+        description: Tell us your vision. We're here to listen and make it happen.
+        divider_color: primary
+      - divider_select: true
+        title_select: true
+        aos: flip-up
+        title_size: small
+        cta_link: "#"
+        cta: "#"
+        aos_select: true
+        subtitle: "#"
+        title: "Step 2: THINK"
+        shadow_select: false
+        title_color: black
+        description: How long would it take? How much maintenance does it need? Let's
+          get all things considered.
+        divider_color: primary
+      - divider_select: true
+        title_select: true
+        aos: flip-up
+        title_size: small
+        cta_link: "#"
+        cta: "#"
+        subtitle: "#"
+        title: "Step 3: MAKE"
+        title_color: black
+        description: Not completely satisfied? We'll modify it until you are.
+        divider_color: primary
+      - divider_select: true
+        title_select: true
+        aos: flip-up
+        title_size: small
+        cta_link: "#"
+        cta: "#"
+        aos_select: true
+        subtitle: "#"
+        title: "Step 4: ENJOY"
+        title_color: black
+        description: With the details finalized, we then make your project a brilliant
+          reality.
+        divider_color: primary
   - type: cards_third_img
     bg_color: white
     cards:

@@ -23,7 +23,7 @@
                     {{ end }}
 
                     {{ if eq .title_size "small" }}
-                    <h2 class="font-bold text-center text-{{ .title_color }} text-3xl lg:text-4xl mb-6">{{ .title }}</h2>
+                    <h2 class="font-bold text-center text-{{ .title_color }} text-3xl mb-6">{{ .title }}</h2>
                     {{ end }}
 
                     {{ end }}
@@ -36,8 +36,8 @@
                     <div class="w-1/2 mb-8 border-b-4 border-{{ .divider_color }}"></div>
                     {{ end }}
 
-                    <p class="text-center mb-6 md:mb-8 md:text-xl">
-                        {{ .desc }}
+                    <p class="text-center mb-6 md:mb-8">
+                        {{ .description }}
                     </p>
                     {{ if .cta_select }}
                     <a href="{{ .Site.BaseURL}}{{ .cta_link }}"
