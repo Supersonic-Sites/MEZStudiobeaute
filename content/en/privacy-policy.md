@@ -1,8 +1,8 @@
 ---
 title: Privacy Policy
 description: We care about your privacy. Read more about our policy here.
-companyname: Supersonic Sites
-companyemail: hello@supersonicsites.com
+companyname: MEZCollection & Studio Beauté
+companyemail: info@mezcollections.com
 layout: privacy_policy
 ---
 
