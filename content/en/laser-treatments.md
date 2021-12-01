@@ -44,8 +44,28 @@ components:
     type: img_half_right_toggle
   - type: divider2x
     bg_color: white
+  - type: faq_third
+    title: Frequently asked questions
+    desc: Can’t find the answer you’re looking for? Reach out to our
+    cta: customer support.
+    cta_link: contact/
+    faqs:
+      - question: How to you make holy water?
+        answer: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - question: How to you make holy water?
+        answer: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - question: How to you make holy water?
+        answer: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - question: How to you make holy water?
+        answer: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
+  - type: divider
+    bg_color: white
   - type: heading_full
-    align: center
+    align: left
     id: none
     bg_color: white
     title: Testimonials

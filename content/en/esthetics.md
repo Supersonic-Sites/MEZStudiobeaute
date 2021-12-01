@@ -1,5 +1,5 @@
 ---
-title: ESthetics
+title: Esthetics
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
   aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
   aliquam at ut neque.
@@ -57,7 +57,6 @@ components:
         img_title: Please type in a description of the image that would help the user
           when they hover the image
         description: "#"
-
   - type: divider
     bg_color: white
   - img: https://via.placeholder.com/300.png
@@ -93,8 +92,28 @@ components:
     type: img_half_right_toggle
   - type: divider2x
     bg_color: white
+  - type: faq_third
+    title: Frequently asked questions
+    desc: Can’t find the answer you’re looking for? Reach out to our
+    cta: customer support.
+    cta_link: contact/
+    faqs:
+      - question: How to you make holy water?
+        answer: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - question: How to you make holy water?
+        answer: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - question: How to you make holy water?
+        answer: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - question: How to you make holy water?
+        answer: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
+  - type: divider
+    bg_color: white
   - type: heading_full
-    align: center
+    align: left
     id: none
     bg_color: white
     title: Testimonials
