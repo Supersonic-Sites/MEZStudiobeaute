@@ -29,7 +29,7 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: [
-          '"Open Sans"',
+          '"Playfair Display"',
           'system-ui',
           '-apple-system',
           'BlinkMacSystemFont',
@@ -46,8 +46,8 @@ module.exports = {
         ],
       },
       colors: {
-        'primary': '#000000',
-        'ocre': '#d7d6cd',
+        'primary': '#A9110C',
+        'ocre': '#C6CACC',
         'lila': '#c2b3dc',
         'verde': '#d6e2ba',
         

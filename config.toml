@@ -1,6 +1,4 @@
 baseURL = "/"
-title = "Supersonic"
-description = "Lorem Ipsum"
 languageCode = "en-ca"
 DefaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
@@ -14,77 +12,147 @@ priority = 0.5
 writeStats = true
 enableRobotsTXT = true
 
-[menu]
+[languages]
 
-[[menu.main]]
+[languages.en]
+title = "MEZ Salon Beauté"
+languageCode = "en"
+contentDir = "content/en"
+
+[languages.en.params]
+description = "At MEZ Studio Beauté we take care of our clients from full glam makeup, hairdressing, esthetics, laser treatments and much more."
+
+[[languages.en.params.hours]]
+hours = "Tue - Wed: 10AM to 5PM"
+
+[[languages.en.params.hours]]
+hours = "Thu - Fri: 10AM to 7PM"
+
+[[languages.en.params.hours]]
+hours = "Sat: 10AM to 5PM"
+
+[[languages.en.params.hours]]
+hours = "Sun - Mon: CLOSED"
+
+
+[languages.en.menu]
+
+[[languages.en.menu.main]]
 name = "Home"
 url = "/"
 weight = "1"
 
-[[menu.main]]
+[[languages.en.menu.main]]
 name = "About"
 url = "about/"
 weight = "2"
 
-[[menu.main]]
-name = "Gallery"
-url = "gallery/"
+[[languages.en.menu.main]]
+name = "Services"
+url = "Services/"
 weight = "3"
 
-[[menu.main]]
-name = "Services"
-url = "services/"
+[[languages.en.menu.main]]
+name = "Gallery"
+url = "gallery/"
 weight = "4"
 
-[[menu.main]]
+[[languages.en.menu.main]]
 name = "Contact"
 url = "contact/"
 weight = "5"
 
-[[menu.main]]
+[[languages.en.menu.main]]
 name = "Appointment"
-url = "/"
+url = "appointment/"
 weight = "6"
+
+[languages.fr]
+title = "MEZ Salon Beauté"
+languageCode = "fr"
+contentDir = "content/fr"
+
+[languages.fr.params]
+description = "Chez MEZ Studio Beauté, nous prenons soin de nos clients. Du maquillage glamour, à la coiffure, au services d'esthétique jusqu'aux traitements au laser."
+
+[[languages.fr.params.hours]]
+hours = "Mar - Mer: 10AM to 5PM"
+
+[[languages.fr.params.hours]]
+hours = "Jeu - Ven: 10AM to 7PM"
+
+[[languages.fr.params.hours]]
+hours = "Sam: 10AM to 5PM"
+
+[[languages.fr.params.hours]]
+hours = "Dim - Lun: CLOSED"
+
+[languages.fr.menu]
+
+[[languages.fr.menu.main]]
+name = "Accueil"
+url = "/"
+weight = 1
+
+[[languages.fr.menu.main]]
+name = "À Propos"
+url = "a-propos/"
+weight = 2
+
+[[languages.fr.menu.main]]
+name = "Services"
+url = "services/"
+weight = 3
+
+[[languages.fr.menu.main]]
+name = "Galerry"
+url = "gallerie/"
+weight = 4
+
+[[languages.fr.menu.main]]
+name = "Contact"
+url = "Contact/"
+weight = 5
+
+[[languages.fr.menu.main]]
+name = "Rendez-vous"
+url = "rendez-vous/"
+weight = 6
 
 [params]
 gtm = "GTM-5VXFQZQ"
-servicename = "WebDesign"
-googlemap = "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10486.075597019064!2d-125.5296457!3d48.9245577!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x231041e6ea05c1b5!2sSteam%20Train%20Creative!5e0!3m2!1sen!2sca!4v1626282835512!5m2!1sen!2sca"
-sitename = "Supersonic Template"
-usebasin = "#"
-videoOn = false
-description = "Lorem ipsum"
+servicename = "MEZ Studio Beauté"
+googlemap = "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11202.390957426735!2d-73.4886857!3d45.4174507!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x888d6800409c8301!2sMEZ%20Collections%20%26%20Studio%20Beaut%C3%A9!5e0!3m2!1sen!2sca!4v1638380362193!5m2!1sen!2sca"
+sitename = "MEZ Studio Beauté"
+usebasin = "https://usebasin.com/f/401e546f4819"
+videoOn = true
 
 [params.schema]
-ogimage = "/img/supersonicsites-logo-final-750x450-1.png"
-logofooter = "/img/supersonicsites-logo-final-750x450-1.png"
-city = "Vancouver"
-logo = "/img/supersonicsites-1.png"
+ogimage = "https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/6e0b4d2f-7fb4-47cb-1d0a-26175a14bd00/public"
+logofooter = "https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/65bf3e39-ff39-44af-b350-699b7ac42500/7by5logo"
+city = "La Prairie"
+logo = "https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/65bf3e39-ff39-44af-b350-699b7ac42500/7by5logo"
 reservation = true
-phone = "+1-888-321-BOOM"
+phone = "+1-450-619-1600"
 priceRange = "$$$"
-region = "BC"
+region = "QC"
 country = "Canada"
-postalcode = "V5V 3N5"
-type = "WebDesign"
-openinghour = "Mo-Sa: 10-6"
-email = "hello@supersonicsites.com"
-address1 = "3622 Main Street"
-address2 = "#"
+postalcode = "J5R 0H6"
+type = "BeautySalon"
+openinghour = "#"
+email = "info@mezcollections.com"
+address1 = "170 Taschereau Blvd"
+address2 = "Suite 107"
 address_toggle = true
 
 [params.social]
-facebook = "#"
+facebook = "https://www.facebook.com/mezcollectionsetstudiobeaute/"
 twitter = "#"
 pinterest = "#"
-instagram = "/"
+instagram = "https://www.instagram.com/mez_studiobeaute"
 linkedin = "#"
 
-[[params.hours]]
-hours = "Mon to Sat: 10AM to 6PM"
 
-[[params.hours]]
-hours = "Sun: CLOSED"
 
 [module]
 

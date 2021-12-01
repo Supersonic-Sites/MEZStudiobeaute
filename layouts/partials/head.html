@@ -9,10 +9,10 @@
 <meta name="application-name" content="{{ .Title }} | {{ .Site.Title }}" />
 <meta property="og:site_name" content="{{ .Site.Params.sitename }}" />
 
-<meta name="description" content="{{ .Params.description }}" />
-<meta itemprop="description" content="{{ .Params.description }}" />
-<meta property="og:description" content="{{ .Params.description }}" />
-<meta name="twitter:description" content="{{ .Params.description }}" />
+<meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
+<meta itemprop="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
+<meta property="og:description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
+<meta name="twitter:description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
 
 <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ .Site.BaseURL }}sitemap.xml" />
 
@@ -56,23 +56,53 @@
 
 <script type="application/ld+json">
     {
-        "@context": "http://schema.org/",
-        "@type": "{{ .Site.Params.schema.type }}",
-            "name":"{{ .Site.Params.sitename }}",
-            "telephone":"{{ $.Site.Params.schema.phone }}",
-            "description":"{{ .Site.Params.description }}",
-            "image":"{{ .Site.Params.schema.ogimage }}",
-            "address" : {
-                "@type": "PostalAddress",
-                "addressLocality": "{{ $.Site.Params.schema.city }}",
-                "addressRegion": "{{ $.Site.Params.schema.region }}",
-                "postalCode": "{{ $.Site.Params.schema.postalcode }}",
-                "streetAddress": "{{ $.Site.Params.schema.address }}, {{ $.Site.Params.schema.address2 }}" 
-            },
-            "priceRange": "{{ $.Site.Params.schema.priceRange }}",
-            "url":"{{.Site.BaseURL}}",
-            "openingHours": [
-            "{{ $.Site.Params.schema.openinghour }}"],
-            "potentialAction":"Schedule Appointment",
+      "@context": "https://schema.org",
+      "@type": "BeautySalon",
+      "name": "MEZ Salon Beauté",
+      "image": "https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/6e0b4d2f-7fb4-47cb-1d0a-26175a14bd00/public",
+      "@id": "",
+      "url": "https://www.mezbeautysalon.com",
+      "telephone": "1-450-619-1600",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "170 Taschereau Blvd, Suite 107",
+        "addressLocality": "La Prairie",
+        "postalCode": "J5R 0H6",
+        "addressCountry": "Canada",
+        "addressRegion": "Qc"
+      },
+      "priceRange": "$$$",
+      "sameAs": [
+        "https://www.facebook.com/mezcollectionsetstudiobeaute/",
+        "https://www.instagram.com/mez_studiobeaute"
+      ],
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Tuesday",
+            "Wednesday"
+          ],
+          "opens": "10:00",
+          "closes": "17:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "10:00",
+          "closes": "19:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Saturday"
+          ],
+          "opens": "10:00",
+          "closes": "17:00"
+        }
+      ]
     }
     </script>
