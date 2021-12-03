@@ -26,9 +26,10 @@ components:
     title: Our Process
     title_size: small
     desc_select: true
-    desc: We want to make the design process easy, interesting, and engaging for
-      you. After all, it’s YOUR creation. We’re just lucky that we get to walk
-      this journey with you.
+    desc: "Are you looking for a fresh make-over you can easily maintain at home? At
+      MEZ Studio Beauté, our greatest satisfaction is to see you leave with a
+      smile. Enjoy complete beauty services at one single location. We always
+      offer free consultation before treatment. Ready for a transformation? "
   - type: divider_half
     bg_color: white
   - type: cards_fourth_text
