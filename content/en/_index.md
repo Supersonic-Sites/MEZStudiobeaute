@@ -9,7 +9,7 @@ components:
     img_alt: Please type in a description of the image for the search engine or
       visually impaired people
     cta: Our Services
-    desc: Hairdresser. Makeup artist. Esthetician. Laser Services
+    desc: Hairdresser. Makeup artist. Esthetician. Laser Services.
     cta2_link: https://mez-collections-and-studio-beaute.appointlet.com/
     title1: Become Your Most Beautiful
     cta2_select: true
@@ -55,11 +55,11 @@ components:
         cta: "#"
         aos_select: true
         subtitle: "#"
-        title: "Step 2: THINK"
+        title: "Step 2: CONSULT"
         shadow_select: false
         title_color: black
-        description: How long would it take? How much maintenance does it need? Let's
-          get all things considered.
+        description: "How long would it take? How much maintenance does it need? We give
+          you all the details upfront. "
         divider_color: primary
       - divider_select: true
         title_select: true
@@ -70,7 +70,8 @@ components:
         subtitle: "#"
         title: "Step 3: MAKE"
         title_color: black
-        description: Not completely satisfied? We'll modify it until you are.
+        description: We put our passion to work. Not completely satisfied? We'll modify
+          it until you are.
         divider_color: primary
       - divider_select: true
         title_select: true
@@ -82,8 +83,7 @@ components:
         subtitle: "#"
         title: "Step 4: ENJOY"
         title_color: black
-        description: With the details finalized, we then make your project a brilliant
-          reality.
+        description: "Return to the world refreshed and ready to show off your new look. "
         divider_color: primary
   - type: cards_third_img
     bg_color: white
