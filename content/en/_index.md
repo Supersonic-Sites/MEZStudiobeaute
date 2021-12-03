@@ -46,7 +46,8 @@ components:
         subtitle: "#"
         title: "Step 1: TALK"
         title_color: black
-        description: Tell us your vision. We're here to listen and make it happen.
+        description: What would you like to see when you leave? We're here to listen and
+          make it happen.
         divider_color: primary
       - divider_select: true
         title_select: true
