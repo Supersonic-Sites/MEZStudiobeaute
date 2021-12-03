@@ -181,19 +181,17 @@ components:
   - type: testimonial_half
     bg_color: white
     testimonials:
-      - name: Zahra
+      - name: Noor Akbari
         img: https://via.placeholder.com/150x150
         img_alt: Please type in a description of the image for the search engine or
           visually impaired people
         img_title: Please type in a description of the image that would help the user
           when they hover the image
         position: CEO at Tulip.com
-        desc: I have honestly never seen any business who is as accommodating as this
-          business. MEZ is very kind, patient and helpful. I chose a design for
-          a traditional dress. She made it from very good quality fabrics and I
-          still can't get over how beautiful the dress turned out. Always will
-          be getting dresses and jewelries from MEZ collections. She has the
-          best collection in Canada. 100% recommended.
+        desc: Always a great experience when dealing with the owner. She will always
+          find a way to accommodate you as a customer and has an amazing variety
+          of cultural products, jewelry, and professional beauty services. Do
+          not hesitate to go see her.
         image_toggle: true
       - name: "Samira Jamil "
         img: https://via.placeholder.com/150x150
@@ -203,10 +201,10 @@ components:
           when they hover the image
         position: CEO at Tulip.com
         desc: Mariam is one of a kind. She welcomes you like you are family; I admire
-          her a lot. She’s a hardworking women and we can see she loves what
+          her a lot. She’s a hardworking woman and we can see she loves what
           she’s doing. Her talent is immaculate (honestly everything she does,
           she’s good at it... like HOW?) I've gone there for an Afghan dress,
-          Indian dress, wedding hairstyles, eyebrows threading, eyelashes
+          Indian dress, wedding hairstyles, eyebrow threading, eyelash
           extensions and much more, and every time she killed it. Mariam jan, if
           you see this, I hope you will continue what you’re doing for ever!!
           Can’t wait for my next visit at your store.
@@ -223,17 +221,19 @@ components:
           and hairstyles, colour, and waxing. We don’t need to go any other
           places; she can do it all at once.
         image_toggle: true
-      - name: Noor Akbari
+      - name: Zahra
         img: https://via.placeholder.com/150x150
         img_alt: Please type in a description of the image for the search engine or
           visually impaired people
         img_title: Please type in a description of the image that would help the user
           when they hover the image
         position: CEO at Tulip.com
-        desc: Always a great experience when dealing with the owner. She will always
-          find a way to accommodate you as a customer and has an amazing variety
-          of cultural products, jewelry, and professional beauty services. Do
-          not hesitate to go see her.
+        desc: I have honestly never seen any business who is as accommodating as this
+          business. MEZ is very kind, patient and helpful. I chose a design for
+          a traditional dress. She made it from very good quality fabrics and I
+          still can't get over how beautiful the dress turned out. Always will
+          be getting dresses and jewelries from MEZ collections. She has the
+          best collection in Canada. 100% recommended.
         image_toggle: true
   - type: divider_half
     bg_color: white
