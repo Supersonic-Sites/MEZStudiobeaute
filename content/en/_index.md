@@ -55,11 +55,11 @@ components:
         cta: "#"
         aos_select: true
         subtitle: "#"
-        title: "Step 2: CONSULT"
+        title: "Step 2: THINK"
         shadow_select: false
         title_color: black
-        description: "How long would it take? How much maintenance does it need? We give
-          you all the details upfront. "
+        description: "How long will it take? Will it need much maintenance? We give you
+          all the details upfront. "
         divider_color: primary
       - divider_select: true
         title_select: true
