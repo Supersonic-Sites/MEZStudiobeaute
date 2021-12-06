@@ -16,54 +16,54 @@ components:
     service_list:
       - service: Hair Styling
         desc: |-
-          Short Hair - $35+<br><br>
-          Medium Hair - $40+<br><br>
-          Long Hair - $45+
+          Short Hair<br><br>
+          Medium Hair<br><br>
+          Long Hair
       - service: Combo - Colo, Cut, Roots, MEP
         desc: |-
-          Short Hair - $60+<br><br>
-          Medium Hair - $70+<br><br>
-          Long Hair - $80+
+          Short Hair<br><br>
+          Medium Hair<br><br>
+          Long Hair
       - service: Root Tincture
         desc: |-
-          Short Hair - $45+<br><br>
-          Medium Hair - $55+<br><br>
-          Long Hair - $65+<br><br>
+          Short Hair<br><br>
+          Medium Hair<br><br>
+          Long Hair<br><br>
           (Extra $10 for each strand)
       - service: Highlights
         desc: |-
-          Each strand - $6+<br><br>
-          Half head - $50+
+          Individual strand<br><br>
+          Half head
       - service: Highlights Full Head
         desc: |
-          Short Hair - $65+<br><br>
-          Medium Hair - $80+<br><br>
-          Long Hair - $120+<br><br>
-          Bonnet Highlights - $110+<br><br>
-          Balayage - $99+<br><br>
-          Ombré - $99+
+          Short Hair<br><br>
+          Medium Hair<br><br>
+          Long Hair<br><br>
+          Bonnet Highlights<br><br>
+          Balayage<br><br>
+          Ombré
       - service: "Permanent "
         desc: |-
-          Short Hair - $99+<br><br>
-          Medium Hair - $120+<br><br>
-          Long Hair - $150+
+          Short Hair<br><br>
+          Medium Hair<br><br>
+          Long Hair
       - service: Treatments
         desc: |-
-          Capilar Treatment - $30+<br><br>
-          Keratin Treatment - $80/hr
+          Capilar Treatment<br><br>
+          Keratin Treatment
       - service: "Extensions "
-        desc: $120+ (Consultation rest equis)
+        desc: (Consultation rest equis)
     cta_link: https://mez-collections-and-studio-beaute.appointlet.com/
     bg_color: white
     cta_select: true
     img_alt: makeup application
     cta: See Pricing
     desc: |
-      Short Hair - $20+<br><br>
-      Medium Hair - $25+<br><br>
-      Long Hair - $25+<br><br>
-      Children 0-12 - $14+<br><br>
-      Children 13-18 - $18+
+      Short Hair<br><br>
+      Medium Hair<br><br>
+      Long Hair<br><br>
+      Children 0-12<br><br>
+      Children 13-18 
     service: Cuts
     aos_select: true
     title: Hairdressing
@@ -100,29 +100,25 @@ components:
   - type: testimonial_half
     bg_color: white
     testimonials:
-      - name: Erica Bailey
+      - name: Zarmina Karimi
         img: https://via.placeholder.com/150x150
         img_alt: Please type in a description of the image for the search engine or
           visually impaired people
         img_title: Please type in a description of the image that would help the user
           when they hover the image
         position: CEO at Tulip.com
-        desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a
-          fermentum diam, vitae pretium diam. Nam in diam egestas, lacinia urna
-          in, ornare dui. Duis at sapien cursus, tincidunt mi a, facilisis
-          felis.
+        desc: It's a great place. Everything in one place from getting groomed and
+          pampered to jewelry and fashion clothes!
         image_toggle: true
-      - name: Erica Bailey
+      - name: Patrycja Zarzecki
         img: https://via.placeholder.com/150x150
         img_alt: Please type in a description of the image for the search engine or
           visually impaired people
         img_title: Please type in a description of the image that would help the user
           when they hover the image
         position: CEO at Tulip.com
-        desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a
-          fermentum diam, vitae pretium diam. Nam in diam egestas, lacinia urna
-          in, ornare dui. Duis at sapien cursus, tincidunt mi a, facilisis
-          felis.
+        desc: Love this place! The best in the area hands down! I am always satisfied
+          with all the services I get done here!
         image_toggle: true
   - type: cta
     bg_color: primary
