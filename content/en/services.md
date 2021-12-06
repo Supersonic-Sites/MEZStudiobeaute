@@ -59,14 +59,11 @@ components:
     img_alt: Please type in a description of the image for the search engine or
       visually impaired people
     cta: Browse Our Services
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a
-      fermentum diam, vitae pretium diam. Nam in diam egestas, lacinia urna in,
-      ornare dui. Duis at sapien cursus, tincidunt mi a, facilisis felis.
-      Maecenas accumsan sem ut enim fermentum efficitur. Mauris a dui eu arcu
-      finibus sodales ultricies id felis. Integer dapibus tempus lorem, id
-      placerat eros. Nunc pellentesque metus nulla, ac elementum purus dapibus
-      eu. Donec eu tincidunt ante. Vivamus fringilla dui et ex porta pharetra.
-      Integer non arcu turpis.
+    desc: "Get rid of unwanted hair anywhere and everywhere with our precise laser
+      treatments. From full facial treatments, to back, chest, bikini, arms, and
+      legs, we've got you covered. Our team of certified professionals are here
+      to answer any questions and of course, offer a free consultation before
+      the treatment. "
     aos_select: true
     title: Laser Treatments
     type: img_third_left
