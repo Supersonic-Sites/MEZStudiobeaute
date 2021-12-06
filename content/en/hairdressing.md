@@ -14,33 +14,59 @@ components:
   - img: https://via.placeholder.com/300.png
     aos: fade
     service_list:
-      - service: Prom Makeup
-        desc: If you are looking for a calming, cheerful personality, and efficient,
-          high-quality makeup application, I am the MUA for your special day. My
-          goal is to set a relaxing mood, and make you feel and look like a
-          queen.
-      - service: Graduation Makeup
-        desc: If you are looking for a calming, cheerful personality, and efficient,
-          high-quality makeup application, I am the MUA for your special day.
-          You will look like the sophisticated, successful woman that you are.
-          Congratulations. Let's do this!
-      - service: Special Events
-        desc: "If you are looking for a calming, cheerful personality, and efficient,
-          high-quality makeup application, I am the MUA for your special day. "
+      - service: Hair Styling
+        desc: |-
+          Short Hair - $35+
+          Medium Hair - $40+
+          Long Hair - $45+
+      - service: Combo - Colo, Cut, Roots, MEP
+        desc: |-
+          Short Hair - $60+
+          Medium Hair - $70+
+          Long Hair - $80+
+      - service: Root Tincture
+        desc: |-
+          Short Hair - $45+
+          Medium Hair - $55+
+          Long Hair - $65+
+          (Extra $10 for each strand)
+      - service: Highlights
+        desc: |-
+          Each lock - $6+
+          Half head - $50+
+      - service: Highlights Full Head
+        desc: |
+          Short Hair - $65+
+          Medium Hair - $80+
+          Long Hair - $120+
+          Bonnet Highlights - $110+
+          Balayage - $99+
+          Ombré - $99+
+      - service: "Permanent "
+        desc: |-
+          Short Hair - $99+
+          Medium Hair - $120+
+          Long Hair - $150+
+      - service: Treatments
+        desc: |-
+          Capilar Treatment - $30+
+          Keratin Treatment - $80/hr
+      - service: "Extensions "
+        desc: $120+ (Consultation rest equis)
     cta_link: https://mez-collections-and-studio-beaute.appointlet.com/
     bg_color: white
     cta_select: true
     img_alt: makeup application
     cta: See Pricing
-    desc: >-
-      My goal is to set a certain mood of relaxation, building confidence for
-      the bride, and a joyful atmosphere of anticipation for the big day. Cheers
-      to you! <br><br>
-
-      I offer makeup applications for the bride as well as for bridesmaids and the mother-of-the-bride.
-    service: Wedding Makeup
+    desc: |
+      Short Hair - $20+
+      Medium Hair - $25+
+      Long Hair - $25+
+      Children 0-12 - $14+
+      Children 13-18 - $18+
+    service: Cuts
     aos_select: true
-    title: Makeup
+    title: Hairdressing
     type: img_half_right_toggle
   - type: divider2x
     bg_color: white
