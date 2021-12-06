@@ -16,40 +16,40 @@ components:
     service_list:
       - service: Hair Styling
         desc: |-
-          Short Hair - $35+
-          Medium Hair - $40+
+          Short Hair - $35+<br><br>
+          Medium Hair - $40+<br><br>
           Long Hair - $45+
       - service: Combo - Colo, Cut, Roots, MEP
         desc: |-
-          Short Hair - $60+
-          Medium Hair - $70+
+          Short Hair - $60+<br><br>
+          Medium Hair - $70+<br><br>
           Long Hair - $80+
       - service: Root Tincture
         desc: |-
-          Short Hair - $45+
-          Medium Hair - $55+
-          Long Hair - $65+
+          Short Hair - $45+<br><br>
+          Medium Hair - $55+<br><br>
+          Long Hair - $65+<br><br>
           (Extra $10 for each strand)
       - service: Highlights
         desc: |-
-          Each lock - $6+
+          Each strand - $6+<br><br>
           Half head - $50+
       - service: Highlights Full Head
         desc: |
-          Short Hair - $65+
-          Medium Hair - $80+
-          Long Hair - $120+
-          Bonnet Highlights - $110+
-          Balayage - $99+
+          Short Hair - $65+<br><br>
+          Medium Hair - $80+<br><br>
+          Long Hair - $120+<br><br>
+          Bonnet Highlights - $110+<br><br>
+          Balayage - $99+<br><br>
           Ombré - $99+
       - service: "Permanent "
         desc: |-
-          Short Hair - $99+
-          Medium Hair - $120+
+          Short Hair - $99+<br><br>
+          Medium Hair - $120+<br><br>
           Long Hair - $150+
       - service: Treatments
         desc: |-
-          Capilar Treatment - $30+
+          Capilar Treatment - $30+<br><br>
           Keratin Treatment - $80/hr
       - service: "Extensions "
         desc: $120+ (Consultation rest equis)
@@ -59,10 +59,10 @@ components:
     img_alt: makeup application
     cta: See Pricing
     desc: |
-      Short Hair - $20+
-      Medium Hair - $25+
-      Long Hair - $25+
-      Children 0-12 - $14+
+      Short Hair - $20+<br><br>
+      Medium Hair - $25+<br><br>
+      Long Hair - $25+<br><br>
+      Children 0-12 - $14+<br><br>
       Children 13-18 - $18+
     service: Cuts
     aos_select: true
