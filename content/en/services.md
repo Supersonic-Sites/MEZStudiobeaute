@@ -18,14 +18,12 @@ components:
     img_alt: Please type in a description of the image for the search engine or
       visually impaired people
     cta: Browse Our Services
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a
-      fermentum diam, vitae pretium diam. Nam in diam egestas, lacinia urna in,
-      ornare dui. Duis at sapien cursus, tincidunt mi a, facilisis felis.
-      Maecenas accumsan sem ut enim fermentum efficitur. Mauris a dui eu arcu
-      finibus sodales ultricies id felis. Integer dapibus tempus lorem, id
-      placerat eros. Nunc pellentesque metus nulla, ac elementum purus dapibus
-      eu. Donec eu tincidunt ante. Vivamus fringilla dui et ex porta pharetra.
-      Integer non arcu turpis.
+    desc: "Whether you're looking for a bold new look, a root touchup, a maintenance
+      cut, a professional up-do for a special event, hair extensions, or a
+      specific hair treatment, we are here for you. We offer hair services for
+      both children and adults. You'll always receive free consultation before
+      any service. We value honesty above all - that's why you'll never get a
+      surprise extra cost at the cash. "
     aos_select: true
     title: Hairdressing
     type: img_third_left
@@ -41,16 +39,13 @@ components:
     img_alt: Please type in a description of the image for the search engine or
       visually impaired people
     cta: Browse Our Services
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a
-      fermentum diam, vitae pretium diam. Nam in diam egestas, lacinia urna in,
-      ornare dui. Duis at sapien cursus, tincidunt mi a, facilisis felis.
-      Maecenas accumsan sem ut enim fermentum efficitur. Mauris a dui eu arcu
-      finibus sodales ultricies id felis. Integer dapibus tempus lorem, id
-      placerat eros. Nunc pellentesque metus nulla, ac elementum purus dapibus
-      eu. Donec eu tincidunt ante. Vivamus fringilla dui et ex porta pharetra.
-      Integer non arcu turpis.
+    desc: "Our fully certified estheticians offer professional facials, skin care
+      treatments, manicures, and pedicures. Looking for hair removal?
+      Microblading services? Eyelash extensions? Stunning professional make-up
+      application? You name it, we can do it, all at one location for your
+      utmost convenience. "
     aos_select: true
-    title: Esthetic services
+    title: Esthetic Services
     type: img_third_left
     img_title: Please type in a description of the image that would help the user
       when they hover the image
