@@ -101,10 +101,9 @@ components:
         title: Hairdressing
         img_title: Please type in a description of the image that would help the user
           when they hover the image
-        description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a
-          fermentum diam, vitae pretium diam. Nam in diam egestas, lacinia urna
-          in, ornare dui. Duis at sapien cursus, tincidunt mi a, facilisis
-          felis.
+        description: "Whether you're looking for a cut, colouring, root treatment,
+          keratin treatment, or extensions, our talented stylists have got you
+          covered. "
       - img: https://via.placeholder.com/600x400
         aos: fade
         cta_link: services/esthetics
@@ -116,10 +115,9 @@ components:
         title: Esthetics
         img_title: Please type in a description of the image that would help the user
           when they hover the image
-        description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a
-          fermentum diam, vitae pretium diam. Nam in diam egestas, lacinia urna
-          in, ornare dui. Duis at sapien cursus, tincidunt mi a, facilisis
-          felis.
+        description: "Our dedicated estheticians offer a variety of relaxing facial,
+          nail, and eyelash treatments, microblading, hair removal services, and
+          stunning make-up applications for any event. "
       - img: https://via.placeholder.com/600x400
         aos: fade
         cta_link: services/laser-treatments
@@ -131,10 +129,8 @@ components:
         title: Laser Treatments
         img_title: Please type in a description of the image that would help the user
           when they hover the image
-        description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a
-          fermentum diam, vitae pretium diam. Nam in diam egestas, lacinia urna
-          in, ornare dui. Duis at sapien cursus, tincidunt mi a, facilisis
-          felis.
+        description: "Enjoy more precise hair removal from your head to your feet with
+          our efficient laser treatments. "
   - type: divider
     bg_color: white
   - type: gallery
