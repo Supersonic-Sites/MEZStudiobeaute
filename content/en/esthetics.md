@@ -8,7 +8,7 @@ components:
   - type: header_sub
     bg_color: primary
     img: /img/banner.jpg
-    title: Hair Dressing
+    title: "Esthetics "
   - type: divider_half
     bg_color: white
   - type: heading_full
@@ -18,9 +18,8 @@ components:
     title: Our Certifications
     title_size: small
     desc_select: true
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a
-      fermentum diam, vitae pretium diam. Nam in diam egestas, lacinia urna in,
-      ornare dui. Duis at sapien cursus, tincidunt mi a, facilisis felis.
+    desc: We are pleased to offer a wide variety of fully certified esthetic
+      services.
   - type: cards_fourth_img
     bg_color: white
     cards:
@@ -62,11 +61,8 @@ components:
   - img: https://via.placeholder.com/300.png
     aos: fade
     service_list:
-      - service: Prom Makeup
-        desc: If you are looking for a calming, cheerful personality, and efficient,
-          high-quality makeup application, I am the MUA for your special day. My
-          goal is to set a relaxing mood, and make you feel and look like a
-          queen.
+      - service: Specific Care
+        desc: care
       - service: Graduation Makeup
         desc: If you are looking for a calming, cheerful personality, and efficient,
           high-quality makeup application, I am the MUA for your special day.
@@ -75,20 +71,42 @@ components:
       - service: Special Events
         desc: "If you are looking for a calming, cheerful personality, and efficient,
           high-quality makeup application, I am the MUA for your special day. "
+      - service: How to you make holy water?
+        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - service: How to you make holy water?
+        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - service: How to you make holy water?
+        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - service: How to you make holy water?
+        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - service: How to you make holy water?
+        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - service: How to you make holy water?
+        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - service: How to you make holy water?
+        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - service: How to you make holy water?
+        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
+      - service: How to you make holy water?
+        desc: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+          adipisicing elit. Quas cupiditate laboriosam fugiat.
     cta_link: https://mez-collections-and-studio-beaute.appointlet.com/
     bg_color: white
     cta_select: true
     img_alt: makeup application
     cta: See Pricing
-    desc: >-
-      My goal is to set a certain mood of relaxation, building confidence for
-      the bride, and a joyful atmosphere of anticipation for the big day. Cheers
-      to you! <br><br>
-
-      I offer makeup applications for the bride as well as for bridesmaids and the mother-of-the-bride.
-    service: Wedding Makeup
+    desc: Relax with our 60-minute signature facial
+    service: "Signature Facial "
     aos_select: true
-    title: Makeup
+    title: "Esthetics "
     type: img_half_right_toggle
   - type: divider2x
     bg_color: white
