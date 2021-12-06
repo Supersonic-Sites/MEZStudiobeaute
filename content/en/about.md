@@ -28,7 +28,7 @@ components:
         img_title: Please type in a description of the image that would help the user
           when they hover the image
         position: CEO at Tulip.com
-        desc: I go to Mez with my children for the hairdressing service and it's
+        desc: I go to MEZ with my children for the hairdressing service and it's
           impeccable. Hair removal is famous and very affordable. Diversified
           and personalized service. I recommend.
         image_toggle: true
@@ -39,18 +39,18 @@ components:
     img_alt: Please type in a description of the image for the search engine or
       visually impaired people
     cta: Call To Action
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a
-      fermentum diam, vitae pretium diam. Nam in diam egestas, lacinia urna in,
-      ornare dui. Duis at sapien cursus, tincidunt mi a, facilisis felis.
-      Maecenas accumsan sem ut enim fermentum efficitur. Mauris a dui eu arcu
-      finibus sodales ultricies id felis. Integer dapibus tempus lorem, id
-      placerat eros. Nunc pellentesque metus nulla, ac elementum purus dapibus
-      eu. Donec eu tincidunt ante. Vivamus fringilla dui et ex porta pharetra.
-      Integer non arcu turpis. Morbi elit massa, ornare nec enim nec, iaculis
-      laoreet lacus. Nullam tristique eros libero. Quisque faucibus efficitur
-      eros.<br><br>Vivamus fringilla dui et ex porta pharetra. Integer non arcu
-      turpis. Morbi elit massa, ornare nec enim nec, iaculis laoreet lacus.
-      Nullam tristique eros libero. Quisque faucibus efficitur eros.
+    desc: >-
+      Mariam has always had an eye for the artistic and the beautiful. With a
+      background in graphic design, her true passion lies in fashion and beauty
+      treatments. While attending a conference in India, she was introduced to a
+      stunning collection of Afghan garments. Inspired, she decided to open her
+      own boutique for Afghan fashion in Québec. From there, the dream only
+      grew. Mariam went on to complete hair dressing school, was certified as an
+      esthetician, and opened MEZ Studio Beauté, a fully certified, full service
+      salon, in January, 2017.<br><br>
+
+
+      Mariam is proud to own her own beauty salon and fashion boutique, named after her three beautiful daughters. She loves the work and it gives her great joy to see her clients leave with a smile. She is pleased to offer bilingual services to both French and English clients. 
     aos_select: true
     title: "A Passion For Beauty And Fashion "
     type: img_half_right
