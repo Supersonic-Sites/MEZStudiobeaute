@@ -115,9 +115,9 @@ components:
         title: Esthetics
         img_title: Please type in a description of the image that would help the user
           when they hover the image
-        description: "Our dedicated estheticians offer a variety of relaxing facial,
-          nail, and eyelash treatments, microblading, hair removal services, and
-          stunning make-up applications for any event. "
+        description: "Enjoy a variety of relaxing facial, nail, and eyelash treatments,
+          microblading, hair removal services, and stunning make-up applications
+          for any event. "
       - img: https://via.placeholder.com/600x400
         aos: fade
         cta_link: services/laser-treatments
@@ -129,8 +129,9 @@ components:
         title: Laser Treatments
         img_title: Please type in a description of the image that would help the user
           when they hover the image
-        description: "Enjoy more precise hair removal from your head to your feet with
-          our efficient laser treatments. "
+        description: "Our dedicated team offers more precise hair removal from your head
+          to your feet with our efficient laser treatments. We're happy to
+          answer any questions. "
   - type: divider
     bg_color: white
   - type: gallery
