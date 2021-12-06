@@ -52,7 +52,7 @@ components:
       turpis. Morbi elit massa, ornare nec enim nec, iaculis laoreet lacus.
       Nullam tristique eros libero. Quisque faucibus efficitur eros.
     aos_select: true
-    title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    title: "A Passion For Beauty And Fashion "
     type: img_half_right
     img_title: Please type in a description of the image that would help the user
       when they hover the image
@@ -70,7 +70,7 @@ components:
       Iran in 2014, she took French language courses before going to beauty
       school in 2016. After she graduated in 2018, she spent her internship at a
       salon on the south shore of Montreal before working for MEZ Studio
-      Beauté. 
+      Beauté.<br><br>
 
 
       Azadeh is very passionate about her work. She loves working with clients and offering practical tips on how to keep their skin looking young and healthy. She is known as the lady with “magic fingers” when she does facials. She is certified as a lashlift technician, lash extensions technician, micro-needling technician, and laser and electrolysis technician. 
