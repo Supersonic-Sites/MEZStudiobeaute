@@ -73,7 +73,7 @@ components:
       Beauté.<br><br>
 
 
-      Azadeh is very passionate about her work. She loves working with clients and offering practical tips on how to keep their skin looking young and healthy. She is known as the lady with “magic fingers” when she does facials. She is certified as a lashlift technician, lash extensions technician, micro-needling technician, and laser and electrolysis technician. 
+      Azadeh is passionate about her work. She loves working with clients and offering practical tips on how to keep their skin looking young and healthy. She is known as the lady with “magic fingers” when she does facials. She is certified as a lashlift technician, lash extensions technician, micro-needling technician, and laser and electrolysis technician. 
     title: "Azedeh - Esthetician "
     type: img_third_left
     img_title: Please type in a description of the image that would help the user
