@@ -214,9 +214,9 @@ components:
           when they hover the image
         position: CEO at Tulip.com
         desc: Best Afghan clothing store. Always a pleasure of ordering our Afghan
-          traditional dress. Good not only good in clothing but also in make up
-          and hairstyles, colour, and waxing. We don’t need to go any other
-          places; she can do it all at once.
+          traditional dress. Not only good in clothing but also in make up and
+          hairstyles, colour, and waxing. We don’t need to go any other places;
+          she can do it all at once.
         image_toggle: true
       - name: Zahra
         img: https://via.placeholder.com/150x150
