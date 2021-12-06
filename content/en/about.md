@@ -11,29 +11,26 @@ components:
   - type: testimonial_half
     bg_color: white
     testimonials:
-      - name: Erica Bailey
+      - name: Patrycja Zarzecki
         img: https://via.placeholder.com/150x150
         img_alt: Please type in a description of the image for the search engine or
           visually impaired people
         img_title: Please type in a description of the image that would help the user
           when they hover the image
         position: CEO at Tulip.com
-        desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a
-          fermentum diam, vitae pretium diam. Nam in diam egestas, lacinia urna
-          in, ornare dui. Duis at sapien cursus, tincidunt mi a, facilisis
-          felis.
+        desc: Love this place! The best in the area hands down! I am always satisfied
+          with all the services I get done here!
         image_toggle: true
-      - name: Erica Bailey
+      - name: Aline Falardeau
         img: https://via.placeholder.com/150x150
         img_alt: Please type in a description of the image for the search engine or
           visually impaired people
         img_title: Please type in a description of the image that would help the user
           when they hover the image
         position: CEO at Tulip.com
-        desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a
-          fermentum diam, vitae pretium diam. Nam in diam egestas, lacinia urna
-          in, ornare dui. Duis at sapien cursus, tincidunt mi a, facilisis
-          felis.
+        desc: I go to Mez with my children for the hairdressing service and it's
+          impeccable. Hair removal is famous and very affordable. Diversified
+          and personalized service. I recommend.
         image_toggle: true
   - img: https://via.placeholder.com/750x750.png
     aos: fade
@@ -76,7 +73,8 @@ components:
       placerat eros. "
     title: Lorem ipsum
     type: img_third_left
-    img_title: Please type in a description of the image that would help the user when they hover the image
+    img_title: Please type in a description of the image that would help the user
+      when they hover the image
   - type: divider
     bg_color: white
   - img: https://via.placeholder.com/350x350
@@ -94,7 +92,8 @@ components:
       placerat eros. "
     title: Lorem ipsum
     type: img_third_right
-    img_title: Please type in a description of the image that would help the user when they hover the image
+    img_title: Please type in a description of the image that would help the user
+      when they hover the image
   - type: divider
     bg_color: white
   - img: https://via.placeholder.com/350x350
@@ -112,7 +111,8 @@ components:
       placerat eros. "
     title: Lorem ipsum
     type: img_third_left
-    img_title: Please type in a description of the image that would help the user when they hover the image
+    img_title: Please type in a description of the image that would help the user
+      when they hover the image
   - type: divider
     bg_color: white
   - type: cta
