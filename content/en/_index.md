@@ -101,9 +101,9 @@ components:
         title: Hairdressing
         img_title: Please type in a description of the image that would help the user
           when they hover the image
-        description: "Whether you're looking for a cut, colouring, root treatment,
-          keratin treatment, or extensions, our talented stylists have got you
-          covered. "
+        description: "Whether you're looking for a fresh cut, bold colouring, root
+          treatment, keratin treatment, or extensions, our talented stylists
+          have got you covered. "
       - img: https://via.placeholder.com/600x400
         aos: fade
         cta_link: services/esthetics
