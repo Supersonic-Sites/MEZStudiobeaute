@@ -14,16 +14,110 @@ components:
   - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/787046c3-89b4-4eb2-f7c8-19cbe544fc00/Square400px
     aos: fade-in
     service_list:
-      - service: Hair Styling
-        desc: |-
-          Short Hair<br><br>
-          Medium Hair<br><br>
-          Long Hair
-      - service: Combo - Colo, Cut, Roots, MEP
-        desc: |-
-          Short Hair<br><br>
-          Medium Hair<br><br>
-          Long Hair
+      - service: Shampoo & Set / Cut Combo
+        desc: >-
+          <small class="mb-2">* A price adjustment will be applicable if the
+          hair is very thick and takes more time</small><br>
+
+
+          <div class="flex justify-between pb-4 border-b border-gray-100">
+
+          <span class="md:text-xl">Short Length Haircut</span>
+
+          <div class="text-base flex flex-col text-right">
+
+          <div class="md:px-2">1h</div>
+
+          <div class="md:px-2">$45</div>
+
+          </div>
+
+          </div>
+
+
+          <div class="flex justify-between py-4 border-b border-gray-100">
+
+          <span class="md:text-xl">Medium & Long Length Haircut</span>
+
+          <div class="text-base flex flex-col text-right">
+
+          <div class="md:px-2">1h30</div>
+
+          <div class="md:px-2">$55</div>
+
+          </div>
+
+          </div>
+
+
+          <div class="flex justify-between py-4 border-b border-gray-100">
+
+          <span class="md:text-xl">Short Length Haircut + Shampoo & Set</span>
+
+          <div class="text-base flex flex-col text-right">
+
+          <div class="md:px-2">1h20min</div>
+
+          <div class="md:px-2">$55</div>
+
+          </div>
+
+          </div>
+
+
+          <div class="flex justify-between py-4">
+
+          <span class="md:text-xl">Semi-Long & Long Haircut + Shampoo & Set</span>
+
+          <div class="text-base flex flex-col text-right">
+
+          <div class="md:px-2">1h30min</div>
+
+          <div class="md:px-2">$60</div>
+
+          </div>
+
+          </div>
+      - service: Combo - Coloration, Cut, Roots, MEP
+        desc: >+
+          <small class="mb-2">* A consultation is required for a complete head
+          dye. The price varies and the hairdresser will advise you in advance
+          of the final price.</small>
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-100">
+
+          <span class="md:text-xl">Full Hair Dye + Shampoo & Set</span>
+
+          <div class="text-base flex flex-col text-right">
+
+          <div class="md:px-2">1h30min</div>
+
+          <div class="md:px-2">$70</div>
+
+          </div>
+
+          </div>
+
+
+          <small class="">** For root coloration: If the root is longer than an inch, an additional fee will be charged. The hairdresser will advise you in advance of the final price.</small>
+
+
+          <div class="flex justify-between py-4 border-b border-gray-100">
+
+          <span class="md:text-xl">Root Hair Dye + Shampoo & Set</span>
+
+          <div class="text-base flex flex-col text-right">
+
+          <div class="md:px-2">1h30min</div>
+
+          <div class="md:px-2">$50</div>
+
+          </div>
+
+          </div>
+
+
+
       - service: Root Tincture
         desc: |-
           Short Hair<br><br>
@@ -56,46 +150,74 @@ components:
     cta_link: https://mez-collections-and-studio-beaute.appointlet.com/
     bg_color: white
     cta_select: true
-    img_alt: Haircut
+    img_alt: Hairdressing Services
     cta: See Pricing
     desc: >
-      <small class="mb-2">(A price adjustment will apply. If the hair is very
-      thick which takes more than an hour)</small><br><br>
+      <small class="mb-2">* A price adjustment will apply. If the hair is very
+      thick which takes more than an hour</small><br><br>
 
-      <div class="flex justify-between mb-2">
 
-      <span class="text-xl">Short Hair</span>
+      <div class="flex justify-between pb-4 border-b border-gray-100">
 
-      <span class="text-base">30min - 25 CAD</span>
+      <span class="md:text-xl">Short Length Haircut</span>
 
-      </div>
+      <div class="text-base flex flex-col text-right">
 
-      <div class="flex justify-between mb-2">
+      <div class="md:px-2">30min</div>
 
-      <span class="text-xl">Medium Hair</span>
-
-      <span class="text-base">40min - 35 CAD</span>
+      <div class="md:px-2">$25</div>
 
       </div>
 
-      <div class="flex justify-between mb-2">
+      </div>
 
-      <span class="text-xl">Children 0-12</span>
 
-      <span class="text-base">30min - 18 CAD</span>
+      <div class="flex justify-between py-4 border-b border-gray-100">
+
+      <span class="md:text-xl">Medium Length Haircut</span>
+
+      <div class="text-base flex flex-col text-right">
+
+      <div class="md:px-2">40min</div>
+
+      <div class="md:px-2">$35</div>
 
       </div>
 
-      <div class="flex justify-between mb-2">
+      </div>
 
-      <span class="text-xl">Children 13-18</span>
 
-      <span class="text-base">30min - 21 CAD</span>
+      <div class="flex justify-between py-4 border-b border-gray-100">
+
+      <span class="md:text-xl">Children 0-12</span>
+
+      <div class="text-base flex flex-col text-right">
+
+      <div class="md:px-2">30min</div>
+
+      <div class="md:px-2">$18</div>
+
+      </div>
+
+      </div>
+
+
+      <div class="flex justify-between py-4">
+
+      <span class="md:text-xl">Children 13-18</span>
+
+      <div class="text-base flex flex-col text-right">
+
+      <div class="md:px-2">30min</div>
+
+      <div class="md:px-2">$21</div>
+
+      </div>
 
       </div>
     service: Cuts
     aos_select: true
-    title: Haircut
+    title: Services
     type: img_half_right_toggle
   - type: divider2x
     bg_color: white
