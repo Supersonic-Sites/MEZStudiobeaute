@@ -4,19 +4,19 @@ description: At MEZ Studio Beauté we take care of our clients from full glam
   makeup, hairdressing, esthetics, laser treatments and much more.
 components:
   - cta2: Get An Appointment
-    img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/03e718c5-1293-4d13-28f1-290f82f52c00/public
+    img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/1d863b2e-39c8-4cd7-c598-164a507e8b00/HeroBackground
     cta_link: services/
-    img_alt: Please type in a description of the image for the search engine or
-      visually impaired people
+    img_alt: Image of a model with to feature MEZ Studio Beauté services
     cta: Our Services
-    desc: Hairdresser. Makeup artist. Esthetician. Laser Services.
+    desc: Hairdresser. Makeup artist. Esthetician. Laser Services.<br> Get Your Free
+      Consultation Today.
     cta2_link: https://mez-collections-and-studio-beaute.appointlet.com/
     title1: Become Your Most Beautiful
     cta2_select: true
     title2: Self
     type: hero_half_img_diagonal
-    img_title: Please type in a description of the image that would help the user
-      when they hover the image
+    img_title: "Showcase MEZ Studio Beauté specialities: Haidressing, Beauty
+      Services and laser hair removal."
   - type: divider
     bg_color: white
   - type: heading_full
@@ -68,7 +68,9 @@ components:
         aos: flip-up
         title_size: small
         cta_link: "#"
+        cta_select: false
         cta: "#"
+        aos_select: true
         subtitle: "#"
         title: "Step 3: MAKE"
         title_color: black
@@ -90,45 +92,39 @@ components:
   - type: cards_third_img
     bg_color: white
     cards:
-      - img: https://via.placeholder.com/600x400
+      - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/787046c3-89b4-4eb2-f7c8-19cbe544fc00/Square400px
         aos: fade
         cta_link: services/hairdressing
         cta_select: true
-        img_alt: Please type in a description of the image for the search engine or
-          visually impaired people
+        img_alt: Hairdressing results
         cta: Learn More
         aos_select: true
         title: Hairdressing
-        img_title: Please type in a description of the image that would help the user
-          when they hover the image
+        img_title: Featuring our hairdressing services
         description: "Whether you're looking for a fresh cut, bold colouring, root
           treatment, keratin treatment, or extensions, our talented stylists
           have got you covered. "
-      - img: https://via.placeholder.com/600x400
+      - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/feba474b-77b0-4a11-55b4-50345bdc1000/Square400px
         aos: fade
         cta_link: services/esthetics
         cta_select: true
-        img_alt: Please type in a description of the image for the search engine or
-          visually impaired people
+        img_alt: Featuring our Esthetics & Beauty Services
         cta: Learn More
         aos_select: true
         title: Esthetics
-        img_title: Please type in a description of the image that would help the user
-          when they hover the image
+        img_title: Esthetics & Beauty Services - Click Here
         description: "Enjoy a variety of relaxing facial, nail, and eyelash treatments,
           microblading, hair removal services, and stunning make-up applications
           for any event. "
-      - img: https://via.placeholder.com/600x400
+      - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/dd292dcb-cf6b-4873-6ab4-b124fe63e300/Square400px
         aos: fade
         cta_link: services/laser-treatments
         cta_select: true
-        img_alt: Please type in a description of the image for the search engine or
-          visually impaired people
+        img_alt: Hair removal services through laser treatments
         cta: Learn More
         aos_select: true
         title: Laser Treatments
-        img_title: Please type in a description of the image that would help the user
-          when they hover the image
+        img_title: Hair removal services using laser - Click Here
         description: "Our dedicated team offers more precise hair removal from your head
           to your feet with our efficient laser treatments. We're happy to
           answer any questions. "
@@ -136,36 +132,24 @@ components:
     bg_color: white
   - type: gallery
     images:
-      - img_alt: Please type in a description of the image for the search engine or
-          visually impaired people
-        img_title: Please type in a description of the image that would help the user
-          when they hover the image
-        img: https://via.placeholder.com/600x600
-      - img_alt: Please type in a description of the image for the search engine or
-          visually impaired people
-        img_title: Please type in a description of the image that would help the user
-          when they hover the image
-        img: https://via.placeholder.com/600x600
-      - img_alt: Please type in a description of the image for the search engine or
-          visually impaired people
-        img_title: Please type in a description of the image that would help the user
-          when they hover the image
-        img: https://via.placeholder.com/600x600
-      - img_alt: Please type in a description of the image for the search engine or
-          visually impaired people
-        img_title: Please type in a description of the image that would help the user
-          when they hover the image
-        img: https://via.placeholder.com/600x600
-      - img_alt: Please type in a description of the image for the search engine or
-          visually impaired people
-        img_title: Please type in a description of the image that would help the user
-          when they hover the image
-        img: https://via.placeholder.com/600x600
-      - img_alt: Please type in a description of the image for the search engine or
-          visually impaired people
-        img_title: Please type in a description of the image that would help the user
-          when they hover the image
-        img: https://via.placeholder.com/600x600
+      - img_alt: Hairdressing stations of MEZ Studio Beauté
+        img_title: MEZ Studio Beauté Hairdressing Stations
+        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/892a4ddc-2903-4519-7dd4-9d22e4e54f00/SquareDesktop
+      - img_alt: Model Using MEZ Studio Beauté Services
+        img_title: Model Using MEZ Studio Beauté Services
+        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/ea8de2b5-f9fd-4676-4e3b-c62980125400/SquareDesktop
+      - img_alt: Esthetic services station
+        img_title: Esthetic services station
+        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/49722a63-1241-4c6c-3247-deda0eb61500/SquareDesktop
+      - img_alt: Nail services
+        img_title: Nail services
+        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/904f5e4b-12ab-4b94-cdda-76f43c73d700/SquareDesktop
+      - img_alt: Hairdressing results
+        img_title: Featuring Coloring and Hairdressing Done by MEZ
+        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/5ee44859-466c-4f33-a365-0f787cfeee00/SquareDesktop
+      - img_alt: Eyebrow esthetic services
+        img_title: Eyebrow esthetic services
+        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/033f3165-5fdb-49fb-e7c6-4ffb548fb900/SquareDesktop
   - type: divider
     bg_color: white
   - type: heading_full
@@ -179,11 +163,9 @@ components:
     bg_color: white
     testimonials:
       - name: Noor Akbari
-        img: https://via.placeholder.com/150x150
-        img_alt: Please type in a description of the image for the search engine or
-          visually impaired people
-        img_title: Please type in a description of the image that would help the user
-          when they hover the image
+        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/7efc1b4b-e959-4fa7-2965-04f178744d00/TestimonialBubble
+        img_alt: Testimonial Picture of Noor Akbari
+        img_title: Testimonial Picture of Noor Akbari
         position: CEO at Tulip.com
         desc: Always a great experience when dealing with the owner. She will always
           find a way to accommodate you as a customer and has an amazing variety
@@ -191,11 +173,9 @@ components:
           not hesitate to go see her.
         image_toggle: true
       - name: "Samira Jamil "
-        img: https://via.placeholder.com/150x150
-        img_alt: Please type in a description of the image for the search engine or
-          visually impaired people
-        img_title: Please type in a description of the image that would help the user
-          when they hover the image
+        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/cba50c16-7dc7-4be3-6352-bec4d6e01900/TestimonialBubble
+        img_alt: Testimonial Picture of Samira Jamil
+        img_title: Testimonial Picture of Samira Jamil
         position: CEO at Tulip.com
         desc: Mariam is one of a kind. She welcomes you like you are family; I admire
           her a lot. She’s a hardworking woman and we can see she loves what
@@ -206,31 +186,27 @@ components:
           you see this, I hope you will continue what you’re doing for ever!!
           Can’t wait for my next visit at your store.
         image_toggle: true
-      - name: Zarina Amiri
-        img: https://via.placeholder.com/150x150
-        img_alt: Please type in a description of the image for the search engine or
-          visually impaired people
-        img_title: Please type in a description of the image that would help the user
-          when they hover the image
+      - name: Fariba Asghar
+        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/31372571-bdc7-4867-1275-6bc604b4be00/TestimonialBubble
+        img_alt: Testimonial Picture of Fariba Asghar
+        img_title: Testimonial Picture of Fariba Asghar
         position: CEO at Tulip.com
-        desc: Best Afghan clothing store. Always a pleasure of ordering our Afghan
-          traditional dress. Not only good in clothing but also in make up and
-          hairstyles, colour, and waxing. We don’t need to go any other places;
-          she can do it all at once.
+        desc: >-
+          I honestly love her professionalism, punctuality, and her services.
+          Mariam is such a sweetheart and she always keeps a warm ambiance for
+          her clients. Every time I go to MEZ Studio she welcomed me with a
+          smile.
+
+          I recommend!
         image_toggle: true
       - name: Zahra
-        img: https://via.placeholder.com/150x150
-        img_alt: Please type in a description of the image for the search engine or
-          visually impaired people
-        img_title: Please type in a description of the image that would help the user
-          when they hover the image
+        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/8ddbb50a-31ad-4d2b-df28-fe815bdbbf00/TestimonialBubble
+        img_alt: Testimonial Picture of Zahra
+        img_title: Testimonial Picture of Zahra
         position: CEO at Tulip.com
-        desc: I have honestly never seen any business who is as accommodating as this
-          business. MEZ is very kind, patient and helpful. I chose a design for
-          a traditional dress. She made it from very good quality fabrics and I
-          still can't get over how beautiful the dress turned out. Always will
-          be getting dresses and jewelries from MEZ collections. She has the
-          best collection in Canada. 100% recommended.
+        desc: Been at MEZ last week, I really liked the services. Mariam is very
+          professional, sympathetic and accommodating lady😊. She advised me
+          genuinely. Love that place. Highly recommended.
         image_toggle: true
   - type: divider_half
     bg_color: white

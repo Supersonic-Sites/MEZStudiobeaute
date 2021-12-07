@@ -8,30 +8,8 @@ components:
     bg_color: primary
     img: /img/banner.jpg
     title: About Us
-  - type: testimonial_half
-    bg_color: white
-    testimonials:
-      - name: Patrycja Zarzecki
-        img: https://via.placeholder.com/150x150
-        img_alt: Please type in a description of the image for the search engine or
-          visually impaired people
-        img_title: Please type in a description of the image that would help the user
-          when they hover the image
-        position: CEO at Tulip.com
-        desc: Love this place! The best in the area hands down! I am always satisfied
-          with all the services I get done here!
-        image_toggle: true
-      - name: Aline Falardeau
-        img: https://via.placeholder.com/150x150
-        img_alt: Please type in a description of the image for the search engine or
-          visually impaired people
-        img_title: Please type in a description of the image that would help the user
-          when they hover the image
-        position: CEO at Tulip.com
-        desc: I go to MEZ with my children for the hairdressing service and it's
-          impeccable. Hair removal is famous and very affordable. Diversified
-          and personalized service. I recommend.
-        image_toggle: true
+  - type: divider
+    bg_color: white  
   - img: https://via.placeholder.com/750x750.png
     aos: fade
     cta_link: contact/
@@ -56,7 +34,44 @@ components:
     type: img_half_right
     img_title: Please type in a description of the image that would help the user
       when they hover the image
-  - type: divider
+
+  - type: cards_fourth_img
+    bg_color: white
+    cards:
+      - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/d895164a-4a6d-4477-0d45-8af8b25d9d00/600x400
+        aos: fade-up
+        cta_link: contact/
+        img_alt: Please type in a description of the image for the search engine or
+          visually impaired people
+        cta: Call To Action
+        aos_select: true
+        title: PHI-Contour
+        img_title: Please type in a description of the image that would help the user
+          when they hover the image
+        description: "#"
+      - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/4b684fd2-c26b-4548-2f3f-4b8ae80d9000/600x400
+        aos: fade-up
+        cta_link: contact/
+        img_alt: Please type in a description of the image for the search engine or
+          visually impaired people
+        cta: Call To Action
+        aos_select: true
+        title: PhiBright
+        img_title: Please type in a description of the image that would help the user
+          when they hover the image
+        description: "#"
+      - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/78077c36-afdd-4162-d378-18e9201fa800/600x400
+        aos: fade-up
+        cta_link: contact/
+        img_alt: Please type in a description of the image for the search engine or
+          visually impaired people
+        cta: Call To Action
+        aos_select: true
+        title: PhiBrows
+        img_title: Please type in a description of the image that would help the user
+          when they hover the image
+        description: "#"
+  - type: divider_half
     bg_color: white
   - img: https://via.placeholder.com/350x350
     aos: fade-up
@@ -80,42 +95,87 @@ components:
       when they hover the image
   - type: divider
     bg_color: white
-  - img: https://via.placeholder.com/350x350
-    aos: fade-up
-    cta_link: contact/
+  - type: heading_full
+    align: center
+    id: none
     bg_color: white
-    img_alt: Please type in a description of the image for the search engine or
-      visually impaired people
-    cta: Call To Action
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a
-      fermentum diam, vitae pretium diam. Nam in diam egestas, lacinia urna in,
-      ornare dui. Duis at sapien cursus, tincidunt mi a, facilisis felis.
-      Maecenas accumsan sem ut enim fermentum efficitur. Mauris a dui eu arcu
-      finibus sodales ultricies id felis. Integer dapibus tempus lorem, id
-      placerat eros. "
-    title: Lorem ipsum
-    type: img_third_right
-    img_title: Please type in a description of the image that would help the user
-      when they hover the image
-  - type: divider
+    title: What People Say About Us
+    title_size: small
+    desc: "#"
+  - type: testimonial_half
     bg_color: white
-  - img: https://via.placeholder.com/350x350
-    aos: fade-up
-    cta_link: contact/
+    testimonials:
+      - name: Patrycja Zarzecki
+        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/746291ae-2d5f-4fdb-86b8-4a74a3774f00/TestimonialBubble
+        img_alt: Picture of Patrycja Zarzecki
+        img_title: Picture of Patrycja Zarzecki
+        position: CEO at Tulip.com
+        desc: Love this place! The best in the area hands down! I am always satisfied
+          with all the services I get done here!
+        image_toggle: true
+      - name: Sultani Nargis
+        img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/2fad774d-7151-48f3-cf1a-bdbf75dc5500/TestimonialBubble
+        img_alt: Testimonial picture of Sultani Nargis
+        img_title: Picture of Sultani Nargis
+        position: CEO at Tulip.com
+        desc: I drive from Blainville to do business with MEZ Studio Beauté... which
+          automatically describes the quality of their services. They are
+          amazing. 😊🙂
+        image_toggle: true
+  - type: heading_full
+    align: center
+    id: none
     bg_color: white
-    img_alt: Please type in a description of the image for the search engine or
-      visually impaired people
-    cta: Call To Action
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a
-      fermentum diam, vitae pretium diam. Nam in diam egestas, lacinia urna in,
-      ornare dui. Duis at sapien cursus, tincidunt mi a, facilisis felis.
-      Maecenas accumsan sem ut enim fermentum efficitur. Mauris a dui eu arcu
-      finibus sodales ultricies id felis. Integer dapibus tempus lorem, id
-      placerat eros. "
-    title: Lorem ipsum
-    type: img_third_left
-    img_title: Please type in a description of the image that would help the user
-      when they hover the image
+    title: What Sets Us Apart
+    title_size: small
+    desc: "#"
+  - type: cards_third_text
+    bg_color: white
+    cards:
+      - divider_select: true
+        title_select: false
+        subtitle_select: true
+        aos: fade
+        title_size: small
+        cta_link: "#"
+        cta: "#"
+        aos_select: true
+        subtitle: Specialized Knowledge
+        title: Specialized Knowledge
+        shadow_select: true
+        title_color: black
+        description: We are dedicated to delivering you results and have gone out of our
+          way to get the most sought-after certifications.
+        divider_color: primary
+      - divider_select: true
+        subtitle_select: true
+        aos: fade
+        title_size: small
+        cta_link: "#"
+        cta: "#"
+        aos_select: true
+        subtitle: Customer Care
+        title: Customer Care
+        shadow_select: true
+        title_color: black
+        description: We believe that there isn't a better way to do business than to
+          truly care about your well-being. We drive our satisfaction by the way
+          you feel when leaving our salon.
+        divider_color: primary
+      - divider_select: true
+        subtitle_select: true
+        aos: fade-in
+        title_size: small
+        cta_link: "#"
+        cta: "#"
+        aos_select: true
+        subtitle: Only The Best Products
+        title: Only The Best Products
+        shadow_select: true
+        title_color: black
+        description: We are devoted to beauty but also to health. We personalize each
+          treatment to you while using products that deliver radiant results.
+        divider_color: primary
   - type: divider
     bg_color: white
   - type: cta

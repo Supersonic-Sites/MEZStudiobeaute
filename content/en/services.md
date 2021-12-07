@@ -10,13 +10,12 @@ components:
     title: Our Services
   - type: divider
     bg_color: white
-  - img: https://via.placeholder.com/300.png
+  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/787046c3-89b4-4eb2-f7c8-19cbe544fc00/Square400px
     aos: fade-up
     cta_link: hairdressing/
     bg_color: white
     cta_select: true
-    img_alt: Please type in a description of the image for the search engine or
-      visually impaired people
+    img_alt: Hairdressing services thumbnail
     cta: Browse Our Services
     desc: "Whether you're looking for a bold new look, a root touchup, a maintenance
       cut, a professional up-do for a special event, hair extensions, or a
@@ -27,17 +26,15 @@ components:
     aos_select: true
     title: Hairdressing
     type: img_third_left
-    img_title: Please type in a description of the image that would help the user
-      when they hover the image
+    img_title: Learn more about our hairdressing services
   - type: divider2x
     bg_color: white
-  - img: https://via.placeholder.com/300.png
+  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/feba474b-77b0-4a11-55b4-50345bdc1000/Square400px
     aos: fade-up
     cta_link: esthetics/
     bg_color: white
     cta_select: true
-    img_alt: Please type in a description of the image for the search engine or
-      visually impaired people
+    img_alt: Beauty & Esthetic Services
     cta: Browse Our Services
     desc: "Our fully certified estheticians offer professional facials, skin care
       treatments, manicures, and pedicures. Looking for hair removal?
@@ -47,17 +44,15 @@ components:
     aos_select: true
     title: Esthetic Services
     type: img_third_left
-    img_title: Please type in a description of the image that would help the user
-      when they hover the image
+    img_title: Learn more about our beauty & esthetic services
   - type: divider2x
     bg_color: white
-  - img: https://via.placeholder.com/300.png
+  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/dd292dcb-cf6b-4873-6ab4-b124fe63e300/Square400px
     aos: fade-up
     cta_link: laser-treatments/
     bg_color: white
     cta_select: true
-    img_alt: Please type in a description of the image for the search engine or
-      visually impaired people
+    img_alt: Laser hair removal services thumbnail
     cta: Browse Our Services
     desc: "Get rid of unwanted hair anywhere and everywhere with our precise laser
       treatments. From full facial treatments, to back, chest, bikini, arms, and
@@ -67,8 +62,7 @@ components:
     aos_select: true
     title: Laser Treatments
     type: img_third_left
-    img_title: Please type in a description of the image that would help the user
-      when they hover the image
+    img_title: Learn more about our laser hair removal services
   - type: divider2x
     bg_color: white
   - type: cta

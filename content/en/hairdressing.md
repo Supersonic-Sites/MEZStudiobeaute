@@ -11,8 +11,8 @@ components:
     title: Hairdressing
   - type: divider
     bg_color: white
-  - img: https://via.placeholder.com/300.png
-    aos: fade
+  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/787046c3-89b4-4eb2-f7c8-19cbe544fc00/Square400px
+    aos: fade-in
     service_list:
       - service: Hair Styling
         desc: |-
@@ -56,17 +56,46 @@ components:
     cta_link: https://mez-collections-and-studio-beaute.appointlet.com/
     bg_color: white
     cta_select: true
-    img_alt: makeup application
+    img_alt: Haircut
     cta: See Pricing
-    desc: |
-      Short Hair<br><br>
-      Medium Hair<br><br>
-      Long Hair<br><br>
-      Children 0-12<br><br>
-      Children 13-18 
+    desc: >
+      <small class="mb-2">(A price adjustment will apply. If the hair is very
+      thick which takes more than an hour)</small><br><br>
+
+      <div class="flex justify-between mb-2">
+
+      <span class="text-xl">Short Hair</span>
+
+      <span class="text-base">30min - 25 CAD</span>
+
+      </div>
+
+      <div class="flex justify-between mb-2">
+
+      <span class="text-xl">Medium Hair</span>
+
+      <span class="text-base">40min - 35 CAD</span>
+
+      </div>
+
+      <div class="flex justify-between mb-2">
+
+      <span class="text-xl">Children 0-12</span>
+
+      <span class="text-base">30min - 18 CAD</span>
+
+      </div>
+
+      <div class="flex justify-between mb-2">
+
+      <span class="text-xl">Children 13-18</span>
+
+      <span class="text-base">30min - 21 CAD</span>
+
+      </div>
     service: Cuts
     aos_select: true
-    title: Hairdressing
+    title: Haircut
     type: img_half_right_toggle
   - type: divider2x
     bg_color: white
