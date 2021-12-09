@@ -21,7 +21,7 @@
             {{ end }}
 
             {{ if eq .title_size "small" }}
-            <h2 class="font-bold capitalize text-3xl md:text-4xl lg:text-5xl text-{{ .align }} tracking-wider text-black">
+            <h2 class="capitalize text-3xl md:text-4xl lg:text-5xl text-{{ .align }} tracking-wider text-black">
             {{ .title | safeHTML }}
             </h2>
             <div class="flex justify-{{ .align }} h-24">

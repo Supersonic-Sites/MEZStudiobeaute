@@ -9,7 +9,7 @@ components:
     img: /img/banner.jpg
     title: About Us
   - type: divider
-    bg_color: white  
+    bg_color: white
   - img: https://via.placeholder.com/750x750.png
     aos: fade
     cta_link: contact/
@@ -34,42 +34,35 @@ components:
     type: img_half_right
     img_title: Please type in a description of the image that would help the user
       when they hover the image
-
   - type: cards_fourth_img
     bg_color: white
     cards:
-      - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/d895164a-4a6d-4477-0d45-8af8b25d9d00/600x400
+      - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/ec4a6a2b-ddb2-423d-3598-f67d268e9900/600x400
         aos: fade-up
         cta_link: contact/
-        img_alt: Please type in a description of the image for the search engine or
-          visually impaired people
+        img_alt: PHI-Contour Certification
         cta: Call To Action
         aos_select: true
         title: PHI-Contour
-        img_title: Please type in a description of the image that would help the user
-          when they hover the image
+        img_title: PHI-Contour Certificate
         description: "#"
-      - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/4b684fd2-c26b-4548-2f3f-4b8ae80d9000/600x400
+      - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/e27403f0-2191-45f6-8b60-2a1d10367d00/600x400
         aos: fade-up
         cta_link: contact/
-        img_alt: Please type in a description of the image for the search engine or
-          visually impaired people
+        img_alt: Phi-Bright Certification
         cta: Call To Action
         aos_select: true
-        title: PhiBright
-        img_title: Please type in a description of the image that would help the user
-          when they hover the image
+        title: Phi-Bright
+        img_title: Phi-Bright Certification
         description: "#"
-      - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/78077c36-afdd-4162-d378-18e9201fa800/600x400
+      - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/93041437-26d1-4ab5-47c8-594ff59b4000/600x400
         aos: fade-up
         cta_link: contact/
-        img_alt: Please type in a description of the image for the search engine or
-          visually impaired people
+        img_alt: PhiBrows Certification
         cta: Call To Action
         aos_select: true
         title: PhiBrows
-        img_title: Please type in a description of the image that would help the user
-          when they hover the image
+        img_title: PhiBrows Certification
         description: "#"
   - type: divider_half
     bg_color: white

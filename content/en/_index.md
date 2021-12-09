@@ -8,7 +8,7 @@ components:
     cta_link: services/
     img_alt: Image of a model with to feature MEZ Studio Beauté services
     cta: Our Services
-    desc: Hairdresser. Makeup artist. Esthetician. Laser Services.<br> Get Your Free
+    desc: Hairdresser. Makeup artist. Esthetician. Hair Removal Services.<br> Get Your Free
       Consultation Today.
     cta2_link: https://mez-collections-and-studio-beaute.appointlet.com/
     title1: Become Your Most Beautiful
@@ -44,7 +44,7 @@ components:
         cta: "#"
         aos_select: true
         subtitle: "#"
-        title: "Step 1: TALK"
+        title: <span class="text-primary">Step 1:</span> Talk
         title_color: black
         description: What would you like to see when you leave? We're here to listen and
           make it happen.
@@ -57,7 +57,7 @@ components:
         cta: "#"
         aos_select: true
         subtitle: "#"
-        title: "Step 2: THINK"
+        title: <span class="text-primary">Step 2:</span> Think
         shadow_select: false
         title_color: black
         description: "How long will it take? Will it need much maintenance? We give you
@@ -72,7 +72,7 @@ components:
         cta: "#"
         aos_select: true
         subtitle: "#"
-        title: "Step 3: MAKE"
+        title: <span class="text-primary">Step 3:</span> Create
         title_color: black
         description: We put our passion to work. Not completely satisfied? We'll modify
           it until you are.
@@ -85,7 +85,7 @@ components:
         cta: "#"
         aos_select: true
         subtitle: "#"
-        title: "Step 4: ENJOY"
+        title: <span class="text-primary">Step 4:</span> Enjoy
         title_color: black
         description: "Return to the world refreshed and ready to show off your new look. "
         divider_color: primary
@@ -123,11 +123,11 @@ components:
         img_alt: Hair removal services through laser treatments
         cta: Learn More
         aos_select: true
-        title: Laser Treatments
+        title: Hair Removal
         img_title: Hair removal services using laser - Click Here
         description: "Our dedicated team offers more precise hair removal from your head
-          to your feet with our efficient laser treatments. We're happy to
-          answer any questions. "
+          to your feet with our efficient laser treatments, wax or electrolyses.
+          We're happy to answer any questions. "
   - type: divider
     bg_color: white
   - type: gallery

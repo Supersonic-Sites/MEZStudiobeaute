@@ -6,7 +6,7 @@
       <div class="col-span-12 md:col-span-6 order-2 md:order-1">
 
         <h2
-        class=" text-black font-bold capitalize text-3xl md:text-4xl lg:text-5xl my-4 md:my-0 md:mb-6">
+        class=" text-black capitalize text-3xl md:text-4xl lg:text-5xl my-4 md:my-0 md:mb-6 leading-relaxed"  style="line-height: 1.2 !important;">
         {{ .title }}
       </h2>
 
@@ -14,7 +14,7 @@
         <div class="divide-y-2 divide-gray-200 mb-16">
           <dl class="space-y-1 divide-y divide-gray-200">
               <div x-data="{ open: false }" class="pt-2">
-                  <dt class="text-xl py-4 md:py-1">
+                  <dt class="text-xl pb-4">
                     <button type="button" x-description="Expand/collapse question button" 
                     class="text-left w-full flex justify-between items-start focus:outline-none" 
                     aria-controls="faq-0" @click="open = !open" aria-expanded="false" x-bind:aria-expanded="open.toString()">
@@ -32,8 +32,8 @@
                       </span>
                     </button>
                   </dt>
-                  <dd class="mt-2 pb-8" x-show="open" style="display: none;">
-                    <p class="text-lg">
+                  <dd class="pl-4 pr-4 pb-4 bg-gray-50 shadow-lg" x-show="open" style="display: none;">
+                    <p class="text-lg pb-4">
                       {{ .desc | safeHTML }}
                     </p>
                   </dd>
@@ -43,7 +43,7 @@
       <div class="mx-auto divide-y-1 divide-gray-200">
         <dl class="space-y-2 divide-y divide-gray-200">
             <div x-data="{ open: false }" class="pt-2">
-                <dt class="text-xl py-4 md:py-1">
+                <dt class="text-xl py-4">
                   <button type="button" x-description="Expand/collapse question button" 
                   class="text-left w-full flex justify-between items-start  focus:outline-none" 
                   aria-controls="faq-0" @click="open = !open" aria-expanded="false" x-bind:aria-expanded="open.toString()">
@@ -61,8 +61,8 @@
                     </span>
                   </button>
                 </dt>
-                <dd class="mt-2 pr-0" x-show="open" style="display: none;">
-                  <p class="text-lg pb-8">
+                <dd class="pl-4 pr-4 pb-4 bg-gray-50 shadow-lg" x-show="open" style="display: none;">
+                  <p class="text-lg pb-4">
                     {{ .desc | safeHTML }}
                   </p>
                 </dd>

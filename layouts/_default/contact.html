@@ -1,7 +1,7 @@
 {{ define "main" }}
 <header class="h-52 pt-20 md:pb-6 flex flex-col justify-center md:mt-0" id="">
   <div class="container max-w-7xl mx-auto flex flex-col px-4">
-      <h1 class="font-bold capitalize text-4xl md:text-7xl text-center text-black">Contact Us</h1>
+      <h1 class="capitalize text-4xl md:text-7xl text-center text-black">Contact Us</h1>
   </div>
   <div class="flex justify-center h-24">
       <img src="https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/3d394789-6769-4c31-5e26-0740ffb5d600/navLogo" alt="">
@@ -15,7 +15,7 @@
     <div class="relative max-w-7xl mx-auto lg:grid lg:grid-cols-6">
       <div class=" py-8 px-4 sm:px-6 lg:col-span-3 lg:px-8 lg:py-24 xl:pr-12">
         <div class="max-w-lg mx-auto">
-          <h2 class="font-bold tracking-wider text-black text-3xl md:text-4xl lg:text-5xl">
+          <h2 class=" tracking-wider text-black text-3xl md:text-4xl lg:text-5xl">
             Information
           </h2>
           <dl class="mt-8 text-base text-black">
@@ -64,14 +64,63 @@
               </dd>
             </div>
           </dl>
+          <div class="flex mt-3 md:space-x-6 justify-center lg:justify-start">
+            {{ if eq .Site.Params.social.facebook "#" }}
+            <span></span>
+            {{ else }}
+            <a href="{{ $.Site.Params.social.facebook | absURL }}"
+              class="text-black hover:text-secondary transition duration-500 mr-3 md:mr-0" target="_blank" rel="noopener noreferrer">
+              <span class="sr-only">Facebook</span>
+              <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                <use xlink:href="{{ $.Site.BaseURL }}icons/brands.svg#facebook"></use>
+              </svg>
+            </a>
+            {{ end }}
+            {{ if eq .Site.Params.social.instagram "#" }}
+            <span></span>
+            {{ else }}
+            <a href="{{ .Site.Params.social.instagram | absURL  }}"
+              class="text-black hover:text-secondary transition duration-500" target="_blank" rel="noopener noreferrer">
+              <span class="sr-only">Instagram</span>
+              <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                <use xlink:href="{{ $.Site.BaseURL }}icons/brands.svg#instagram"></use>
+              </svg>
+            </a>
+            {{ end }}
+            {{ if eq .Site.Params.social.twitter "#" }}
+            <span></span>
+            {{ else }}
+            <a href="{{ .Site.Params.social.twitter | absURL  }}"
+              class="text-black hover:text-secondary transition duration-500" target="_blank" rel="noopener noreferrer">
+              <span class="sr-only">Twitter</span>
+              <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                <use xlink:href="{{ $.Site.BaseURL }}icons/brands.svg#twitter"></use>
+              </svg>
+            </a>
+            {{ end }}
+            {{ if eq .Site.Params.social.linkedin "#" }}
+            <span></span>
+            {{ else }}
+            <a href="{{ .Site.Params.social.linkedin | absURL  }}"
+              class="text-black hover:text-secondary transition duration-500" target="_blank" rel="noopener noreferrer">
+              <span class="sr-only">linkedin</span>
+              <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                <use xlink:href="{{ $.Site.BaseURL }}icons/brands.svg#linkedin"></use>
+              </svg>
+            </a>
+            {{ end }}
+          </div>
         </div>
-        <div class="responsiveIframe shadow-lg mt-5 h-80">
+
+
+        
+        <div class="responsiveIframe shadow-lg mt-5 h-80 ml-6">
           <iframe src="{{ $.Site.Params.googlemap }}" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>    
           </div>
       </div>
       <div class="bg-white py-8 px-4 sm:px-6 lg:col-span-3 lg:py-24 lg:px-8 xl:pl-12">
         <div class="max-w-lg mx-auto lg:max-w-none">
-          <h2 class="font-bold tracking-wider text-black text-3xl md:text-4xl lg:text-5xl mb-8">
+          <h2 class="tracking-wider text-black text-3xl md:text-4xl lg:text-5xl mb-8">
             Contact Us
           </h2>
           <form action="{{ $.Site.Params.usebasin }}" method="POST" class="grid grid-cols-1 gap-y-6">

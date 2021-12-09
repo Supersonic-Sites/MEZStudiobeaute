@@ -54,13 +54,13 @@ components:
     cta_select: true
     img_alt: Laser hair removal services thumbnail
     cta: Browse Our Services
-    desc: "Get rid of unwanted hair anywhere and everywhere with our precise laser
-      treatments. From full facial treatments, to back, chest, bikini, arms, and
-      legs, we've got you covered. Our team of certified professionals are here
-      to answer any questions and of course, offer a free consultation before
-      the treatment. "
+    desc: "Get rid of unwanted hair anywhere and everywhere with our treatments.
+      Laser, wax or electrolyses all depending on your needs. From full facial
+      treatments, to back, chest, bikini, arms, and legs, we've got you covered.
+      Our team of certified professionals are here to answer any questions and
+      of course, offer a free consultation before the treatment. "
     aos_select: true
-    title: Laser Treatments
+    title: Hair Removal
     type: img_third_left
     img_title: Learn more about our laser hair removal services
   - type: divider2x
