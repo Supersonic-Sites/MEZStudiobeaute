@@ -583,8 +583,8 @@ components:
     title_size: small
     desc: "#"
   - type: faq_toggle
-    question: How to you make holy water?
-    answer: You boil the hell out of it. orem ipsum dolor sit amet consectetur
+    question: This is a very important questions
+    answer: This is a very important answer. orem ipsum dolor sit amet consectetur
       adipisicing elit. Quas cupiditate laboriosam fugiat.
   - type: divider
     bg_color: white
