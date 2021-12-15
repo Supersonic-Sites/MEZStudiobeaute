@@ -884,9 +884,214 @@ components:
     title_size: small
     desc: "#"
   - type: faq_toggle
-    question: This is a very important questions
-    answer: This is the very good answer. orem ipsum dolor sit amet consectetur
-      adipisicing elit. Quas cupiditate laboriosam fugiat.
+    question: What is semi-permanent makeup?
+    answer: Micro-shading, permanent eyeliner, lip blush is a semi-permanent make-up
+      is a complexion treatment to enhance eyes, brows and lips to add
+      definition to the face. This technique involves injecting pigment through
+      a fine vibrating needle into the most superficial layers of the
+      skin.<br><br>Microblading is a cosmetic tattooing procedure that fills in
+      thin eyebrow areas to make them look fuller. Unlike a traditional tattoo,
+      which is permanent, the coloring from microblading may last for up to 3
+      years. This is because microblading uses different tools and a smaller
+      amount of pigment. The initial procedure may take up to a 2 hours, and the
+      eyebrows will appear darker immediately after the initial treatment.
+    faqs:
+      - question: Who is not eligible to perform semi-permanent makeup?
+        answer: >
+          
+          - Pregnant or Nursing<br>
+
+          - Those prone to keloids or post-inflammatory hypopigmentation<br>
+
+          - Diabetes (will need medical clearance)<br>
+
+          - If you have a transmittable blood disease such as HIV or Hepatitis<br>
+
+          - Abnormal Heart Condition (will need medical clearance)<br>
+
+          - Patient's undergoing Chemotherapy<br>
+
+          - If you have any kind of skin condition on or near your eyebrows. This includes eczema, shingles, rashes, or anything else near eyebrows.<br>
+
+          - Very Oily Skin (the pigment will fade faster)<br>
+
+          - Taking Accutane (has to be off Acutane for at least a year)<br>
+
+          - Taking Blood Thinners such as: Aspirin, Ibuprofen, Coumadin etc. (Except if they can stop taking these medications a week before the procedure)<br>
+
+          - Allergic reaction to alcohol or numbing agents<br>
+
+          - Those with dark pre-existing eyebrow tattoos or permanent makeup<br>
+      - question: What to avoid before semi-permanent makeup treatment?
+        answer: >-
+          - Avoiding caffeine beverages or alcohol 24 hours before of the
+          procedure.<br>
+
+          - Tinting brows before the appointment.<br>
+
+          - No tanning or sunbathing for 3 days before the appointment.<br>
+
+          - No waxing or plucking eyebrows within 2 days beforehand.<br>
+
+          - No chemical peels and other intense facial treatments for at least 2 to 3 weeks before the procedure.<br>
+
+          - Wash and style hair before the procedure, as the brows must not come into contact with water for at least 7 days.<br>
+
+          - Discontinuing vitamin A (Retinol) and Botox treatments for at least 1 month beforehand.<br>
+
+          - Stopping taking fish oil or any other natural blood thinners, such as vitamin E, at least 1 week before the procedure.<br>
+
+          - Avoiding aspirin or ibuprofen for pain relief (as these types of medications are blood thinners).<br>
+
+          - Not working out the day of the appointment.<br>
+      - question: Any post treatment for semi-permanent makeup?
+        answer: >-
+          - 3 days after the procedure gently washing over the eyebrows with a
+          fingertip, using antibacterial soap and water for about 10 seconds,
+          rinsing, and then patting dry.<br>
+
+          - Using a minimal amount of moisturizing ointment.<br>
+
+          - Keeping the brows away from water for 7–10 days, which includes not taking long showers or swimming.<br>
+
+          - Avoiding putting makeup on the brow area while it is actively healing to keep the area as clean as possible.<br>
+
+          - Not picking at the scabs.<br>
+
+          - Avoiding direct sunlight or tanning for at least 4 weeks after the procedure.<br>
+
+          - Not using facial scrubs or peels for at least 4 weeks after the procedure.<br>
+
+          - Not sleeping on the face for at least 10 days after the procedure<br>
+      - question: In how long does microblading heals?
+        answer: The result is perfectly visible once all of the scabs fall. It will
+          lighten 30% vs day one.
+      - question: Why a second session of microblading is required within 4 to 8 weeks?
+        answer: A touch-up is required to finalize the brows 4-8 weeks after the
+          procedure. After that, touch-ups may be done after about a year or as
+          directed by our esthetician.
+      - question: What is microneedling?
+        answer: Microneedling is a minimally invasive cosmetic procedure that’s used to
+          treat skin concerns via collagen production. Also known as collagen
+          induction therapy, this treatment may help those looking to reduce the
+          appearance of acne scars and stretch marks, premature aging, dark
+          spots, hyperpigmentation, alopecia.
+      - question: Why microneeding must be performed on the face and neck?
+        answer: |
+          Microneedling is effective for the following concerns:
+          - Acne scars<br>
+          - Age spots (also called “sun spots”)<br>
+          - Fine lines and wrinkles<br>
+          - Uncontrollable oily skin<br>
+          - Large pores<br>
+          - Reduced skin elasticity<br>
+          - Uneven skin tone<br>
+      - question: What to expect from microneedling?
+        answer: After you have a microneedling procedure, some side effects are to be
+          expected. When you leave your appointment, your skin may be flushed or
+          bright red.
+      - question: How long will it take for the redness of microneedling to disapear?
+        answer: >
+          The redness and swelling will most likely persist for 24 hours or
+          slightly longer. Even with careful aftercare, there isn’t much you can
+          do to get rid of the redness immediately after microneedling.
+      - question: Microneedling aftercare?
+        answer: >
+          - As a general rule, you should reach for sunscreen constantly for the
+          first 2 weeks after microneedling. Make sure to apply sunscreen
+          anytime you go outside in the days following your treatment.<br>
+
+          - Don’t spend prolonged time out in the sun for the first week after your microneedling procedure, as you’ll be more prone to sun damage than usual.<br>
+
+          - Use any topical antibiotic cream that your doctor prescribes to avoid infection.
+
+          Wash your hands before you touch your face.<br>
+
+          - Don’t put on makeup, especially with a makeup brush that has been used before, in the 24 hours following microneedling.<br>
+
+          - You’ll also need to avoid swimming pools, saunas, and situations where you might sweat heavily, including intense workouts at the gym, to protect your newly treated skin. After 72 hours have passed, you may be able to resume these activities.<br>
+      - question: Who is not eligible for microneedling?
+        answer: |
+          - Women who are pregnant<br>
+          - Have certain skin diseases, such as psoriasis or eczema<br>
+          - Have open wounds<br>
+          - Have had radiation therapy recently<br>
+          - Have a history of skin scars<br>
+      - question: How many treatments of microneedling are required?
+        answer: Microneedling typically requires nine months of treatment. During this
+          time, you'll need three to six treatments spaced out every two to six
+          weeks to see full results. The exact number of treatments and the time
+          between them will vary by type, location, and skin concern.
+      - question: What is the difference between microdermabrasion and microneedling?
+        answer: >
+          - Microdermabrasion uses vacuum and crystal technology to deeply
+          exfoliate and unclog the skin whereas Microneedling uses micro-fine
+          needles to encourage the production of collagen and increase firmness
+          within the skin.<br>
+
+          - Microdermabrasion is best for treating clogged pores, tired/dull skin and blackheads whereas Microneedling is great for treating acne scarring, stretchmarks and lines and wrinkles.<br>
+
+          - Microdermabrasion is not invasive however as microneedling involves needles rolling over the skin, there may be some bleeding during treatment.<br>
+      - question: What is microdermabrasion?
+        answer: >
+          Microdermabrasion is a minimally invasive procedure used to renew
+          overall skin tone and texture. It can improve the appearance of sun
+          damage, wrinkles, fine lines, age spots, acne scarring, melasma, and
+          other skin-related concerns and conditions.<br><br>
+
+          The procedure uses a special applicator with an abrasive surface to gently sand away the thick outer layer of the skin to rejuvenate it.
+      - question: Is microdermabrasion safe?
+        answer: >
+          Microdermabrasion is considered a safe procedure for most skin types
+          and colors. People might choose to get the procedure if they have the
+          following skin concerns:<br>
+
+          - Fine lines and wrinkles<br>
+
+          - Hyperpigmentation, age spots and brown spots<br>
+
+          - Enlarged pores and blackheads<br>
+
+          - Acne and acne scars<br>
+
+          - Stretch marks<br>
+
+          - Dull-looking skin complexion<br>
+
+          - Uneven skin tone and texture<br>
+
+          - Melasma<br>
+
+          - Sun damage<br>
+      - question: What is the aftercare for microdermabrasion?
+        answer: >-
+          - As a general rule, you should reach for sunscreen constantly for the
+          first 2 weeks after microneedling. Make sure to apply sunscreen
+          anytime you go outside in the days following your treatment.<br>
+
+          - Don’t spend prolonged time out in the sun for the first week after your microneedling procedure, as you’ll be more prone to sun damage than usual.<br>
+
+          - Use any topical antibiotic cream that your doctor prescribes to avoid infection.<br>
+
+          - Wash your hands before you touch your face.<br>
+
+          - Don’t put on makeup, especially with a makeup brush that has been used before, in the 24 hours following microneedling.<br>
+
+          - You’ll also need to avoid swimming pools, saunas, and situations where you might sweat heavily, including intense workouts at the gym, to protect your newly treated skin. After 72 hours have passed, you may be able to resume these activities.<br>
+      - question: Who is not eligible to microdermabrasion?
+        answer: >
+          Microdermabrasion is not recommended for people who have deep scars,
+          active keloids, undiagnosed lesions, a recent herpes outbreak, warts
+          on the face, skin cancer, active acne (stages 3 and 4), sunburns or
+          active rosacea, eczema, an auto-immune system disorder, or unstable
+          diabetes.<br><br>  
+
+          Pregnant women should not undergo microdermabrasion.  Individuals with deep scars, facial creases, or other moderate-to-severe skin defects should consider a stronger treatment such as a chemical peel or laser skin resurfacing.
+      - question: How many treatments of microdermabrasion are required?
+        answer: Initially 5 to 8 treatments spaced 7-10 days apart are recommended for
+          most people.  Acne scars and or discolorations may require more
+          treatments.  Monthly maintenance treatments every 2 or 3 months may be
+          necessary to maintain results.
   - type: divider
     bg_color: white
   - type: cta

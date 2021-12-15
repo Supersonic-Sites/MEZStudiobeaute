@@ -9,7 +9,7 @@
                   class="text-left w-full flex justify-between items-start text-gray-400 focus:outline-none" 
                   aria-controls="faq-0" @click="open = !open" aria-expanded="false" x-bind:aria-expanded="open.toString()">
                     <span class="font-bold text-2xl text-gray-900">
-                      {{ .question }}
+                      {{ .question | safeHTML }}
                     </span>
                     <span class="ml-6 h-7 flex items-center">
                       <svg class="h-6 w-6 transform rotate-0" 
@@ -24,7 +24,7 @@
                 </dt>
                 <dd class="mt-2 pr-12" id="faq-0" x-show="open" style="display: none;">
                   <p class="text-xl text-gray-500">
-                    {{ .answer }}
+                    {{ .answer | safeHTML }}
                   </p>
                 </dd>
               </div>
@@ -33,7 +33,7 @@
       </div>
       
       {{ range .faqs }}
-      <div class="max-w-3xl mx-auto divide-y-2 divide-gray-200">
+      <div class="max-w-5xl mx-auto divide-y-2 divide-gray-200">
         <dl class="space-y-6 divide-y divide-gray-200">
             <div x-data="{ open: false }" class="pt-6">
                 <dt class="text-xl">
@@ -41,7 +41,7 @@
                   class="text-left w-full flex justify-between items-start text-gray-400 focus:outline-none" 
                   aria-controls="faq-0" @click="open = !open" aria-expanded="false" x-bind:aria-expanded="open.toString()">
                     <span class="font-bold text-2xl text-gray-900">
-                      {{ .question }}
+                      {{ .question | safeHTML }}
                     </span>
                     <span class="ml-6 h-7 flex items-center">
                       <svg class="h-6 w-6 transform rotate-0" 
@@ -56,7 +56,7 @@
                 </dt>
                 <dd class="mt-2 pr-12" id="faq-0" x-show="open" style="display: none;">
                   <p class="text-xl text-gray-500">
-                    {{ .answer }}
+                    {{ .answer | safeHTML }}
                   </p>
                 </dd>
               </div>

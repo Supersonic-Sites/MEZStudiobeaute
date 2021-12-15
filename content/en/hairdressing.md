@@ -475,9 +475,32 @@ components:
     title_size: small
     desc: "#"
   - type: faq_toggle
-    question: This is a very important questions
-    answer: This is a very important answer. Lorem ipsum dolor sit amet consectetur
-      adipisicing elit. Quas cupiditate laboriosam fugiat.
+    question: Which Keratine treament system do you use?
+    answer: We use KeraSpa
+    faqs:
+      - question: What is a keratine treatment?
+        answer: >
+          It is a treatment that removes frizz, reduces curl by up to 90% and
+          infuses the hair with collagen and keratin moisture. Leaving hair
+          strong, shiny and ultra-manageable. Results last approximately 5
+          months, continued use offers optimum results on even the unruliest of
+          hair types.
+      - question: Who can have a keratine treament?
+        answer: The treatment can be used on dry, damaged, uncontrollable frizzy, dull
+          with no shin and those who loses hair a lot.
+      - question: What is a Perm?
+        answer: A perm (short for “permanent hairstyle”) is a process in which a stylist
+          uses chemicals to change the texture of your hair to a permanent wave
+          or curl. Perms work by altering the structure of your hair,
+          essentially using chemicals to break the bonds that determine your
+          natural hair texture such as straight or wavy. It lasts 3-4 months.
+          Please contact us for a free consultation.
+      - question: Is ammonia free hair color good?
+        answer: Ammonia free colouring doesn't mean that it is organic and natural, it
+          means that it doesn't contain ammonia and is very safe for you and
+          your hair. Ammonia free hair colour does not damage your hair. These
+          colours are less harmful to your hair, which means it will be softer
+          and shinier, even after colouring.
   - type: divider
     bg_color: white
   - type: cta
