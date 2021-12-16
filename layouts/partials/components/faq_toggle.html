@@ -3,7 +3,7 @@
     "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": [
-
+      {{ range .faqs }}
       {
         "@type": "Question",
         "name": "{{ .question | safeHTML }}",
@@ -11,7 +11,8 @@
           "@type": "Answer",
           "text": "{{ .answer | safeHTML }}"
         }
-      }
+      },
+      {{ end }}
     ]
   }
   </script>
