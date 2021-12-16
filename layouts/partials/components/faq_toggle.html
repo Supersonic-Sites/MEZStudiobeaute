@@ -13,6 +13,14 @@
         }
       },
       {{ end }}
+      {
+        "@type": "Question",
+        "name": "{{ .question | safeHTML }}",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "{{ .answer | safeHTML }}"
+        }
+      }
     ]
   }
   </script>
