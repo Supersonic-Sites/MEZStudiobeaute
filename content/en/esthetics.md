@@ -965,76 +965,6 @@ components:
           - Not using facial scrubs or peels for at least 4 weeks after the procedure.<br>
 
           - Not sleeping on the face for at least 10 days after the procedure<br>
-      - question: What is the difference between microdermabrasion and microneedling?
-        answer: >
-          - Microdermabrasion uses vacuum and crystal technology to deeply
-          exfoliate and unclog the skin whereas Microneedling uses micro-fine
-          needles to encourage the production of collagen and increase firmness
-          within the skin.<br>
-
-          - Microdermabrasion is best for treating clogged pores, tired/dull skin and blackheads whereas Microneedling is great for treating acne scarring, stretchmarks and lines and wrinkles.<br>
-
-          - Microdermabrasion is not invasive however as microneedling involves needles rolling over the skin, there may be some bleeding during treatment.<br>
-      - question: What is microdermabrasion?
-        answer: >
-          Microdermabrasion is a minimally invasive procedure used to renew
-          overall skin tone and texture. It can improve the appearance of sun
-          damage, wrinkles, fine lines, age spots, acne scarring, melasma, and
-          other skin-related concerns and conditions.<br><br>
-
-          The procedure uses a special applicator with an abrasive surface to gently sand away the thick outer layer of the skin to rejuvenate it.
-      - question: Is microdermabrasion safe?
-        answer: >
-          Microdermabrasion is considered a safe procedure for most skin types
-          and colors. People might choose to get the procedure if they have the
-          following skin concerns:<br>
-
-          - Fine lines and wrinkles<br>
-
-          - Hyperpigmentation, age spots and brown spots<br>
-
-          - Enlarged pores and blackheads<br>
-
-          - Acne and acne scars<br>
-
-          - Stretch marks<br>
-
-          - Dull-looking skin complexion<br>
-
-          - Uneven skin tone and texture<br>
-
-          - Melasma<br>
-
-          - Sun damage<br>
-      - question: What is the aftercare for microdermabrasion?
-        answer: >-
-          - As a general rule, you should reach for sunscreen constantly for the
-          first 2 weeks after microneedling. Make sure to apply sunscreen
-          anytime you go outside in the days following your treatment.<br>
-
-          - Don’t spend prolonged time out in the sun for the first week after your microneedling procedure, as you’ll be more prone to sun damage than usual.<br>
-
-          - Use any topical antibiotic cream that your doctor prescribes to avoid infection.<br>
-
-          - Wash your hands before you touch your face.<br>
-
-          - Don’t put on makeup, especially with a makeup brush that has been used before, in the 24 hours following microneedling.<br>
-
-          - You’ll also need to avoid swimming pools, saunas, and situations where you might sweat heavily, including intense workouts at the gym, to protect your newly treated skin. After 72 hours have passed, you may be able to resume these activities.<br>
-      - question: Who is not eligible to microdermabrasion?
-        answer: >
-          Microdermabrasion is not recommended for people who have deep scars,
-          active keloids, undiagnosed lesions, a recent herpes outbreak, warts
-          on the face, skin cancer, active acne (stages 3 and 4), sunburns or
-          active rosacea, eczema, an auto-immune system disorder, or unstable
-          diabetes.<br><br>  
-
-          Pregnant women should not undergo microdermabrasion.  Individuals with deep scars, facial creases, or other moderate-to-severe skin defects should consider a stronger treatment such as a chemical peel or laser skin resurfacing.
-      - question: How many treatments of microdermabrasion are required?
-        answer: Initially 5 to 8 treatments spaced 7-10 days apart are recommended for
-          most people.  Acne scars and or discolorations may require more
-          treatments.  Monthly maintenance treatments every 2 or 3 months may be
-          necessary to maintain results.
   - type: heading_simple
     title: Microblading
   - type: faq_toggle
@@ -1111,6 +1041,69 @@ components:
           - Microdermabrasion is best for treating clogged pores, tired/dull skin and blackheads whereas Microneedling is great for treating acne scarring, stretchmarks and lines and wrinkles.<br>
 
           - Microdermabrasion is not invasive however as microneedling involves needles rolling over the skin, there may be some bleeding during treatment.<br>
+  - type: heading_simple
+    title: Microdermabrasion?
+  - type: faq_toggle
+    question: What is microdermabrasion?
+    answer: Microdermabrasion is a minimally invasive procedure used to renew
+      overall skin tone and texture. It can improve the appearance of sun
+      damage, wrinkles, fine lines, age spots, acne scarring, melasma, and other
+      skin-related concerns and conditions.<br><br> The procedure uses a special
+      applicator with an abrasive surface to gently sand away the thick outer
+      layer of the skin to rejuvenate it.
+    faqs:
+      - question: Is microdermabrasion safe?
+        answer: >-
+          Microdermabrasion is considered a safe procedure for most skin types
+          and colors. People might choose to get the procedure if they have the
+          following skin concerns:<br>
+
+          - Fine lines and wrinkles<br>
+
+          - Hyperpigmentation, age spots and brown spots<br>
+
+          - Enlarged pores and blackheads<br>
+
+          - Acne and acne scars<br>
+
+          - Stretch marks<br>
+
+          - Dull-looking skin complexion<br>
+
+          - Uneven skin tone and texture<br>
+
+          - Melasma<br>
+
+          - Sun damage<br>
+      - question: What is the aftercare for microdermabrasion?
+        answer: >-
+          - As a general rule, you should reach for sunscreen constantly for the
+          first 2 weeks after microneedling. Make sure to apply sunscreen
+          anytime you go outside in the days following your treatment.<br>
+
+          - Don’t spend prolonged time out in the sun for the first week after your microneedling procedure, as you’ll be more prone to sun damage than usual.<br>
+
+          - Use any topical antibiotic cream that your doctor prescribes to avoid infection.<br>
+
+          - Wash your hands before you touch your face.<br>
+
+          - Don’t put on makeup, especially with a makeup brush that has been used before, in the 24 hours following microneedling.<br>
+
+          - You’ll also need to avoid swimming pools, saunas, and situations where you might sweat heavily, including intense workouts at the gym, to protect your newly treated skin. After 72 hours have passed, you may be able to resume these activities.<br>
+      - question: Who is not eligible to microdermabrasion?
+        answer: >-
+          Microdermabrasion is not recommended for people who have deep scars,
+          active keloids, undiagnosed lesions, a recent herpes outbreak, warts
+          on the face, skin cancer, active acne (stages 3 and 4), sunburns or
+          active rosacea, eczema, an auto-immune system disorder, or unstable
+          diabetes.<br><br>  
+
+          Pregnant women should not undergo microdermabrasion.  Individuals with deep scars, facial creases, or other moderate-to-severe skin defects should consider a stronger treatment such as a chemical peel or laser skin resurfacing.
+      - question: How many treatments of microdermabrasion are required?
+        answer: Initially 5 to 8 treatments spaced 7-10 days apart are recommended for
+          most people.  Acne scars and or discolorations may require more
+          treatments.  Monthly maintenance treatments every 2 or 3 months may be
+          necessary to maintain results.
   - type: divider
     bg_color: white
   - type: cta

@@ -29,7 +29,7 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: [
-          '"PT Serif"',
+          '"Questrial"',
           'system-ui',
           '-apple-system',
           'BlinkMacSystemFont',
