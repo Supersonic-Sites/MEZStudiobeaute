@@ -578,6 +578,12 @@ collections:
               - { label: "ID", name: "id", widget: "string", default: "none" }
               - { label: "Background Color", name: "bg_color", widget: "string", default: "white" }
               
+          - label: "Heading Simple"
+            name: "heading_simple"
+            widget: "object"
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+
           - label: "Call to Action Bar"
             name: "cta"
             widget: "object"
