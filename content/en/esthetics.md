@@ -965,58 +965,6 @@ components:
           - Not using facial scrubs or peels for at least 4 weeks after the procedure.<br>
 
           - Not sleeping on the face for at least 10 days after the procedure<br>
-      - question: What is microneedling?
-        answer: Microneedling is a minimally invasive cosmetic procedure that’s used to
-          treat skin concerns via collagen production. Also known as collagen
-          induction therapy, this treatment may help those looking to reduce the
-          appearance of acne scars and stretch marks, premature aging, dark
-          spots, hyperpigmentation, alopecia.
-      - question: Why microneeding must be performed on the face and neck?
-        answer: |
-          Microneedling is effective for the following concerns:
-          - Acne scars<br>
-          - Age spots (also called “sun spots”)<br>
-          - Fine lines and wrinkles<br>
-          - Uncontrollable oily skin<br>
-          - Large pores<br>
-          - Reduced skin elasticity<br>
-          - Uneven skin tone<br>
-      - question: What to expect from microneedling?
-        answer: After you have a microneedling procedure, some side effects are to be
-          expected. When you leave your appointment, your skin may be flushed or
-          bright red.
-      - question: How long will it take for the redness of microneedling to disapear?
-        answer: >
-          The redness and swelling will most likely persist for 24 hours or
-          slightly longer. Even with careful aftercare, there isn’t much you can
-          do to get rid of the redness immediately after microneedling.
-      - question: Microneedling aftercare?
-        answer: >
-          - As a general rule, you should reach for sunscreen constantly for the
-          first 2 weeks after microneedling. Make sure to apply sunscreen
-          anytime you go outside in the days following your treatment.<br>
-
-          - Don’t spend prolonged time out in the sun for the first week after your microneedling procedure, as you’ll be more prone to sun damage than usual.<br>
-
-          - Use any topical antibiotic cream that your doctor prescribes to avoid infection.
-
-          Wash your hands before you touch your face.<br>
-
-          - Don’t put on makeup, especially with a makeup brush that has been used before, in the 24 hours following microneedling.<br>
-
-          - You’ll also need to avoid swimming pools, saunas, and situations where you might sweat heavily, including intense workouts at the gym, to protect your newly treated skin. After 72 hours have passed, you may be able to resume these activities.<br>
-      - question: Who is not eligible for microneedling?
-        answer: |
-          - Women who are pregnant<br>
-          - Have certain skin diseases, such as psoriasis or eczema<br>
-          - Have open wounds<br>
-          - Have had radiation therapy recently<br>
-          - Have a history of skin scars<br>
-      - question: How many treatments of microneedling are required?
-        answer: Microneedling typically requires nine months of treatment. During this
-          time, you'll need three to six treatments spaced out every two to six
-          weeks to see full results. The exact number of treatments and the time
-          between them will vary by type, location, and skin concern.
       - question: What is the difference between microdermabrasion and microneedling?
         answer: >
           - Microdermabrasion uses vacuum and crystal technology to deeply
@@ -1098,6 +1046,71 @@ components:
         answer: A touch-up is required to finalize the brows 4-8 weeks after the
           procedure. After that, touch-ups may be done after about a year or as
           directed by our esthetician.
+  - type: heading_simple
+    title: Microneedling
+  - type: faq_toggle
+    question: What is microneedling?
+    answer: Microneedling is a minimally invasive cosmetic procedure that’s used to
+      treat skin concerns via collagen production. Also known as collagen
+      induction therapy, this treatment may help those looking to reduce the
+      appearance of acne scars and stretch marks, premature aging, dark spots,
+      hyperpigmentation, alopecia.
+    faqs:
+      - question: Why microneeding must be performed on the face and neck?
+        answer: |-
+          Microneedling is effective for the following concerns:
+          - Acne scars<br>
+          - Age spots (also called “sun spots”)<br>
+          - Fine lines and wrinkles<br>
+          - Uncontrollable oily skin<br>
+          - Large pores<br>
+          - Reduced skin elasticity<br>
+          - Uneven skin tone<br>
+      - question: What to expect from microneedling?
+        answer: After you have a microneedling procedure, some side effects are to be
+          expected. When you leave your appointment, your skin may be flushed or
+          bright red.
+      - question: How long will it take for the redness of microneedling to disapear?
+        answer: The redness and swelling will most likely persist for 24 hours or
+          slightly longer. Even with careful aftercare, there isn’t much you can
+          do to get rid of the redness immediately after microneedling.
+      - question: Microneedling aftercare?
+        answer: >-
+          - As a general rule, you should reach for sunscreen constantly for the
+          first 2 weeks after microneedling. Make sure to apply sunscreen
+          anytime you go outside in the days following your treatment.<br>
+
+          - Don’t spend prolonged time out in the sun for the first week after your microneedling procedure, as you’ll be more prone to sun damage than usual.<br>
+
+          - Use any topical antibiotic cream that your doctor prescribes to avoid infection.
+
+          Wash your hands before you touch your face.<br>
+
+          - Don’t put on makeup, especially with a makeup brush that has been used before, in the 24 hours following microneedling.<br>
+
+          - You’ll also need to avoid swimming pools, saunas, and situations where you might sweat heavily, including intense workouts at the gym, to protect your newly treated skin. After 72 hours have passed, you may be able to resume these activities.<br>
+      - question: Who is not eligible for microneedling?
+        answer: |-
+          - Women who are pregnant<br>
+          - Have certain skin diseases, such as psoriasis or eczema<br>
+          - Have open wounds<br>
+          - Have had radiation therapy recently<br>
+          - Have a history of skin scars<br>
+      - question: How many treatments of microneedling are required?
+        answer: Microneedling typically requires nine months of treatment. During this
+          time, you'll need three to six treatments spaced out every two to six
+          weeks to see full results. The exact number of treatments and the time
+          between them will vary by type, location, and skin concern.
+      - question: What is the difference between microdermabrasion and microneedling?
+        answer: >-
+          - Microdermabrasion uses vacuum and crystal technology to deeply
+          exfoliate and unclog the skin whereas Microneedling uses micro-fine
+          needles to encourage the production of collagen and increase firmness
+          within the skin.<br>
+
+          - Microdermabrasion is best for treating clogged pores, tired/dull skin and blackheads whereas Microneedling is great for treating acne scarring, stretchmarks and lines and wrinkles.<br>
+
+          - Microdermabrasion is not invasive however as microneedling involves needles rolling over the skin, there may be some bleeding during treatment.<br>
   - type: divider
     bg_color: white
   - type: cta
