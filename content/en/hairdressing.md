@@ -43,36 +43,6 @@ components:
 
           <div class="md:px-2">1h30</div>
 
-          <div class="md:px-2">$55</div>
-
-          </div>
-
-          </div>
-
-
-          <div class="flex justify-between py-4 border-b border-gray-300">
-
-          <span class="md:text-xl">Short Length Haircut + Shampoo & Set</span>
-
-          <div class="font-bold text-primary text-base flex flex-col text-right">
-
-          <div class="md:px-2">1h20min</div>
-
-          <div class="md:px-2">$55</div>
-
-          </div>
-
-          </div>
-
-
-          <div class="flex justify-between py-4">
-
-          <span class="md:text-xl">Semi-Long & Long Haircut + Shampoo & Set</span>
-
-          <div class="font-bold text-primary text-base flex flex-col text-right">
-
-          <div class="md:px-2">1h30min</div>
-
           <div class="md:px-2">$60</div>
 
           </div>
@@ -172,7 +142,7 @@ components:
 
           <span class="md:text-xl">Tonner</span><br>
 
-          <small class="mb-2">* Tonner is to even out the yellow and orange strands. If the hair is longer than the shoulders the price will be $50+ depending on the amount of product used. If a shampoo & set is required please ask your hairdresser ($40+)</small>
+          <small class="mb-2">* Tonner is to even out the yellow and orange strands. If the hair is longer than the shoulders the price will be $50+ depending on the amount of product used. If a set is required please ask your hairdresser ($40+)</small>
 
           </div>
 
@@ -191,9 +161,11 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Sweeps, Highlights & Shades</span><br>
+          <span class="md:text-xl">Balayage & Highlights </span><br>
 
-          <small class="mb-2">* Starting at $ 150. Contact us before an appointment with your hair history: coloration - Make-up remover - Length -Thickness - Health of your hair</small>
+          <small class="mb-2">* Starting at $ 150. Contact us before an appointment with your hair history of at least past 6 months : previous coloration -bleaching - Length -Thickness - overall Health of your hair.
+
+          </small>
 
           </div>
 
@@ -271,9 +243,11 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Hair Treatment</span><br>
+          <span class="md:text-xl">Hair botox treatment</span><br>
 
-          <small class="mb-2">* Our hair treatment is a 3-step collogenous treatment for deep care that delivers intense hydration, leaving even the driest hair and brittle strands soft like petals. We end with an shampoo & set.</small>
+          <small class="mb-2">* Our hair treatment is a 3-step collagenous treatment for deep care that delivers intense hydration, leaving even the driest hair and brittle strands soft like petals. We end with a treatment shampoo & set.
+
+          </small>
 
           </div>
 
@@ -420,13 +394,13 @@ components:
 
       <div class="flex justify-between py-4 border-b border-gray-300">
 
-      <span class="md:text-xl">Medium Length Haircut</span>
+      <span class="md:text-xl">Shoulder & long hair length Haircut</span>
 
       <div class="font-bold text-primary text-base flex flex-col text-right">
 
       <div class="md:px-2">40min</div>
 
-      <div class="md:px-2">$35</div>
+      <div class="md:px-2">$45</div>
 
       </div>
 

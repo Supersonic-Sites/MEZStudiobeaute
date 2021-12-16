@@ -31,18 +31,20 @@ components:
     bg_color: white
   - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/feba474b-77b0-4a11-55b4-50345bdc1000/Square400px
     aos: fade-up
-    cta_link: esthetics/
+    cta_link: aesthetics/
     bg_color: white
     cta_select: true
     img_alt: Beauty & Esthetic Services
     cta: Browse Our Services
-    desc: "Our fully certified estheticians offer professional facials, skin care
-      treatments, manicures, and pedicures. Looking for hair removal?
-      Microblading services? Eyelash extensions? Stunning professional make-up
-      application? You name it, we can do it, all at one location for your
-      utmost convenience. "
+    desc: "We have a variety of facials to meet your skin’s needs. Let us advise you
+      with the best and effective facial treatments. We offer personalized skin
+      care for acne prone, hyperpigmentation, tired & dull, dehydrated,
+      wrinkled, scared due to acne, oily skin. WE are best in the industry by
+      providing the high end products for guaranteed results: microdermabrasion,
+      microneedling,  lash lift, extensions, eyebrows threading, microblading,
+      permanent makeup, mani-pedi."
     aos_select: true
-    title: Esthetic Services
+    title: Aesthetics Services
     type: img_third_left
     img_title: Learn more about our beauty & esthetic services
   - type: divider2x

@@ -1,8 +1,8 @@
 ---
 title: Hair Removal Treatments
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
-  aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
-  aliquam at ut neque.
+description: State-of-the-art equipment for painless laser hair removal
+  year-round. MEZ Studio Beauté uses the Soprano Ice device, for gentle
+  permanent laser hair removal.
 slug: services/laser-treatments
 components:
   - type: header_sub
@@ -212,24 +212,448 @@ components:
 
           </div>
       - service: Laser Hair Removal
-        desc: >-
-          <div class="flex justify-between pb-4 mb-4">
+        desc: >
+          
+          <div>
+
+          <span class="md:text-xl">Soprano ICE is the most complete and effective laser hair removal solution available today.<br><br>
+
+          By incorporating multiple laser wavelengths and technologies, Soprano ICE allows us to treat the widest range of patients and hair types all year round, administer treatments quickly and comfortably and achieve the best possible clinical results.<br><br>
+
+          <small>Please contact us for free consultation and customized laser packages at 450-619-1600</small>
+
+          </span>
+
+          <br><br>
+
+          <span class="text-2xl">Standard packages</span>
+
+          <hr><br>
+
+          <span class="text-xl italic text-primary">Combo 2 - 30% discount*</span><br><br>
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
           <div>
 
-          <span class="md:text-xl">State-of-the-art equipment for painless laser hair removal year-round. MEZ Studio Beauté uses the Soprano Ice device, for gentle permanent laser hair removal that is two to three times faster and more efficient than with traditional hair removal methods. Eliminate your hair for life after only 6 to 8 sessions.</span><br>
+          <span class="md:text-xl">Bikini + underarms </span><br>
 
           </div>
 
-          <div class="font-bold text-primary text-base flex flex-col text-right">
-
-          <div class="md:px-2">30min</div>
-
-          <div class="md:px-2">$45</div>
+          <div class="md:px-2 text-primary"><b>126$</b></div>
 
           </div>
 
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Brésilien bikini + underarms </span><br>
+
           </div>
+
+          <div class="md:px-2 text-primary"><b>161$</b></div>
+
+          </div>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Bikini + half legs</span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b>189$</b></div>
+
+          </div>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Brésilien bikini + full legs</span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b>238$</b></div>
+
+          </div>
+
+
+          <small>* Free underarms for 3 sessions for new clients (-155$)</small><br><br>
+
+
+          <span class="text-xl italic text-primary">Combo 3- 30% discount*</span><br><br>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Bikini + underarms + half legs</span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 217$</b></div>
+
+          </div>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Brésilien bikini + underarms + full leg</span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 322$*</b></div>
+
+          </div>
+
+
+          <small>* Free underarms for 3 sessions for new clients (-155$)</small><br><br>
+
+
+          <span class="text-xl italic text-primary">Face</span><br><br>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Full face</span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 196$*</b></div>
+
+          </div>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Neck</span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 77$</b></div>
+
+          </div>
+
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Neck+beard</span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 185$</b></div>
+
+          </div>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Sideburns</span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 49$</b></div>
+
+          </div>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Cheeks</span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 42$</b></div>
+
+          </div>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Upper lips</span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 42$</b></div>
+
+          </div>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Chin</span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 42$</b></div>
+
+          </div>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Ears</span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 42$</b></div>
+
+          </div>
+
+          <small>* Free underarms for 3 sessions for new clients (-155$)</small>
+
+          </div>
+
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Chin</span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 42$</b></div>
+
+          </div>
+
+
+
+          <span class="text-xl italic text-primary"> Upper body laser</span><br><br>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Underarms</span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 45$</b></div>
+
+          </div>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Full arms </span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 157$*</b></div>
+
+          </div>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Half arm incl. Hands</span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 126$</b></div>
+
+          </div>
+
+           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+          <div>
+
+          <span class="md:text-xl">Lower back</span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 77$</b></div>
+
+          </div>
+
+           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+          <div>
+
+          <span class="md:text-xl">Full back</span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 164$*</b></div>
+
+          </div>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Back + shoulder</span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 168$</b></div>
+
+          </div>
+           
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Shoulder </span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 105$</b></div>
+
+          </div>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Belly button line</span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 42$</b></div>
+
+          </div>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Abdomen</span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 133$</b></div>
+
+          </div>
+           
+          <small>* Free underarms for 3 sessions for new clients (-155$)</small><br><br>
+
+
+          <span class="text-xl italic text-primary"> Lower body laser</span><br><br>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Bikini </span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 98$</b></div>
+
+          </div>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Brésilien</span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 133$</b></div>
+
+          </div>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Buttocks </span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 94$</b></div>
+
+          </div>
+           
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Full thighs</span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 147$</b></div>
+
+          </div>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Half leg incl. feet & toes</span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 182$</b></div>
+
+          </div>
+           
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Toes </span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 24$</b></div>
+
+          </div>
+           
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Foot </span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 42$</b></div>
+
+          </div>
+
+          <small>* Free underarms for 3 sessions for new clients (-155$)</small>
     cta_link: https://mez-collections-and-studio-beaute.appointlet.com/
     bg_color: white
     cta_select: true
@@ -574,19 +998,6 @@ components:
     title: Services
     type: img_half_right_toggle
   - type: divider2x
-    bg_color: white
-  - type: heading_full
-    align: center
-    id: none
-    bg_color: white
-    title: Frequently Asked Questions
-    title_size: small
-    desc: "#"
-  - type: faq_toggle
-    question: This is a very important questions
-    answer: This is a very important answer. orem ipsum dolor sit amet consectetur
-      adipisicing elit. Quas cupiditate laboriosam fugiat.
-  - type: divider
     bg_color: white
   - type: cta
     bg_color: primary

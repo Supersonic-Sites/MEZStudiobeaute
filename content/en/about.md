@@ -17,18 +17,20 @@ components:
     img_alt: Please type in a description of the image for the search engine or
       visually impaired people
     cta: Call To Action
-    desc: >-
-      Mariam has always had an eye for the artistic and the beautiful. With a
-      background in graphic design, her true passion lies in fashion and beauty
-      treatments. While attending a conference in India, she was introduced to a
-      stunning collection of Afghan garments. Inspired, she decided to open her
-      own boutique for Afghan fashion in Québec. From there, the dream only
-      grew. Mariam went on to complete hair dressing school, was certified as an
-      esthetician, and opened MEZ Studio Beauté, a fully certified, full service
-      salon, in January, 2017.<br><br>
+    desc: >
+      Mariam has always been passionate about arts, beauty, design & fashion.
+      With a background in graphic design, her true passion lies in fashion and
+      beauty treatments. She saw the need of acquiring traditional Indian,
+      Afghan, Pakistani outfits in Quebec. <br><br>
 
 
-      Mariam is proud to own her own beauty salon and fashion boutique, named after her three beautiful daughters. She loves the work and it gives her great joy to see her clients leave with a smile. She is pleased to offer bilingual services to both French and English clients. 
+      After going to India she met with some known fashion designers and pursued her dream of importing beautiful Indian traditional garments. Soon enough she opened her own boutique MEZ Collections in January 2017, but her collection was not complete unless she imported traditional afghan garments. Not long after her boutique became so famous that she started getting clients orders from all over the world.  From there, the dream only grew and motivation came that a boutique is not complete without a full service beauty salon. <br><br>
+
+
+      Therefore, Mariam went on to complete hairdressing school, also got her certification as a microblading, permanent makeup, lash extensions, nails, microneedling certified artist from famous beauty academies like PHI academy, and opened MEZ Studio Beauté, a fully certified, full service salon, in April  2018.<br><br>
+
+
+      Mariam is proud to own her own beauty salon and fashion boutique, named after her three beautiful daughters Mariha, Elaha and Zahra. She loves the work and it gives her great joy to see her clients leave with a smile. She is pleased to offer tri-bilingual services to both French, English and Dari speaking clients.<br><br>
     aos_select: true
     title: "A Passion For Beauty And Fashion "
     type: img_half_right

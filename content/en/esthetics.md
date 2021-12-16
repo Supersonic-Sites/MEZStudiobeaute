@@ -1,26 +1,26 @@
 ---
-title: Esthetics
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
-  aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
-  aliquam at ut neque.
-slug: services/esthetics
+title: Aesthetics
+description: WE are best in the industry by providing the high end products for
+  guaranteed results. Microdermabrasion, microneedling,  lash lift, extensions,
+  eyebrows threading, microblading, permanent makeup, mani-pedi and more.
+slug: services/aesthetics
 components:
   - type: header_sub
     bg_color: primary
     img: /img/banner.jpg
-    title: "Esthetics "
+    title: Aesthetics
   - type: divider_half
     bg_color: white
   - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/b16c51b9-d3ab-4973-6f65-0af7ae574500/SquareDesktop
     aos: fade
     service_list:
-      - service: Facial Microdermabrasion
+      - service: Microdermabrasion
         desc: >-
           <div class="flex justify-between pb-4 mb-4">
 
           <div>
 
-          <span class="md:text-xl">Our Signature facial consists of deep cleansing the dead skin. Microdermabrasion is used to treat the following conditions: Wrinkles and fine lines Dark skin Soft acne scars Sun-induced photodamage leading to areas of hyperpigmentation or age Coarse pores Stretch marks or striae distensae.</span>
+          <span class="md:text-xl">Microdermabrasion is a minimally invasive procedure used to renew overall skin tone and texture. It can improve the appearance of sun damage, wrinkles, fine lines, age spots, acne scarring, melasma, and other skin-related concerns and conditions.</span>
 
           </div>
 
@@ -33,13 +33,15 @@ components:
           </div>
 
           </div>
-      - service: "Specific Care: Lifting Spark Treatments"
+      - service: Nutri-Lifting Treatment
         desc: >-
           <div class="flex justify-between pb-4 mb-4">
 
           <div>
 
-          <span class="md:text-xl">This professional treatment combines the power of plant extracts with that of natural fruit acids to exfoliate, smooth, nourish and protect the skin in a single step</span>
+          <span class="md:text-xl"><strong>Phyto Nutri-Lifting Complex + Fruit Acids + Vitamin A, C and E
+
+          </strong><br>This professional care combines the power of plant extracts to natural fruit acids to exfoliate, wreathe, nourish and protect the skin all at once.</span>
 
           </div>
 
@@ -77,15 +79,21 @@ components:
           </div>
 
           </div>
-      - service: "Specific Care: Radiance treatment"
+      - service: Ligntening Peel-Off Cooling Treatment
         desc: >-
           <div class="flex justify-between pb-4 mb-4">
 
           <div>
 
-          <span class="md:text-xl">Radiance phyto complex + vitamin C Sarmentose saxifrage + red vine + black mulberry + Baikal skullcap + marine polysaccharides. <br><br>
+          <span class="md:text-xl"><strong>Vitamin C + Phyto Éclat Complex</strong><br>
 
-          Rich in lightening, regenerating and moisturizing active ingredients, this mask is specially formulated to bring radiance and comfort to all skin types and more particularly to dull skin. Thanks to its lightening plant complex, it regulates the production of melanin and stimulates the synthesis of collagen. It acts by producing a cooling of the skin, consequently, this one finds flexibility, luminosity and softness from the first session.</span>
+          Vitamin C + Scutelllaria + Saxifraga + Black Mulberry + Grape + Marine Polysaccharids<br><br>
+
+          This treatment is specially formulated to enlighten complexion. It provides radiance and luminance to all skin types. Enriched with Vitamin C (free anti-radicals), it regulates the production of melamine by inhibiting tyrosinase and stimulates collagen synthesis.<br><br>
+
+          Optimal treatment that creates a damp atmosphere which through the osmosis phenomenon, improves durably the skin hydration.
+
+          </span>
 
           </div>
 
@@ -104,7 +112,17 @@ components:
 
           <div>
 
-          <span class="md:text-xl">An antioxidant and anti-aging treatment designed to revive the skin by stimulating collagen synthesis and protecting it against free radicals. Formulated with active ingredients from marine and plant sources and a concentrate of vitamin C, this treatment reduces the appearance of fine lines and wrinkles, evens skin tone and leaves skin radiant to restore its youthful appearance.<br><br>The new PROTOCOL-C with multiple proven effects, in just one treatment:<br> • Stimulates tired, stressed skin<br> • The skin is visibly smoother and more supple<br> • Protects the skin and reduces wrinkles</span>
+          <span class="md:text-xl">The innovative treatment with Vitamin C that makes the skin looks alive.<br><br>
+
+          An innovative antioxidant care with Vitamin C. Never before a facial massage will have procured such efficiency.<br><br>
+
+          An antioxidant and anti-ageing treatment conceived to revive the skin by stimulating the synthesis of collagen and protecting it from free radicals. Formulated with marine and vegetal actives ingredients plus a concentrate of Vitamin C, this treatment diminishes the appearance of wrinkles and fine lines, blends the complexion and gives a radiant look to the skin by bringing back its youth. The new PROTOCOL-C with multiple proven effects in one single treatment:<br><br>
+           • Stimulates fatigued, stressed skin<br> 
+          • The skin is visibly smoothed and more supple<br> 
+
+          • Protects the skin and reduces wrinkles
+
+          </span>
 
           </div>
 
@@ -142,19 +160,34 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Collagen induction therapy with ACS-PEN:<br><br>
+          <span class="md:text-xl">Microneedling is a minimally invasive cosmetic procedure that’s used to treat skin concerns via collagen production. Also known as <a href="https://www.healthline.com/nutrition/collagen" rel="_blank">collagen</a> induction therapy, this treatment may help those looking to reduce the appearance of;
 
-          • Reduction of fine lines and wrinkles<br>
+          <br>
 
-          • Strengthening and toning sagging skin<br>
+          • Acne scars <br>
 
-          • Improving scars and stretch marks<br>
+          • Premature aging<br>
 
-          • Reducing pore size<br>
+          • Hyperpigmentation<br>
 
-          • Firming and smoothing sun damaged skin<br>
+          • Dark spots<br>
 
-          • Even skin tone</span> 
+          • Oily skin<br>
+
+          • Stretch marks<br>
+
+          • Alopecia<br>
+
+          • Surgery scars<br><br>
+
+          <p>For more info check out the FAQ page or call us for free consultation and available packages options.<br><br>
+
+
+          To know if you are eligible please contact us at 450-619-1600. For common questions regarding our cosmetic tatting procedures, post treatments please read the FAQ.
+
+          </p>
+
+          </span> 
 
           </div>
 
@@ -162,7 +195,7 @@ components:
 
           <div class="md:px-2">1h30min</div>
 
-          <div class="md:px-2">$200</div>
+          <div class="md:px-2">$250</div>
 
           </div>
 
@@ -178,7 +211,7 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Our Signature Facial involves deep cleansing the dead skin removing black tips and leaving the skin feeling fresh and clean.</span><br>
+      <span class="md:text-xl">Our Signature facial consists of deep cleansing the dead skin. Microdermabrasion is used to treat the following conditions: Wrinkles and fine lines Dark skin Soft acne scars Sun-induced photodamage leading to areas of hyperpigmentation or age Coarse pores Stretch marks or striae distensae.</span><br>
 
       </div>
 
@@ -194,7 +227,7 @@ components:
 
     service: Facials
     aos_select: true
-    title: Facial Treatments
+    title: Specialized facials treatments
     type: img_half_right_toggle
   - type: divider2x
     bg_color: white
@@ -207,9 +240,9 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Le tatouage cosmétique des lèvres est une technique visant à embellir l'apparence et la pigmentation naturelle de votre bouche ! Que vous recherchiez, un style plus naturel (Lip gloss), plus maquillé (Rouge à lèvre), corriger une asymétrie ou donner un effet plus volumineux, le tatouage cosmétique redéfinit et embellit vos lèvres !</span><br><br>
+          <span class="md:text-xl">Lip blushing is a semi-permanent cosmetic tattoo procedure that adds a light tint of color to a person’s lips. Most lip blush tattoos are designed to last two to three years. </span><br><br>
 
-          <small>To be eligible for microblading please contact us at 450-619-1600</small>
+          <small>To know if you are eligible please contact us at 450-619-1600</small>
 
           </div>
 
@@ -230,7 +263,9 @@ components:
 
           <span class="md:text-xl">Intralash and permanent eyeliner are two techniques to bring out your eyes with the most delicate of lines! We offer you an intra-lash line, an eyeliner and even a combination of the two, for a radiant look as soon as you wake up!</span><br><br>
 
-          <small>To be eligible for microblading please contact us at 450-619-1600</small>
+          <small>To be eligible for microblading please contact us at 450-619-1600. For common questions regarding our cosmetic tatting procedures, post treatments please read the FAQ.
+
+          </small>
 
           </div>
 
@@ -354,7 +389,7 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Retouching</span><br>
+      <span class="md:text-xl">Touch-up</span><br>
 
       </div>
 
@@ -396,12 +431,12 @@ components:
     aos: fade-in
     service_list:
       - service: Makeup
-        desc: >-
+        desc: >
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
           <div>
 
-          <span class="md:text-xl">Day Makeup</span><br>
+          <span class="md:text-xl">Makeup</span><br>
 
           </div>
 
@@ -409,7 +444,7 @@ components:
 
           <div class="md:px-2">1h00</div>
 
-          <div class="md:px-2">$50</div>
+          <div class="md:px-2">$60</div>
 
           </div>
 
@@ -420,7 +455,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Hairdressing & Makeup for Events</span><br>
+          <span class="md:text-xl">Hairdo & Makeup Full Glam</span><br>
 
           </div>
 
@@ -428,7 +463,7 @@ components:
 
           <div class="md:px-2">2h30min</div>
 
-          <div class="md:px-2">$100</div>
+          <div class="md:px-2">$120</div>
 
           </div>
 
@@ -439,7 +474,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Hairdressing & Makeup for Wedding</span><br>
+          <span class="md:text-xl">Bridal Hairdo & Makeup Full Glam</span><br>
 
           <small class="mb-2">* Starting at $200</small>
 
@@ -454,13 +489,16 @@ components:
           </div>
 
           </div>
-      - service: Hands
+
+
+          Please note that silk lashes are included in our makeup package. Clients with very thick and long hair will be charged extra depending on the extra time taken.. 
+      - service: Hands and Nails Care
         desc: >-
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
           <div>
 
-          <span class="md:text-xl">Nail Extensions: UV Gel, Acrylic, Resin and Powder</span><br>
+          <span class="md:text-xl">Nail Extensions: UV Gel, Acrylic, Resin</span><br>
 
           </div>
 
@@ -479,7 +517,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Nail filling</span><br>
+          <span class="md:text-xl">Nail Filling</span><br>
 
           </div>
 
@@ -487,7 +525,7 @@ components:
 
           <div class="md:px-2">1h00</div>
 
-          <div class="md:px-2">$35</div>
+          <div class="md:px-2">$40</div>
 
           </div>
 
@@ -498,7 +536,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Extension Removal and Cleaning</span><br>
+          <span class="md:text-xl">Nail Extension Removal and Cleaning</span><br>
 
           </div>
 
@@ -517,7 +555,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Special Care: Express Hand Care Without Varnish</span><br>
+          <span class="md:text-xl">Special Care: Express Hand Care Without Polish</span><br>
 
           <small>Manicure includes cutting and filing of nails, cuticle care + hand massage.</small>
 
@@ -538,9 +576,11 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Special Care: Express Hand Care With Varnish</span><br>
+          <span class="md:text-xl">Special Care: Express Hand Care With Polish</span><br>
 
-          <small>Designed to restore the silky appearance and softness of the hands, this treatment includes nail preparation, cuticle care, exfoliation (scrub) and hydration (mask) of the hands.</small>
+          <small>Express manicure softness of the hands. The treatment includes nail preparation, cuticle care, exfoliation (scrub) and hydration (mask) of the hands.
+
+          </small>
 
           </div>
 
@@ -548,7 +588,7 @@ components:
 
           <div class="md:px-2">30min</div>
 
-          <div class="md:px-2">$25</div>
+          <div class="md:px-2">$30</div>
 
           </div>
 
@@ -561,7 +601,9 @@ components:
 
           <span class="md:text-xl">Hand Care With Shellac</span><br>
 
-          <small>Designed to restore the silky appearance and softness of the hands, this treatment includes nail preparation, cuticle care, exfoliation (scrub) and hydration (mask) of the hands.</small>
+          <small>The treatment includes nail preparation, cuticle care, exfoliation (scrub) and hydration (mask) of the hands and shellac application..
+
+          </small>
 
           </div>
 
@@ -569,7 +611,7 @@ components:
 
           <div class="md:px-2">40min</div>
 
-          <div class="md:px-2">$30</div>
+          <div class="md:px-2">$35</div>
 
           </div>
 
@@ -594,7 +636,7 @@ components:
           </div>
 
           </div>
-      - service: Feet
+      - service: Feet And Toes
         desc: >
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
@@ -602,7 +644,7 @@ components:
 
           <span class="md:text-xl">Foot Spa Treatments with Gel Polish</span><br>
 
-          <small>Designed to restore softness to the feet, this treatment includes nail preparation, callus reduction, exfoliation (scrub) and hydration (mask) of the feet. With the addition of a foot massage and the application of a varnish, this treatment is one of the most complete.</small>
+          <small>This treatment will restore softness to the feet, this treatment includes nail preparation, callus reduction, exfoliation (scrub) and hydration (mask) of the feet. With the addition of a foot massage and the application of a gel polish, this treatment is one of the most complete.</small>
 
           </div>
 
@@ -610,7 +652,7 @@ components:
 
           <div class="md:px-2">1h00</div>
 
-          <div class="md:px-2">$45</div>
+          <div class="md:px-2">$50</div>
 
           </div>
 
@@ -621,9 +663,9 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Express Foot Care With or Without Varnish</span><br>
+          <span class="md:text-xl">Express Foot Care With or Without Polish</span><br>
 
-          <small>Pedicure including cutting and filing of nails, cuticle care and the application of varnish.</small>
+          <small>Pedicure includes cutting and filing of nails, cuticle care and the application of polish.</small>
 
           </div>
 
@@ -705,14 +747,16 @@ components:
     desc: >-
       <br>
 
-      <small>* Our eyelashes are silk. Very soft so as not to damage your natural eyelashes.<br>Filling should be done between 2-3 weeks</small>
+      <small>* We use high end soft silk lashes to avoid damage to your natural lashes along with the allergy free glue for a 2-3 weeks retention. For lashes to be considered refill you must have 50% of the extensions in place.<br><br>For precautions and maintenance of your lashes please read the FAQ.
+
+      </small>
 
 
       <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
       <div>
 
-      <span class="md:text-xl">Eyelash Application: Classic</span><br>
+      <span class="md:text-xl">Classic Lashes</span><br>
 
       </div>
 
@@ -720,7 +764,7 @@ components:
 
       <div class="md:px-2">1h30</div>
 
-      <div class="md:px-2">$66</div>
+      <div class="md:px-2">$70</div>
 
       </div>
 
@@ -731,7 +775,7 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Eyelash Application: Classic Filling</span><br>
+      <span class="md:text-xl">Classic Refill*</span><br>
 
       </div>
 
@@ -750,7 +794,7 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Eyelash Application: Hybrid</span><br>
+      <span class="md:text-xl">Hybrid Lashes</span><br>
 
       </div>
 
@@ -758,7 +802,7 @@ components:
 
       <div class="md:px-2">2h00</div>
 
-      <div class="md:px-2">$80</div>
+      <div class="md:px-2">$85</div>
 
       </div>
 
@@ -769,7 +813,7 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Eyelash Application: Hybrid Filling</span><br>
+      <span class="md:text-xl">Hybrid Refill*</span><br>
 
       </div>
 
@@ -777,7 +821,7 @@ components:
 
       <div class="md:px-2">1h00</div>
 
-      <div class="md:px-2">$45</div>
+      <div class="md:px-2">$60</div>
 
       </div>
 
@@ -788,7 +832,7 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Eyelash Application: Mega Volume</span><br>
+      <span class="md:text-xl">Mega Volume Lashes</span><br>
 
       </div>
 
@@ -796,7 +840,7 @@ components:
 
       <div class="md:px-2">2h30min</div>
 
-      <div class="md:px-2">$90</div>
+      <div class="md:px-2">$99</div>
 
       </div>
 
@@ -807,7 +851,7 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Eyelash Application: Mega Volume Filling</span><br>
+      <span class="md:text-xl">Mega Volume Refill*</span><br>
 
       </div>
 
@@ -815,7 +859,7 @@ components:
 
       <div class="md:px-2">1h00</div>
 
-      <div class="md:px-2">$60</div>
+      <div class="md:px-2">$65</div>
 
       </div>
 

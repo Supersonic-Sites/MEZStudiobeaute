@@ -3,21 +3,21 @@ title: Home - Hairdresser, Makeup Artist & Esthetician
 description: At MEZ Studio Beauté we take care of our clients from full glam
   makeup, hairdressing, esthetics, laser treatments and much more.
 components:
-  - cta2: Get An Appointment
+  - cta2: Book Now
     img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/1d863b2e-39c8-4cd7-c598-164a507e8b00/HeroBackground
     cta_link: services/
     img_alt: Image of a model with to feature MEZ Studio Beauté services
     cta: Our Services
-    desc: Hairdresser. Makeup artist. Esthetician. Hair Removal Services.<br> Get Your Free
-      Consultation Today.
+    desc: Hairdresser. Makeup artist. Esthetician. Hair Removal Services.<br> Get
+      Your Free Consultation Today.
     cta2_link: https://mez-collections-and-studio-beaute.appointlet.com/
-    title1: Become Your Most Beautiful
+    title1: YOUR TRANSFORMATION
     cta2_select: true
-    title2: Self
+    title2: AWAITS
     type: hero_half_img_diagonal
     img_title: "Showcase MEZ Studio Beauté specialities: Haidressing, Beauty
       Services and laser hair removal."
-  - type: divider
+  - type: divider_half
     bg_color: white
   - type: heading_full
     align: center
@@ -26,10 +26,14 @@ components:
     title: Our Process
     title_size: small
     desc_select: true
-    desc: "Are you looking for a fresh make-over you can easily maintain at home? At
-      MEZ Studio Beauté, our greatest satisfaction is to see you leave with a
-      smile. Enjoy complete beauty services at one single location. We always
-      offer free consultation before treatment. Ready for a transformation? "
+    desc: >-
+      If you are looking for a complete makeover, then you are in the right
+      place. At MEZ Studio Beauté our expert hair stylist, esthetician makeup
+      artist are fully certified to take care of all your beauty needs. Our
+      great satisfaction is to see you leave with a smile and
+      confidence.<br><br>
+
+      Call us for a free consultation and advice.
   - type: divider_half
     bg_color: white
   - type: cards_fourth_text
@@ -65,6 +69,7 @@ components:
         divider_color: primary
       - divider_select: true
         title_select: true
+        subtitle_select: false
         aos: flip-up
         title_size: small
         cta_link: "#"
@@ -106,12 +111,12 @@ components:
           have got you covered. "
       - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/feba474b-77b0-4a11-55b4-50345bdc1000/Square400px
         aos: fade
-        cta_link: services/esthetics
+        cta_link: services/aesthetics
         cta_select: true
         img_alt: Featuring our Esthetics & Beauty Services
         cta: Learn More
         aos_select: true
-        title: Esthetics
+        title: Aesthetics
         img_title: Esthetics & Beauty Services - Click Here
         description: "Enjoy a variety of relaxing facial, nail, and eyelash treatments,
           microblading, hair removal services, and stunning make-up applications
