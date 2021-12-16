@@ -883,8 +883,6 @@ components:
     title: Frequently Asked Questions
     title_size: small
     desc: "#"
-  - type: heading_simple
-    title: Semi-Permanent Makeup
   - type: faq_toggle
     question: What is semi-permanent makeup?
     answer: Micro-shading, permanent eyeliner, lip blush is a semi-permanent make-up
@@ -965,6 +963,13 @@ components:
           - Not using facial scrubs or peels for at least 4 weeks after the procedure.<br>
 
           - Not sleeping on the face for at least 10 days after the procedure<br>
+      - question: In how long does microblading heals?
+        answer: The result is perfectly visible once all of the scabs fall. It will
+          lighten 30% vs day one.
+      - question: Why a second session of microblading is required within 4 to 8 weeks?
+        answer: A touch-up is required to finalize the brows 4-8 weeks after the
+          procedure. After that, touch-ups may be done after about a year or as
+          directed by our esthetician.
       - question: What is microneedling?
         answer: Microneedling is a minimally invasive cosmetic procedure that’s used to
           treat skin concerns via collagen production. Also known as collagen
@@ -1088,16 +1093,7 @@ components:
           treatments.  Monthly maintenance treatments every 2 or 3 months may be
           necessary to maintain results.
   - type: heading_simple
-    title: Microblading
-  - type: faq_toggle
-    question: In how long does microblading heals?
-    answer: The result is perfectly visible once all of the scabs fall. It will
-      lighten 30% vs day one.
-    faqs:
-      - question: Why a second session of microblading is required within 4 to 8 weeks?
-        answer: A touch-up is required to finalize the brows 4-8 weeks after the
-          procedure. After that, touch-ups may be done after about a year or as
-          directed by our esthetician.
+    title: Semi-Permanent Makeup
   - type: divider
     bg_color: white
   - type: cta
