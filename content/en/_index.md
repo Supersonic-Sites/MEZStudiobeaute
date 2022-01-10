@@ -123,7 +123,7 @@ components:
           for any event. "
       - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/dd292dcb-cf6b-4873-6ab4-b124fe63e300/Square400px
         aos: fade
-        cta_link: services/laser-treatments
+        cta_link: services/hair-removal
         cta_select: true
         img_alt: Hair removal services through laser treatments
         cta: Learn More

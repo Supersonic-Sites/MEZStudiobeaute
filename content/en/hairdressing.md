@@ -178,6 +178,9 @@ components:
           </div>
 
           </div>
+
+
+          <a href="#faq" class="underline text-primary">Please read our FAQ about hair dye</a>
       - service: Perms
         desc: >+
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
@@ -218,7 +221,7 @@ components:
           </div>
 
 
-          <div class="flex justify-between pb-4 border-b border-gray-300">
+          <div class="flex justify-between pb-4">
 
           <div>
 
@@ -236,6 +239,8 @@ components:
 
           </div>
 
+
+          <a href="#faq" class="underline text-primary">Please read our FAQ about perms</a>
 
       - service: Treatments & Extensions
         desc: >-
@@ -267,9 +272,9 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Keratin Smoothing Treatment</span><br>
+          <span class="md:text-xl">Keratine Smoothing Treatment</span><br>
 
-          <small class="mb-2">Our keratin treatment is a 3-stage treatment for deep care that delivers intense hydration, leaving even the driest hair and the most brittle strands soft and smooth.<br> Our smoothing system is made with a high technology that gives new life to your frizzy and dry hair. The treatment lasts up to 5 months. After the treatment you will receive a conditioning shampoo and conditioner valued at $ 62.50 for free.</small>
+          <small class="mb-2">Our keratine treatment is a 3-stage treatment for deep care that delivers intense hydration, leaving even the driest hair and the most brittle strands soft and smooth.<br> Our smoothing system is made with a high technology that gives new life to your frizzy and dry hair. The treatment lasts up to 5 months. After the treatment you will receive a conditioning shampoo and conditioner valued at $ 62.50 for free.</small>
 
           </div>
 
@@ -285,7 +290,7 @@ components:
 
 
 
-          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+          <div class="flex justify-between pb-4 mb-4">
 
           <div>
 
@@ -304,6 +309,9 @@ components:
           </div>
 
           </div>
+
+
+          <a href="#faq" class="underline text-primary">Please read our FAQ about keratine treatments</a>
       - service: Special Events
         desc: >-
           <br>
@@ -443,11 +451,12 @@ components:
     bg_color: white
   - type: heading_full
     align: center
-    id: none
+    id: faq
     bg_color: white
     title: Frequently Asked Questions
     title_size: small
     desc: "#"
+    id_select: true
   - type: faq_toggle
     question: Which Keratine treament system do you use?
     answer: We use KeraSpa

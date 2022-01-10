@@ -51,7 +51,7 @@ components:
     bg_color: white
   - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/dd292dcb-cf6b-4873-6ab4-b124fe63e300/Square400px
     aos: fade-up
-    cta_link: laser-treatments/
+    cta_link: hair-removal/
     bg_color: white
     cta_select: true
     img_alt: Laser hair removal services thumbnail

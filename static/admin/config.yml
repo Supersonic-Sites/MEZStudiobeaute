@@ -583,6 +583,7 @@ collections:
             widget: "object"
             fields:
               - { label: "Title", name: "title", widget: "string" }
+              - { label: "ID", name: "id", widget: "string" }
 
           - label: "Call to Action Bar"
             name: "cta"

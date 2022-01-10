@@ -33,6 +33,8 @@ components:
           </div>
 
           </div>
+
+          <a href="#microdermabrasion" class="underline text-primary">Please read our FAQ about microdermabrasion</a>
       - service: Nutri-Lifting Treatment
         desc: >-
           <div class="flex justify-between pb-4 mb-4">
@@ -155,7 +157,7 @@ components:
 
           </div>
       - service: Microneedling
-        desc: >+
+        desc: >
           <div class="flex justify-between pb-4 mb-4">
 
           <div>
@@ -201,6 +203,8 @@ components:
 
           </div>
 
+
+          <a href="#microneedling" class="underline text-primary">Please read our FAQ about microneedling</a>
     cta_link: https://mez-collections-and-studio-beaute.appointlet.com/
     bg_color: white
     cta_select: true
@@ -255,6 +259,9 @@ components:
           </div>
 
           </div>
+
+
+          <a href="#semi-permanent" class="underline text-primary">Please read our FAQ about semi-permanent makeup</a>
       - service: Permanent Eyeliner / Intralash
         desc: >-
           <div class="flex justify-between pb-4 mb-4">
@@ -278,6 +285,8 @@ components:
           </div>
 
           </div>
+
+          <a href="#semi-permanent" class="underline text-primary">Please read our FAQ about semi-permanent makeup</a>
       - service: Eyebrows & Eyelashes
         desc: >-
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
@@ -358,12 +367,18 @@ components:
           </div>
 
           </div>
+
+
+          <a href="#semi-permanent" class="underline text-primary">Please read our FAQ about semi-permanent makeup</a>
     cta_link: https://mez-collections-and-studio-beaute.appointlet.com/
     bg_color: white
     cta_select: true
     img_alt: Please type in a description of the image
     cta: Book Your Appointment
     desc: >-
+      <a href="#semi-permanent">Test</a>
+
+
       <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
       <div>
@@ -421,6 +436,9 @@ components:
       </div>
 
       </div>
+
+
+      <a href="#semi-permanent" class="underline text-primary">Please read our FAQ about semi-permanent makeup</a>
     service: Microblading
     aos_select: true
     title: Cosmetic Tatoo
@@ -929,6 +947,7 @@ components:
     desc: "#"
   - type: heading_simple
     title: Semi-Permanent Makeup
+    id: semi-permanent
   - type: faq_toggle
     question: What is semi-permanent makeup?
     answer: Micro-shading, permanent eyeliner, lip blush is a semi-permanent make-up
@@ -1009,8 +1028,10 @@ components:
           - Not using facial scrubs or peels for at least 4 weeks after the procedure.<br>
 
           - Not sleeping on the face for at least 10 days after the procedure<br>
+    id: semi-permanent
   - type: heading_simple
     title: Microblading
+    id: microblading
   - type: faq_toggle
     question: In how long does microblading heals?
     answer: The result is perfectly visible once all of the scabs fall. It will
@@ -1020,8 +1041,10 @@ components:
         answer: A touch-up is required to finalize the brows 4-8 weeks after the
           procedure. After that, touch-ups may be done after about a year or as
           directed by our esthetician.
+    id: microblading
   - type: heading_simple
     title: Microneedling
+    id: microneedling
   - type: faq_toggle
     question: What is microneedling?
     answer: Microneedling is a minimally invasive cosmetic procedure that’s used to
@@ -1085,8 +1108,10 @@ components:
           - Microdermabrasion is best for treating clogged pores, tired/dull skin and blackheads whereas Microneedling is great for treating acne scarring, stretchmarks and lines and wrinkles.<br>
 
           - Microdermabrasion is not invasive however as microneedling involves needles rolling over the skin, there may be some bleeding during treatment.<br>
+    id: microneedling
   - type: heading_simple
     title: Microdermabrasion?
+    id: microdermabrasion
   - type: faq_toggle
     question: What is microdermabrasion?
     answer: Microdermabrasion is a minimally invasive procedure used to renew
@@ -1148,6 +1173,7 @@ components:
           most people.  Acne scars and or discolorations may require more
           treatments.  Monthly maintenance treatments every 2 or 3 months may be
           necessary to maintain results.
+    id: microdermabrasion
   - type: divider
     bg_color: white
   - type: cta
