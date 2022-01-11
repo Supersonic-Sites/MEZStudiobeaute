@@ -1082,9 +1082,9 @@ components:
           consultation and skin patch test prior to treatment to double check
           suitability and ensure that there are no adverse reactions.
       - question: Can I have a laser hair removal if I am pregnant?
-        answer: No
+        answer: "No"
       - question: Can I do laser if I am taking Accutane?
-        answer: No
+        answer: "No"
       - question: "Can I do laser during the first 6 months after giving birth? "
         answer: Not during the first 6 months after labor the hormones go through the
           stabilization phase so one must avoid laser treatment and many other
