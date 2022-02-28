@@ -4,7 +4,6 @@ description: We care about your privacy. Read more about our policy here.
 companyname: MEZCollection & Studio Beauté
 companyemail: info@mezcollections.com
 layout: privacy_policy
-slug: 
 ---
 
 # Privacy Policy

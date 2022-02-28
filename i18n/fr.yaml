@@ -32,6 +32,8 @@
   translation: "Informations"
 - id: send
   translation: "Envoyer Le Message"
+- id: getintouch
+  translation: "Coordonnées"
 
 # Footer
 - id: navigate
