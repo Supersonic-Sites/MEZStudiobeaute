@@ -3,7 +3,7 @@ title: Gallery Page
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
   aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
   aliquam at ut neque.
-slug: gallery
+slug: gallerie
 components:
   - type: header_sub
     bg_color: primary
@@ -62,7 +62,7 @@ components:
     bg_color: white
   - type: cta
     bg_color: primary
-    title: We're Here To Help. Reach Out With Any Questions.
-    cta: Contact Us Today
+    title: Nous Sommes Là Pour Vous. N’hésitez Pas À Nous Poser Vos Questions.
+    cta: Écrivez-Nous
     cta_link: contact/
 ---

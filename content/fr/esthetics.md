@@ -14,13 +14,13 @@ components:
   - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/b16c51b9-d3ab-4973-6f65-0af7ae574500/SquareDesktop
     aos: fade
     service_list:
-      - service: Microdermabrasion
+      - service: Facial Microdermabrasion
         desc: >-
           <div class="flex justify-between pb-4 mb-4">
 
           <div>
 
-          <span class="md:text-xl">Microdermabrasion is a minimally invasive procedure used to renew overall skin tone and texture. It can improve the appearance of sun damage, wrinkles, fine lines, age spots, acne scarring, melasma, and other skin-related concerns and conditions.</span>
+          <span class="md:text-xl">Notre facial Signature consiste à nettoyer en profondeur la peau mort. La microdermabrasion est employée pour traiter les conditions suivantes : Rides et lignes fines Peau mate Cicatrices douces d'acné Photodamage induit par le soleil menant aux endroits de hyperpigmentation ou d'âge Pores grossiers Vergetures ou distensae de stries.</span>
 
           </div>
 
@@ -35,15 +35,15 @@ components:
           </div>
 
           <a href="#microdermabrasion" class="underline text-primary">Please read our FAQ about microdermabrasion</a>
-      - service: Nutri-Lifting Treatment
+      - service: "Soins Spécifique: Soins Lifting-Coup d'Éclat"
         desc: >-
           <div class="flex justify-between pb-4 mb-4">
 
           <div>
 
-          <span class="md:text-xl"><strong>Phyto Nutri-Lifting Complex + Fruit Acids + Vitamin A, C and E
+          <span class="md:text-xl"><strong>Phyto Nutri-Lifting Complex + Acides de fruits + Vitamine A, C and E
 
-          </strong><br>This professional care combines the power of plant extracts to natural fruit acids to exfoliate, wreathe, nourish and protect the skin all at once.</span>
+          </strong><br>Ce soin professionnel allie le pouvoir des extraits végétaux à celui des acides de fruits naturels pour exfolier, lisser, nourrir et protéger la peau en un seul geste.</span>
 
           </div>
 
@@ -56,19 +56,19 @@ components:
           </div>
 
           </div>
-      - service: "Specific Care: Collagen Veil"
+      - service: "Soins Spécifique: Voile de Collagène"
         desc: >-
           <div class="flex justify-between pb-4 mb-4">
 
           <div>
 
-          <span class="md:text-xl"><strong>Goal:</strong> Redensify, moisturize, soothe Composed of three distinct collagen molecules, the Collagen Veil acts like a second skin and is defined by its ultra-hydrating and regenerating action on skin tissue. <br><br>
+          <span class="md:text-xl"><strong>Objectifs:</strong> Redensifier, hydrater, apaiser Composé de trois molécules distinctes de collagène, le Voile de collagène agit comme une seconde peau et se définit par son action ultra-hydratante et régénératrice des tissus cutanés.<br><br>
 
-          <strong>Native Collagen:</strong> Said to be undenatured, it soothes and hydrates the skin.<br><br>
+          <strong>Collagène Natif:</strong>  Dit non-dénaturé, il apaise et hydrate la peau.<br><br>
 
-          <strong>Native Soluble:</strong> The most bio-assimilable, it provides a direct supply of collagen.<br><br>
+          <strong>Collagène Natif Soluble:</strong>e plus bio-assimilable, il fournit un apport direct en collagène. <br><br>
 
-          <strong>Collagen Peptides:</strong> Small proteins, they increase the natural production of collagen. <br><br><strong>Results:</strong><br> • 30% reduction in skin relief (fine lines and wrinkles).<br> • Increases the skin's hydration level and its ability to retain moisture.<br> • Reduced redness and feeling of discomfort.</span><br>
+          <strong>Peptides De Collagène :</strong> Petites protéines, elles augmentent la production naturelle de collagène.  <br><br><strong>Resultats:</strong><br> • Diminution de 30% du relief cutané (rides et ridules).<br> • Augmentation du taux d’hydratation de la peau et de sa capacité de conservation de l’humidité.<br> • Diminution des rougeurs et de la sensation d’inconfort.</span><br>
 
           </div>
 
@@ -81,7 +81,7 @@ components:
           </div>
 
           </div>
-      - service: Ligntening Peel-Off Cooling Treatment
+      - service: "Soins Spécifique: Soin Modelant Éclaircissement"
         desc: >-
           <div class="flex justify-between pb-4 mb-4">
 
@@ -91,9 +91,9 @@ components:
 
           Vitamin C + Scutelllaria + Saxifraga + Black Mulberry + Grape + Marine Polysaccharids<br><br>
 
-          This treatment is specially formulated to enlighten complexion. It provides radiance and luminance to all skin types. Enriched with Vitamin C (free anti-radicals), it regulates the production of melamine by inhibiting tyrosinase and stimulates collagen synthesis.<br><br>
+          Riche en principes actifs éclaircissants, régénérants et hydratants, ce masque est spécialement formulé pour apporter éclat et confort à tous les types de peaux et plus particulièrement aux peaux atones. <br><br>
 
-          Optimal treatment that creates a damp atmosphere which through the osmosis phenomenon, improves durably the skin hydration.
+          Grâce à son complexe végétal éclaircissant il régularise la production de mélanine et stimule la synthèse de collagène. Il agit en produisant un refroidissement de la peau, en conséquence, celle-ci retrouve souplesse, luminosité et douceur dès la première séance.
 
           </span>
 
@@ -108,21 +108,23 @@ components:
           </div>
 
           </div>
-      - service: Protocol-C Treatment
+      - service: "Soins Spécifique: Soin Protocol-C"
         desc: >-
           <div class="flex justify-between pb-4 mb-4">
 
           <div>
 
-          <span class="md:text-xl">The innovative treatment with Vitamin C that makes the skin looks alive.<br><br>
+          <span class="md:text-xl">Un traitement antioxydant et anti-âge conçu pour raviver la peau en stimulant la synthèse de collagène et en la protégeant contre les radicaux libres. <br><br>
 
-          An innovative antioxidant care with Vitamin C. Never before a facial massage will have procured such efficiency.<br><br>
+          Formulé avec des ingrédients actifs de sources marines et végétales et d’un concentré de vitamine C, ce traitement atténue l’apparence des rides et ridules, unifie le teint et rend la peau radieuse pour lui redonner son air de jeunesse.<br><br>
 
-          An antioxidant and anti-ageing treatment conceived to revive the skin by stimulating the synthesis of collagen and protecting it from free radicals. Formulated with marine and vegetal actives ingredients plus a concentrate of Vitamin C, this treatment diminishes the appearance of wrinkles and fine lines, blends the complexion and gives a radiant look to the skin by bringing back its youth. The new PROTOCOL-C with multiple proven effects in one single treatment:<br><br>
-           • Stimulates fatigued, stressed skin<br> 
-          • The skin is visibly smoothed and more supple<br> 
+          Le nouveau PROTOCOL-C aux multiples effets éprouvés, en un seul traitement:<br><br>
 
-          • Protects the skin and reduces wrinkles
+          • Stimule la peau fatiguée, stressée<br> 
+
+          • La peau est visiblement lisse et plus souple<br> 
+
+          • Protège la peau et réduit les rides
 
           </span>
 
@@ -137,13 +139,13 @@ components:
           </div>
 
           </div>
-      - service: Paraphine Treatment
+      - service: Soin De Paraphine
         desc: >
           <div class="flex justify-between pb-4 mb-4">
 
           <div>
 
-          <span class="md:text-xl">With essential oils of lavender, orange and geranium softening, our paraffin has the property of retaining heat and water, and dilate the pores of the skin. Warm, it activates the blood circulation by reducing the dryness of the skin and relieves the pains of arthritis and rheumatism.</span> 
+          <span class="md:text-xl">Aux huiles essentielles de lavande, orange et géranium Adoucissante, notre paraffine a la propriété de retenir la chaleur et l’eau, de dilater les pores de la peau. Chaude, elle active la circulation sanguine en réduisant la sécheresse de la peau et soulage les douleurs de l’arthrite et des rhumatismes.</span> 
 
           </div>
 
@@ -162,30 +164,27 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Microneedling is a minimally invasive cosmetic procedure that’s used to treat skin concerns via collagen production. Also known as <a href="https://www.healthline.com/nutrition/collagen" rel="_blank">collagen</a> induction therapy, this treatment may help those looking to reduce the appearance of;
+          <span class="md:text-xl">Le microneedling est une procédure cosmétique peu invasive utilisée pour traiter les problèmes de peau via la production de collagène. Aussi connu sous le nom d'<a href="https://www.healthline.com/nutrition/collagen" rel="_blank">induction de collagène</a>, ce traitement peut aider ceux qui cherchent à réduire l'apparence de:
 
           <br>
 
-          • Acne scars <br>
+          • Cicatrices d'acné <br>
 
-          • Premature aging<br>
+          • Vieillissement prématuré<br>
 
           • Hyperpigmentation<br>
 
-          • Dark spots<br>
+          • Taches brunes<br>
 
-          • Oily skin<br>
+          • Peau grasse<br>
 
-          • Stretch marks<br>
+          • Vergetures<br>
 
-          • Alopecia<br>
+          • Alopécie<br>
 
-          • Surgery scars<br><br>
+          • Cicatrices chirurgicales<br><br>
 
-          <p>For more info check out the FAQ page or call us for free consultation and available packages options.<br><br>
-
-
-          To know if you are eligible please contact us at 450-619-1600. For common questions regarding our cosmetic tatting procedures, post treatments please read the FAQ.
+          <p>Pour plus d'informations, consultez la foire aux questions en bas de page ou appelez-nous pour une consultation gratuite et les options de forfaits disponibles.<br><br>
 
           </p>
 
@@ -204,18 +203,18 @@ components:
           </div>
 
 
-          <a href="#microneedling" class="underline text-primary">Please read our FAQ about microneedling</a>
+          <a href="#microneedling" class="underline text-primary">Veuillez lire notre foire aux questions sur le microneedling</a>
     cta_link: https://mez-collections-and-studio-beaute.appointlet.com/
     bg_color: white
     cta_select: true
-    img_alt: makeup application
-    cta: Book Your Appointment
+    img_alt: application de maquillage
+    cta: Prendre Rendez-Vous
     desc: >+
       <div class="flex justify-between pb-4 mb-4">
 
       <div>
 
-      <span class="md:text-xl">Our Signature facial consists of deep cleansing the dead skin. Microdermabrasion is used to treat the following conditions: Wrinkles and fine lines Dark skin Soft acne scars Sun-induced photodamage leading to areas of hyperpigmentation or age Coarse pores Stretch marks or striae distensae.</span><br>
+      <span class="md:text-xl">Notre facial Signature consiste à nettoyer en profondeur la peau mort enlever les pointes noir et laisser la peau sentir fraîche et propre.</span><br>
 
       </div>
 
@@ -229,9 +228,9 @@ components:
 
       </div>
 
-    service: Facials
+    service: Facial
     aos_select: true
-    title: Specialized facials treatments
+    title: Soins du Visage Spécialisés
     type: img_half_right_toggle
   - type: divider2x
     bg_color: white
@@ -244,9 +243,9 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Lip blushing is a semi-permanent cosmetic tattoo procedure that adds a light tint of color to a person’s lips. Most lip blush tattoos are designed to last two to three years. </span><br><br>
+          <span class="md:text-xl">Le tatouage cosmétique des lèvres est une technique visant à embellir l'apparence et la pigmentation naturelle de votre bouche ! Que vous recherchiez, un style plus naturel (Lip gloss), plus maquillé (Rouge à lèvre), corriger une asymétrie ou donner un effet plus volumineux, le tatouage cosmétique redéfinit et embellit vos lèvres !</span><br><br>
 
-          <small>To know if you are eligible please contact us at 450-619-1600</small>
+          <small> Svp contactez-nous au 450-619-1600 pour plus de détails.</small>
 
           </div>
 
@@ -261,16 +260,16 @@ components:
           </div>
 
 
-          <a href="#semi-permanent" class="underline text-primary">Please read our FAQ about semi-permanent makeup</a>
-      - service: Permanent Eyeliner / Intralash
+          <a href="#semi-permanent" class="underline text-primary">Veuillez lire notre foire aux questions sur le maquillage semi-permanent</a>
+      - service: Eyeliner Permanente
         desc: >-
           <div class="flex justify-between pb-4 mb-4">
 
           <div>
 
-          <span class="md:text-xl">Intralash and permanent eyeliner are two techniques to bring out your eyes with the most delicate of lines! We offer you an intra-lash line, an eyeliner and even a combination of the two, for a radiant look as soon as you wake up!</span><br><br>
+          <span class="md:text-xl">L'intralash et l'eyeliner permanent sont deux techniques pour faire ressortir votre regard avec les plus délicates des lignes! Nous vous offrons une ligne intra-cil, un eyeliner et même une combinaison des deux, pour un regard éclatant dès le réveil!</span><br><br>
 
-          <small>To be eligible for microblading please contact us at 450-619-1600. For common questions regarding our cosmetic tatting procedures, post treatments please read the FAQ.
+          <small>Svp contactez-nous au 450-619-1600 pour plus de détails.
 
           </small>
 
@@ -286,16 +285,16 @@ components:
 
           </div>
 
-          <a href="#semi-permanent" class="underline text-primary">Please read our FAQ about semi-permanent makeup</a>
-      - service: Eyebrows & Eyelashes
+          <a href="#semi-permanent" class="underline text-primary">Veuillez lire notre foire aux questions sur le maquillage semi-permanent</a>
+      - service: Sourcils & Cils
         desc: >-
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
           <div>
 
-          <span class="md:text-xl">Eyebrow Tint</span><br><br>
+          <span class="md:text-xl">Teinture Des Sourcils</span><br><br>
 
-          <small>Eyebrow tinting includes threading</small>
+          <small>Teinture des sourcils inclut l'épilation au fil</small>
 
           </div>
 
@@ -314,9 +313,9 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Eyebrow Lamination</span><br><br>
+          <span class="md:text-xl">Lamination Des Sourcils</span><br><br>
 
-          <small>Eyebrow lamination includes eyebrow tinting and threading.</small>
+          <small>Lamination des sourcils inclut la teinture des sourcils et épilation au fil.</small>
 
           </div>
 
@@ -335,7 +334,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Eyelashes Tint</span><br><br>
+          <span class="md:text-xl">Teinture de Cils</span><br><br>
 
           </div>
 
@@ -354,7 +353,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Eyelash enhancement and tinting</span><br>
+          <span class="md:text-xl">Rehaussement et Teinture de Cils</span><br>
 
           </div>
 
@@ -369,23 +368,20 @@ components:
           </div>
 
 
-          <a href="#semi-permanent" class="underline text-primary">Please read our FAQ about semi-permanent makeup</a>
+          <a href="#semi-permanent" class="underline text-primary">Veuillez lire notre foire aux questions sur le maquillage semi-permanent</a>
     cta_link: https://mez-collections-and-studio-beaute.appointlet.com/
     bg_color: white
     cta_select: true
-    img_alt: Please type in a description of the image
-    cta: Book Your Appointment
+    img_alt: Tatouage Cosmétique
+    cta: Prendre Rendez-Vous
     desc: >-
-      <a href="#semi-permanent">Test</a>
-
-
       <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
       <div>
 
       <span class="md:text-xl">Microblading</span><br>
 
-      <small>To be eligible for microblading please contact us at 450-619-1600</small>
+      <small>Pour être admissible à faire le microblading svp contactez-nous au 450-619-1600</small>
 
       </div>
 
@@ -404,7 +400,7 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Touch-up</span><br>
+      <span class="md:text-xl">Retouche Microblading</span><br>
 
       </div>
 
@@ -423,7 +419,7 @@ components:
 
       <span class="md:text-xl">Microblading + Shading</span><br>
 
-      <small>To be eligible for microblading please contact us at 450-619-1600</small>
+      <small>Pour être admissible à faire le microblading + shading svp contactez-nous au 450-619-1600</small>
 
       </div>
 
@@ -438,23 +434,23 @@ components:
       </div>
 
 
-      <a href="#semi-permanent" class="underline text-primary">Please read our FAQ about semi-permanent makeup</a>
+      <a href="#semi-permanent" class="underline text-primary">Veuillez lire notre foire aux questions sur le maquillage semi-permanent</a>
     service: Microblading
     aos_select: true
-    title: Cosmetic Tatoo
+    title: Tatouage Cosmétique
     type: img_half_right_toggle
   - type: divider2x
     bg_color: white
   - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/7a8daa13-d432-4112-0357-26fc19a36200/SquareDesktop
     aos: fade-in
     service_list:
-      - service: Makeup
+      - service: Maquillage
         desc: >
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
           <div>
 
-          <span class="md:text-xl">Makeup</span><br>
+          <span class="md:text-xl">Maquillage de Jour</span><br>
 
           </div>
 
@@ -473,7 +469,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Hairdo & Makeup Full Glam</span><br>
+          <span class="md:text-xl">Coiffure & Maquillage Full Glam</span><br>
 
           </div>
 
@@ -492,9 +488,9 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Bridal Hairdo & Makeup Full Glam</span><br>
+          <span class="md:text-xl">Coiffure et maquillage de Mariée Full Glam</span><br>
 
-          <small class="mb-2">* Starting at $200</small>
+          <small class="mb-2">* À partir de 200 $</small>
 
           </div>
 
@@ -510,13 +506,13 @@ components:
 
 
           Please note that silk lashes are included in our makeup package. Clients with very thick and long hair will be charged extra depending on the extra time taken.. 
-      - service: Hands and Nails Care
+      - service: Soins Des Mains
         desc: >-
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
           <div>
 
-          <span class="md:text-xl">Nail Extensions: UV Gel, Acrylic, Resin</span><br>
+          <span class="md:text-xl">Extensions Ongles: UV gel, Acrylic, Résine et Poudre</span><br>
 
           </div>
 
@@ -535,7 +531,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Nail Filling</span><br>
+          <span class="md:text-xl">Remplissage Ongles</span><br>
 
           </div>
 
@@ -554,7 +550,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Nail Extension Removal and Cleaning</span><br>
+          <span class="md:text-xl">Enlever Extension et Nettoyage</span><br>
 
           </div>
 
@@ -573,9 +569,9 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Special Care: Express Hand Care Without Polish</span><br>
+          <span class="md:text-xl">Soins Spéciale: Soins Des Mains Express Sans Vernis</span><br>
 
-          <small>Manicure includes cutting and filing of nails, cuticle care + hand massage.</small>
+          <small>Manucure comprenant la coupe et le limage des ongles, le soin des cuticules. Massage des mains.</small>
 
           </div>
 
@@ -594,9 +590,9 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Special Care: Express Hand Care With Polish</span><br>
+          <span class="md:text-xl">Soins Spéciale: Soins Des Mains Avec Vernis Régulier</span><br>
 
-          <small>Express manicure softness of the hands. The treatment includes nail preparation, cuticle care, exfoliation (scrub) and hydration (mask) of the hands.
+          <small>Conçu dans le but de redonner aux mains leur apparence soyeuse et leur douceur, ce soin comprend la préparation des ongles, le soin des cuticules, l’exfoliation (gommage) et l’hydratation (masque) des mains.
 
           </small>
 
@@ -617,9 +613,9 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Hand Care With Shellac</span><br>
+          <span class="md:text-xl">Soins Des Mains Avec Shellac</span><br>
 
-          <small>The treatment includes nail preparation, cuticle care, exfoliation (scrub) and hydration (mask) of the hands and shellac application..
+          <small>Manucure comprenant la coupe et le limage des ongles, le soin des cuticules ainsi que l’application d’un vernis gel.
 
           </small>
 
@@ -641,7 +637,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Gel Polish Removal</span><br>
+          <span class="md:text-xl">Enlever de Vernis Gel</span><br>
 
           </div>
 
@@ -660,9 +656,9 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Foot Spa Treatments with Gel Polish</span><br>
+          <span class="md:text-xl">Soins Spa Des Pieds Avec Vernis Gel</span><br>
 
-          <small>This treatment will restore softness to the feet, this treatment includes nail preparation, callus reduction, exfoliation (scrub) and hydration (mask) of the feet. With the addition of a foot massage and the application of a gel polish, this treatment is one of the most complete.</small>
+          <small> Conçu dans le but de redonner aux pieds toute leur douceur, ce soin comprend la préparation des ongles, la réduction des callosités, l’exfoliation (gommage) et l’hydratation (masque) des pieds. Avec en plus un massage des pieds et l’application d’un vernis, ce soin est l’un des plus complets.</small>
 
           </div>
 
@@ -681,9 +677,9 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Express Foot Care With or Without Polish</span><br>
+          <span class="md:text-xl">Soins Des Pieds Express Avec Ou Sans Vernis Régulier</span><br>
 
-          <small>Pedicure includes cutting and filing of nails, cuticle care and the application of polish.</small>
+          <small>Pédicure comprenant la coupe et le limage des ongles, le soin des cuticules ainsi que l’application d’un vernis.</small>
 
           </div>
 
@@ -702,7 +698,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Gel Polish Removal</span><br>
+          <span class="md:text-xl">Enlever Vernis Gel - Pieds/Mains</span><br>
 
           </div>
 
@@ -715,15 +711,15 @@ components:
           </div>
 
           </div>
-      - service: Back
+      - service: Soins De Dos
         desc: >-
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
           <div>
 
-          <span class="md:text-xl">Back Care</span><br>
+          <span class="md:text-xl">Soins de dos</span><br>
 
-          <small>The back exfoliation will remove dead cells, improve blood circulation and flush out toxins.</small>
+          <small>L'exfoliation de dos va éliminer les cellules mortes, amiliorer la circulation sanguine et élimine les toxines.</small>
 
           </div>
 
@@ -742,9 +738,9 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Back and Neck Massage</span><br>
+          <span class="md:text-xl">Massage De Dos Et Nuque</span><br>
 
-          <small>Muscular type, this deep massage also includes joint work. It can be focused on specific areas of tension and / or a specific issue. This massage results in better circulation and relaxation in the neck and back.</small>
+          <small>De type musculaire, ce massage en profondeur intègre également un travail articulaire. Il peut être axé sur des zones précises de tension et/ou une problématique spécifique. Ce massage entraîne une meilleure circulation et détente à la nuque et dos.</small>
 
           </div>
 
@@ -760,12 +756,12 @@ components:
     cta_link: https://mez-collections-and-studio-beaute.appointlet.com/
     bg_color: white
     cta_select: true
-    img_alt: Please type in a description of the image
-    cta: Book Your Appointment
+    img_alt: Cils, Maquillage, Mains, Pieds & Dos
+    cta: Prendre Rendez-Vous
     desc: >-
       <br>
 
-      <small>* We use high end soft silk lashes to avoid damage to your natural lashes along with the allergy free glue for a 2-3 weeks retention. For lashes to be considered refill you must have 50% of the extensions in place.<br><br>For precautions and maintenance of your lashes please read the FAQ.
+      <small>* Nous utilisons des cils en soie douce haut de gamme pour éviter d'endommager vos cils naturels ainsi que la colle sans allergène pour une rétention de 2 à 3 semaines. Pour que les cils soient considérés comme une recharge, vous devez avoir 50 % des extensions en place.<br><br>Pour les précautions et l'entretien de vos cils, veuillez lire la foire aux questions.
 
       </small>
 
@@ -774,7 +770,7 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Classic Lashes</span><br>
+      <span class="md:text-xl">Classique</span><br>
 
       </div>
 
@@ -793,7 +789,7 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Classic Refill*</span><br>
+      <span class="md:text-xl">Classique Remplissage*</span><br>
 
       </div>
 
@@ -812,7 +808,7 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Hybrid Lashes</span><br>
+      <span class="md:text-xl">Hybride</span><br>
 
       </div>
 
@@ -831,7 +827,7 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Hybrid Refill*</span><br>
+      <span class="md:text-xl">Hybride Remplissage*</span><br>
 
       </div>
 
@@ -850,7 +846,7 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Mega Volume Lashes</span><br>
+      <span class="md:text-xl">Mega Volume</span><br>
 
       </div>
 
@@ -869,7 +865,7 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Mega Volume Refill*</span><br>
+      <span class="md:text-xl">Mega volume Remplissage*</span><br>
 
       </div>
 
@@ -882,22 +878,22 @@ components:
       </div>
 
       </div>
-    service: Eyelash Application
+    service: Pose De Cils
     aos_select: true
-    title: Eyelashes, Make-Up, Hands, Feet & Back
+    title: Cils, Maquillage, Mains, Pieds & Dos
     type: img_half_right_toggle
   - type: divider2x
     bg_color: white
   - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/54702b44-153e-401c-2113-ee727ab89b00/SquareDesktop
     aos: fade-in
     service_list:
-      - service: Teeth Whitening - Simple Treatment
+      - service: Blanchissement Des Dents - Traitement Simple
         desc: >-
           <div class="flex justify-between pb-4 mb-4">
 
           <div>
 
-          <span class="md:text-xl">A safe method, without making your teeth sensitive or endangering your gums. Our bleaching system is approved by Health Canada. Guaranteed results or money back.</span>
+          <span class="md:text-xl">Une méthode sécuritaire, sans rendre vos dents sensible ou danger pour vos gencives. Notre système de blanchissement est approuvé par Santé Canada. Résultats garantie ou argent remise.</span>
 
           </div>
 
@@ -913,14 +909,14 @@ components:
     cta_link: https://mez-collections-and-studio-beaute.appointlet.com/
     bg_color: lightgreen
     cta_select: true
-    img_alt: Please type in a description of the image
-    cta: Book Your Appointment
+    img_alt: Blanchissement Des Dents
+    cta: Prendre Rendez-Vous
     desc: >-
       <div class="flex justify-between pb-4 mb-4">
 
       <div>
 
-      <span class="md:text-xl">A safe method, without making your teeth sensitive or endangering your gums. Our bleaching system is approved by Health Canada. Guaranteed results or money back.</span>
+      <span class="md:text-xl">Une méthode sécuritaire, sans rendre vos dents sensible ou danger pour vos gencives. Notre système de blanchissement est approuvé par Santé Canada. Résultats garantie ou argent remise.</span>
 
       </div>
 
@@ -933,8 +929,8 @@ components:
       </div>
 
       </div>
-    service: Teeth Whitening - Prestige Treatment
-    title: Teeth Whitening
+    service: Blanchissement Des Dents - Traitement Prestige
+    title: Blanchissement Des Dents
     type: img_half_right_toggle
   - type: divider2x
     bg_color: white

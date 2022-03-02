@@ -6,13 +6,13 @@ components:
   - cta2: Rendez-Vous
     img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/1d863b2e-39c8-4cd7-c598-164a507e8b00/HeroBackground
     cta_link: services/
-    img_alt: Image d'un modèle avec pour caractéristique Mezeur Studio Beauté Services
+    img_alt: Image d'un modèle avec pour caractéristique Mez Studio Beauté Services
     cta: Nos Services
     desc: Coiffure. Maquillage. Esthétique. Épilation. <br> Consultation gratuite.
     cta2_link: https://mez-collections-and-studio-beaute.appointlet.com/
-    title1: "LA TRANSFORMATION "
+    title1: "Laissez notre équipe vous offrir "
     cta2_select: true
-    title2: DE VOS RÊVES
+    title2: la transformation
     type: hero_half_img_diagonal
     img_title: "Showcase de nos Spécialités: coiffure, services de beauté et
       épilation au laser."

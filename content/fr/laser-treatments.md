@@ -20,7 +20,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Full face</span><br>
+          <span class="md:text-xl">Visage Complet</span><br>
 
           </div>
 
@@ -39,7 +39,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Eyebrows, Upper Lip & Nose</span><br>
+          <span class="md:text-xl">Sourcils, Lèvre Supérieur, Nez</span><br>
 
           </div>
 
@@ -58,7 +58,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Eyebrows & Upper Lip</span><br>
+          <span class="md:text-xl">Sourcils & Lèvre Supérieur</span><br>
 
           </div>
 
@@ -77,7 +77,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Eyebrows</span><br>
+          <span class="md:text-xl">Sourcils</span><br>
 
           </div>
 
@@ -96,7 +96,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Upper Lip</span><br>
+          <span class="md:text-xl">Lèvre Supérieur</span><br>
 
           </div>
 
@@ -116,7 +116,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Chin</span><br>
+          <span class="md:text-xl">Menton</span><br>
 
           </div>
 
@@ -135,7 +135,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Neck / Beard</span><br>
+          <span class="md:text-xl">Cou / Barbe</span><br>
 
           </div>
 
@@ -148,15 +148,15 @@ components:
           </div>
 
           </div>
-      - service: Electrolysis
+      - service: Électrolyse
         desc: >-
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
           <div>
 
-          <span class="md:text-xl">Electrolysis - 15 min</span><br>
+          <span class="md:text-xl">Électrolyse - 15 min</span><br>
 
-          <small class="mb-2">* Minimum of 15 min per session is required. Disposable filament at each session.</small>
+          <small class="mb-2">* Mininum de 15min per seesion est requise. Filament jetable à chaque session.</small>
 
           </div>
 
@@ -175,9 +175,9 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Electrolysis - 30 min</span><br>
+          <span class="md:text-xl">Électrolyse - 30 min</span><br>
 
-          <small class="mb-2">* Minimum of 30 min per session is required. Disposable filament at each session.</small>
+          <small class="mb-2">* Mininum de 30min per seesion est requise. Filament jetable à chaque session.</small>
 
           </div>
 
@@ -196,9 +196,9 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Electrolysis - 45 min</span><br>
+          <span class="md:text-xl">Électrolyse - 45 min</span><br>
 
-          <small class="mb-2">* Minimum of 45 min per session is required. Disposable filament at each session.</small>
+          <small class="mb-2">* Mininum de 45min per seesion est requise. Filament jetable à chaque session.</small>
 
           </div>
 
@@ -211,35 +211,35 @@ components:
           </div>
 
           </div>
-      - service: Laser Hair Removal
+      - service: Épilation au Laser
         desc: >
           
-          <a href="#faqlaser" class="underline text-primary">Please read our FAQ about laser hair removal</a>
+          <a href="#faqlaser" class="underline text-primary">Veuillez lire notre foire aux questions sur l'épilation au laser</a>
 
 
           <div>
 
-          <span class="md:text-xl">Soprano ICE is the most complete and effective laser hair removal solution available today.<br><br>
+          <span class="md:text-xl">Soprano ICE est la solution d'épilation au laser la plus complète et la plus efficace disponible aujourd'hui.<br><br>
 
-          By incorporating multiple laser wavelengths and technologies, Soprano ICE allows us to treat the widest range of patients and hair types all year round, administer treatments quickly and comfortably and achieve the best possible clinical results.<br><br>
+          En incorporant plusieurs longueurs d'onde et technologies laser, Soprano ICE nous permet de traiter le plus large éventail de patients et de types de poils tout au long de l'année, d'administrer des traitements rapidement et confortablement et d'obtenir les meilleurs résultats cliniques possibles.<br><br>
 
-          <small>Please contact us for free consultation and customized laser packages at 450-619-1600</small>
+          <small>Veuillez nous contacter pour une consultation gratuite et des forfaits laser personnalisés au 450-619-1600</small>
 
           </span>
 
           <br><br>
 
-          <span class="text-2xl">Standard packages</span>
+          <span class="text-2xl">Forfaits Standards</span>
 
           <hr><br>
 
-          <span class="text-xl italic text-primary">Combo 2 - 30% discount*</span><br><br>
+          <span class="text-xl italic text-primary">Combo 2 - 30% De Rabais*</span><br><br>
 
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
           <div>
 
-          <span class="md:text-xl">Bikini + underarms </span><br>
+          <span class="md:text-xl">Bikini + Aisselles </span><br>
 
           </div>
 
@@ -252,7 +252,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Brésilien bikini + underarms </span><br>
+          <span class="md:text-xl">Bikini Brésilien + Aisselles  </span><br>
 
           </div>
 
@@ -265,7 +265,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Bikini + half legs</span><br>
+          <span class="md:text-xl">Bikini + Demi-Jambes</span><br>
 
           </div>
 
@@ -278,7 +278,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Brésilien bikini + full legs</span><br>
+          <span class="md:text-xl">Bikini Brésilien + Jambes Complètes</span><br>
 
           </div>
 
@@ -287,17 +287,17 @@ components:
           </div>
 
 
-          <small>* Free underarms for 3 sessions for new clients (-155$)</small><br><br>
+          <small>* Aisselles gratuites pendant 3 séances pour les nouveaux clients (-155$)</small><br><br>
 
 
-          <span class="text-xl italic text-primary">Combo 3- 30% discount*</span><br><br>
+          <span class="text-xl italic text-primary">Combo 3- 30% rabais*</span><br><br>
 
 
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
           <div>
 
-          <span class="md:text-xl">Bikini + underarms + half legs</span><br>
+          <span class="md:text-xl">Bikini + Aisselles + Demi-Jambes</span><br>
 
           </div>
 
@@ -310,7 +310,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Brésilien bikini + underarms + full leg</span><br>
+          <span class="md:text-xl">Bikini Brésilien + Aisselles  + Jambes Complètes</span><br>
 
           </div>
 
@@ -319,17 +319,17 @@ components:
           </div>
 
 
-          <small>* Free underarms for 3 sessions for new clients (-155$)</small><br><br>
+          <small>* Aisselles gratuites pendant 3 séances pour les nouveaux clients (-155$)</small><br><br>
 
 
-          <span class="text-xl italic text-primary">Face</span><br><br>
+          <span class="text-xl italic text-primary">Visage</span><br><br>
 
 
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
           <div>
 
-          <span class="md:text-xl">Full face</span><br>
+          <span class="md:text-xl">Visage Complet</span><br>
 
           </div>
 
@@ -342,7 +342,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Neck</span><br>
+          <span class="md:text-xl">Cou</span><br>
 
           </div>
 
@@ -356,7 +356,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Neck+beard</span><br>
+          <span class="md:text-xl">Cou + Barbe</span><br>
 
           </div>
 
@@ -382,7 +382,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Cheeks</span><br>
+          <span class="md:text-xl">Joues</span><br>
 
           </div>
 
@@ -395,7 +395,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Upper lips</span><br>
+          <span class="md:text-xl">Lèvre Supérieur</span><br>
 
           </div>
 
@@ -408,7 +408,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Chin</span><br>
+          <span class="md:text-xl">Menton</span><br>
 
           </div>
 
@@ -421,15 +421,13 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Ears</span><br>
+          <span class="md:text-xl">Oreilles</span><br>
 
           </div>
 
           <div class="md:px-2 text-primary"><b> 42$</b></div>
 
           </div>
-
-          <small>* Free underarms for 3 sessions for new clients (-155$)</small>
 
           </div>
 
@@ -439,7 +437,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Chin</span><br>
+          <span class="md:text-xl">Menton</span><br>
 
           </div>
 
@@ -447,6 +445,8 @@ components:
 
           </div>
 
+
+          <small>* Aisselles gratuites pendant 3 séances pour les nouveaux clients (-155$)</small><br><br>
 
 
           <span class="text-xl italic text-primary"> Upper body laser</span><br><br>
@@ -456,7 +456,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Underarms</span><br>
+          <span class="md:text-xl">Aiselles</span><br>
 
           </div>
 
@@ -469,7 +469,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Full arms </span><br>
+          <span class="md:text-xl">Bras complets</span><br>
 
           </div>
 
@@ -482,7 +482,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Half arm incl. Hands</span><br>
+          <span class="md:text-xl">Demi-Bras incluants Les Mains</span><br>
 
           </div>
 
@@ -493,7 +493,7 @@ components:
            <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
           <div>
 
-          <span class="md:text-xl">Lower back</span><br>
+          <span class="md:text-xl">Bas Du Dos</span><br>
 
           </div>
 
@@ -504,7 +504,7 @@ components:
            <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
           <div>
 
-          <span class="md:text-xl">Full back</span><br>
+          <span class="md:text-xl">Dos Complet</span><br>
 
           </div>
 
@@ -517,7 +517,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Back + shoulder</span><br>
+          <span class="md:text-xl">Dos + Épaule</span><br>
 
           </div>
 
@@ -529,7 +529,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Shoulder </span><br>
+          <span class="md:text-xl">Épaule</span><br>
 
           </div>
 
@@ -542,7 +542,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Belly button line</span><br>
+          <span class="md:text-xl">Ligne de nombril</span><br>
 
           </div>
 
@@ -563,10 +563,10 @@ components:
 
           </div>
            
-          <small>* Free underarms for 3 sessions for new clients (-155$)</small><br><br>
+          <small>* Aisselles gratuites pendant 3 séances pour les nouveaux clients (-155$)</small><br><br>
 
 
-          <span class="text-xl italic text-primary"> Lower body laser</span><br><br>
+          <span class="text-xl italic text-primary"> Laser Bas Du Corps</span><br><br>
 
 
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
@@ -599,7 +599,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Buttocks </span><br>
+          <span class="md:text-xl">Fesses </span><br>
 
           </div>
 
@@ -611,7 +611,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Full thighs</span><br>
+          <span class="md:text-xl">Cuisses Complètes</span><br>
 
           </div>
 
@@ -624,7 +624,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Half leg incl. feet & toes</span><br>
+          <span class="md:text-xl">Demi-Jambe Incluant Pieds & Orteils</span><br>
 
           </div>
 
@@ -636,7 +636,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Toes </span><br>
+          <span class="md:text-xl">Orteils</span><br>
 
           </div>
 
@@ -648,7 +648,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Foot </span><br>
+          <span class="md:text-xl">Pieds</span><br>
 
           </div>
 
@@ -656,20 +656,20 @@ components:
 
           </div>
 
-          <small>* Free underarms for 3 sessions for new clients (-155$)</small>
+          <small>* Aisselles gratuites pendant 3 séances pour les nouveaux clients (-155$)</small>
     cta_link: https://mez-collections-and-studio-beaute.appointlet.com/
     bg_color: white
     cta_select: true
-    img_alt: makeup application
-    cta: Book Your Appointment
+    img_alt: Epilation
+    cta: Prendre Rendez-Vous
     desc: >-
       <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
       <div>
 
-      <span class="md:text-xl">Full Face</span><br>
+      <span class="md:text-xl">Visage complet</span><br>
 
-      <small class="mb-2">Threading eyebrow hair removal is included in the package.</small>
+      <small class="mb-2">L'epilation des sourcils au fil est inclut dans le forfait.</small>
 
       </div>
 
@@ -688,9 +688,9 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Full Body</span><br>
+      <span class="md:text-xl">Corps Complet</span><br>
 
-      <small class="mb-2">Threading eyebrow hair removal is included in the package.</small>
+      <small class="mb-2">L'epilation des sourcils au fil est inclut dans le forfait..</small>
 
       </div>
 
@@ -709,7 +709,7 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Upper Lip & Chin</span><br>
+      <span class="md:text-xl">Lévre Supérieur & Menton</span><br>
 
       </div>
 
@@ -728,7 +728,7 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Nose</span><br>
+      <span class="md:text-xl">Nez</span><br>
 
       </div>
 
@@ -747,7 +747,7 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Chin</span><br>
+      <span class="md:text-xl">Menton</span><br>
 
       </div>
 
@@ -766,9 +766,9 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Full Legs</span><br>
+      <span class="md:text-xl">Jambes Complète</span><br>
 
-      <small class="mb-2">Feet included in the package.</small>
+      <small class="mb-2">Les pieds sont aussi inclut.</small>
 
       </div>
 
@@ -787,9 +787,9 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Half Legs</span><br>
+      <span class="md:text-xl">Demi-Jambes</span><br>
 
-      <small class="mb-2">Feet included in the package.</small>
+      <small class="mb-2">Les pieds sont aussi inclut.</small>
 
       </div>
 
@@ -808,9 +808,9 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Full Arms</span><br>
+      <span class="md:text-xl">Bras complets</span><br>
 
-      <small class="mb-2">Hands included in the package.</small>
+      <small class="mb-2">Les mains sont inclus.</small>
 
       </div>
 
@@ -829,9 +829,9 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Half Arms</span><br>
+      <span class="md:text-xl">Moitié de bras</span><br>
 
-      <small class="mb-2">Hands included in the package.</small>
+      <small class="mb-2">Les mains sont inclus.</small>
 
       </div>
 
@@ -850,7 +850,7 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Armpits</span><br>
+      <span class="md:text-xl">Aisselles</span><br>
 
       </div>
 
@@ -869,7 +869,7 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Full bikini</span><br>
+      <span class="md:text-xl">Bikini Intégral</span><br>
 
       </div>
 
@@ -888,7 +888,7 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Bikini line</span><br>
+      <span class="md:text-xl">Ligne de Bikini</span><br>
 
       </div>
 
@@ -907,7 +907,7 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Full Back</span><br>
+      <span class="md:text-xl">Dos Complet</span><br>
 
       </div>
 
@@ -926,7 +926,7 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Lower Back</span><br>
+      <span class="md:text-xl">Bas De Dos</span><br>
 
       </div>
 
@@ -945,7 +945,7 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Belly</span><br>
+      <span class="md:text-xl">Ventre</span><br>
 
       </div>
 
@@ -964,7 +964,7 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Belly Button</span><br>
+      <span class="md:text-xl">Nombril</span><br>
 
       </div>
 
@@ -983,7 +983,7 @@ components:
 
       <div>
 
-      <span class="md:text-xl">Wax & Threading Eyebrows / Upper Lip & Chin</span><br>
+      <span class="md:text-xl">Sourcils/Lévre Supérieur & Menton</span><br>
 
       </div>
 
@@ -996,7 +996,7 @@ components:
       </div>
 
       </div>
-    service: "Waxing "
+    service: Épilation À La Cire
     aos_select: true
     title: Services
     type: img_half_right_toggle

@@ -373,12 +373,9 @@ components:
     cta_link: https://mez-collections-and-studio-beaute.appointlet.com/
     bg_color: white
     cta_select: true
-    img_alt: Please type in a description of the image
+    img_alt: Cosmetic Tatoo
     cta: Book Your Appointment
     desc: >-
-      <a href="#semi-permanent">Test</a>
-
-
       <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
       <div>

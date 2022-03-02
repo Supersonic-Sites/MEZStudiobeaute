@@ -105,13 +105,13 @@ url = "services/"
 weight = 3
 
 [[languages.fr.menu.main]]
-name = "Galerry"
+name = "Gallerie"
 url = "gallerie/"
 weight = 4
 
 [[languages.fr.menu.main]]
 name = "Contact"
-url = "Contact/"
+url = "contact/"
 weight = 5
 
 [[languages.fr.menu.main]]

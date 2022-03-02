@@ -16,7 +16,7 @@
       <div class=" py-8 px-4 sm:px-6 lg:col-span-3 lg:px-8 lg:py-24 xl:pr-12">
         <div class="max-w-lg mx-auto">
           <h2 class=" tracking-wider text-black text-3xl md:text-4xl lg:text-5xl">
-            Information
+            {{ i18n "getintouch" }}
           </h2>
           <dl class="mt-8 text-base text-black">
             {{ if $.Site.Params.schema.address_toggle }}
@@ -120,27 +120,25 @@
       </div>
       <div class="bg-white py-8 px-4 sm:px-6 lg:col-span-3 lg:py-24 lg:px-8 xl:pl-12">
         <div class="max-w-lg mx-auto lg:max-w-none">
-          <h2 class="tracking-wider text-black text-3xl md:text-4xl lg:text-5xl mb-8">
-            Contact Us
-          </h2>
+
           <form action="{{ $.Site.Params.usebasin }}" method="POST" class="grid grid-cols-1 gap-y-6">
             <div>
               <label for="full_name" class="sr-only">Full name</label>
               <input type="text" name="full_name" id="full_name" autocomplete="name"
                 class="block w-full shadow-sm py-3 px-4 placeholder-black rounded-sm focus:border-white ring-primary"
-                placeholder="Full name">
+                placeholder="{{ i18n "fullname" }}">
             </div>
             <div>
               <label for="email" class="sr-only">Email</label>
               <input id="email" name="email" type="email" autocomplete="email"
                 class="block w-full shadow-sm py-3 px-4 placeholder-black rounded-sm focus:border-white ring-primary"
-                placeholder="Email">
+                placeholder="{{ i18n "email" }}">
             </div>
             <div>
               <label for="phone" class="sr-only">Phone</label>
               <input type="text" name="phone" id="phone" autocomplete="tel"
                 class="block w-full shadow-sm py-3 px-4 placeholder-black rounded-sm focus:border-white ring-primary"
-                placeholder="Phone">
+                placeholder="{{ i18n "phone" }}">
             </div>
             <div>
               <label for="message" class="sr-only">Message</label>

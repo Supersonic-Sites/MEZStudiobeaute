@@ -14,15 +14,15 @@ components:
   - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/787046c3-89b4-4eb2-f7c8-19cbe544fc00/Square400px
     aos: fade-in
     service_list:
-      - service: Shampoo & Set / Cut Combo
+      - service: Combo Shampooing, Coupe et MEP
         desc: >-
-          <small class="mb-2">* A price adjustment will be applicable if the
-          hair is very thick and takes more time</small><br>
+          <small class="mb-2">* Une adjustment de prix sera applicable. Si les
+          cheveux sont trés épais qui prend plus qu'une heure</small><br>
 
 
           <div class="flex justify-between pb-4 border-b border-gray-300">
 
-          <span class="md:text-xl">Short Length Haircut</span>
+          <span class="md:text-xl">Coupe & MEP Cheveux Courts</span>
 
           <div class="font-bold text-primary text-base flex flex-col text-right">
 
@@ -37,7 +37,7 @@ components:
 
           <div class="flex justify-between py-4 border-b border-gray-300">
 
-          <span class="md:text-xl">Medium & Long Length Haircut</span>
+          <span class="md:text-xl">Coupe & MEP Cheveux Mi-Long & Long</span>
 
           <div class="font-bold text-primary text-base flex flex-col text-right">
 
@@ -48,15 +48,15 @@ components:
           </div>
 
           </div>
-      - service: Combos - Dye, Cut, Roots, Shampoo & Set
+      - service: Combos - Coloration, Coupe, Racines, Shampoing et Pose
         desc: >+
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
           <div>
 
-          <span class="md:text-xl">Full Hair Dye + Shampoo & Set</span><br>
+          <span class="md:text-xl">Coloration Tête Complète & MEP</span><br>
 
-          <small class="mb-2">* A consultation is required for a complete head dye. The price varies and the hairdresser will advise you in advance of the final price.</small>
+          <small class="mb-2">* **Une consulation est requis car pour une teinture tête complèt le prix varie la coiffeuse vous avisera en avance sur le prix final.</small>
 
           </div>
 
@@ -75,9 +75,9 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Root Hair Dye + Shampoo & Set</span><br>
+          <span class="md:text-xl">Coloration Racine & MEP</span><br>
 
-          <small class="">** For root coloration: If the root is longer than an inch, an additional fee will be charged. The hairdresser will advise you in advance of the final price.</small>
+          <small class="">** Si la racine est plus longue qu'un pouce des frais supplémentaire sera chargé. La coiffeuse vous avisera en avance.</small>
 
           </div>
 
@@ -96,9 +96,9 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Short Hair Root Dye + Cut + Shampoo & Set</span><br>
+          <span class="md:text-xl">Coloration Racine-Coupe-MEP - Cheveux Courts</span><br>
 
-          <small class="">** If the root is longer than an inch an additional fee will be charged. The hairdresser will notify you in advance.</small>
+          <small class="">**Si la racine est plus longue qu'un pouce des frais supplémentaire sera chargé. La coiffeuse vous avisera en avance.</small>
 
           </div>
 
@@ -117,9 +117,9 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Medium to Long Hair Root Dye + Cut + Shampoo & Set</span><br>
+          <span class="md:text-xl">Coloration Racine-Coupe-MEP - Cheveux Mi-Long & Long</span><br>
 
-          <small class="">** If the root is longer than an inch an additional fee will be charged. The hairdresser will notify you in advance.</small>
+          <small class="">***Si la racine est plus longue qu'un pouce des frais supplémentaire sera chargé. La coiffeuse vous avisera en avance.</small>
 
           </div>
 
@@ -134,7 +134,7 @@ components:
           </div>
 
 
-      - service: Hair Dye Treatments
+      - service: Colorations
         desc: >-
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
@@ -142,7 +142,7 @@ components:
 
           <span class="md:text-xl">Tonner</span><br>
 
-          <small class="mb-2">* Tonner is to even out the yellow and orange strands. If the hair is longer than the shoulders the price will be $50+ depending on the amount of product used. If a set is required please ask your hairdresser ($40+)</small>
+          <small class="mb-2">* Tonner est pour égaliser les mèches jaune et orange. Si les cheveux sont plus long que les épaules le prix sera 50$ + dépendament la quantité de produit utilisé. Si MEP requis svp demander à votre coiffeuse (40$+)</small>
 
           </div>
 
@@ -161,9 +161,9 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Balayage & Highlights </span><br>
+          <span class="md:text-xl">Balayage- Mèches- Ombré</span><br>
 
-          <small class="mb-2">* Starting at $ 150. Contact us before an appointment with your hair history of at least past 6 months : previous coloration -bleaching - Length -Thickness - overall Health of your hair.
+          <small class="mb-2">* À partir de 150$. Pour savoir sur nos forfaits svp nous contacter au 450-619-1600 ou per courriel info@mezcollections.com pour décrire l'historique de vos cheveux depuis les 12 derniers mois. -Coloration -Démaquillant -Longeur -Épaissure -La santé de vos cheveux.
 
           </small>
 
@@ -180,14 +180,14 @@ components:
           </div>
 
 
-          <a href="#faq" class="underline text-primary">Please read our FAQ about hair dye</a>
-      - service: Perms
+          <a href="#faq" class="underline text-primary">Veuillez lire notre foire aux questions sur la coloration</a>
+      - service: Permanentes
         desc: >+
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
           <div>
 
-          <span class="md:text-xl">Short Hair Perm</span><br>
+          <span class="md:text-xl">Permanente Cheveux Courts</span><br>
 
           </div>
 
@@ -206,7 +206,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Medium-Long Hair Perm</span><br>
+          <span class="md:text-xl">Permanente Cheveux Mi-Long</span><br>
 
           </div>
 
@@ -225,7 +225,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Long Hair Perm</span><br>
+          <span class="md:text-xl">Permanente Cheveux Long</span><br>
 
           </div>
 
@@ -240,17 +240,17 @@ components:
           </div>
 
 
-          <a href="#faq" class="underline text-primary">Please read our FAQ about perms</a>
+          <a href="#faq" class="underline text-primary">Veuillez lire notre foire aux questions sur les permanentes</a>
 
-      - service: Treatments & Extensions
+      - service: Traitements et Extensions
         desc: >-
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
           <div>
 
-          <span class="md:text-xl">Hair botox treatment</span><br>
+          <span class="md:text-xl">Traitement capilaire</span><br>
 
-          <small class="mb-2">* Our hair treatment is a 3-step collagenous treatment for deep care that delivers intense hydration, leaving even the driest hair and brittle strands soft like petals. We end with a treatment shampoo & set.
+          <small class="mb-2">* Notre traitement capilaire s'agit d'un traitment de 3 étapes de collogéne pour un soin en profondeur qui offre une hydratation intense, laissant même les cheveux les plus secs et les mèches les plus cassantes doux comme des pétales. Nous finissons avec une MEP.
 
           </small>
 
@@ -272,9 +272,9 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Keratine Smoothing Treatment</span><br>
+          <span class="md:text-xl">Traitement lissant à la Kératine</span><br>
 
-          <small class="mb-2">Our keratine treatment is a 3-stage treatment for deep care that delivers intense hydration, leaving even the driest hair and the most brittle strands soft and smooth.<br> Our smoothing system is made with a high technology that gives new life to your frizzy and dry hair. The treatment lasts up to 5 months. After the treatment you will receive a conditioning shampoo and conditioner valued at $ 62.50 for free.</small>
+          <small class="mb-2">Notre traitement kératine s'agit d'un traitment de 3 étages pour un soin en profondeur qui offre une hydratation intense, laissant même les cheveux les plus secs et les mèches les plus cassantes doux et lisse. Notre système de lissage et fait d'une haute technology qui redonne à vos cheveux frisé et sec une nouvelles vie. Le traitment dure jusquà 5 mois. Après le soins vous allez reçevoir un shampoing et revalisant traitant d'une valeur de 62.50$ gratuitement. Le service est chartgé per heure à un taux 80$+taxe per heure.</small>
 
           </div>
 
@@ -294,9 +294,9 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Extensions</span><br>
+          <span class="md:text-xl">Rallonge</span><br>
 
-          <small class="mb-2">* A consultation is required, please contact us at 450-619-1600</small>
+          <small class="mb-2">* Une consultation est requis svp contactez nous au 450-619-1600</small>
 
           </div>
 
@@ -311,18 +311,18 @@ components:
           </div>
 
 
-          <a href="#faq" class="underline text-primary">Please read our FAQ about keratine treatments</a>
-      - service: Special Events
+          <a href="#faq" class="underline text-primary">Veuillez lire notre foire aux questions sur les traitements à la kératine</a>
+      - service: Événement
         desc: >-
           <br>
 
-          <small> * Contact us to give more details on your hairstyle and makeup as well as the price varied by type of hairstyle, length and thickness.</small>
+          <small> * Contactez-nous pour donner plus de détails sur votre coiffure et votre maquillage. Les prix varient selon le type de coiffure, la longueur et l'épaisseur.</small>
 
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
           <div>
 
-          <span class="md:text-xl">Hairdressing for events</span></small>
+          <span class="md:text-xl">Coiffure Pour Événements</span></small>
 
           </div>
 
@@ -341,7 +341,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Hairdressing & Makeup for Event</span><br>
+          <span class="md:text-xl">Coiffure & Maquillage Pour Événement</span><br>
 
           </div>
 
@@ -360,7 +360,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Hairdressing & Makeup for Wedding</span><br>
+          <span class="md:text-xl">Coiffure & Maquillage Pour Marié</span><br>
 
           <small class="mb-2">* Starting at $200</small>
 
@@ -378,16 +378,16 @@ components:
     cta_link: https://mez-collections-and-studio-beaute.appointlet.com/
     bg_color: white
     cta_select: true
-    img_alt: Hairdressing Services
-    cta: Book Your Appointment
+    img_alt: Services de coiffure
+    cta: Prendre Rendez-Vous
     desc: >
-      <small class="mb-2">* A price adjustment will apply. If the hair is very
-      thick which takes more than an hour</small><br><br>
+      <small class="mb-2">* Une adjustment de prix sera applicable. Si les
+      cheveux sont trés épais qui prend plus qu'une heure</small><br><br>
 
 
       <div class="flex justify-between pb-4 border-b border-gray-300">
 
-      <span class="md:text-xl">Short Length Haircut</span>
+      <span class="md:text-xl">Coupe Cheveux Courts</span>
 
       <div class="font-bold text-primary text-base flex flex-col text-right">
 
@@ -402,7 +402,7 @@ components:
 
       <div class="flex justify-between py-4 border-b border-gray-300">
 
-      <span class="md:text-xl">Shoulder & long hair length Haircut</span>
+      <span class="md:text-xl">Coupe Cheveux Courts-Mi-Long</span>
 
       <div class="font-bold text-primary text-base flex flex-col text-right">
 
@@ -417,7 +417,7 @@ components:
 
       <div class="flex justify-between py-4 border-b border-gray-300">
 
-      <span class="md:text-xl">Children 0-12</span>
+      <span class="md:text-xl">Coupe Enfant 0-12 ans</span>
 
       <div class="font-bold text-primary text-base flex flex-col text-right">
 
@@ -432,7 +432,7 @@ components:
 
       <div class="flex justify-between py-4">
 
-      <span class="md:text-xl">Children 13-18</span>
+      <span class="md:text-xl">Coupe Enfant 13-18 ans</span>
 
       <div class="font-bold text-primary text-base flex flex-col text-right">
 
@@ -443,7 +443,7 @@ components:
       </div>
 
       </div>
-    service: Cuts
+    service: Coupes
     aos_select: true
     title: Services
     type: img_half_right_toggle
