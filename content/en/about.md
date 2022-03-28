@@ -10,7 +10,7 @@ components:
     title: About Us
   - type: divider
     bg_color: white
-  - img: https://via.placeholder.com/750x750.png
+  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/2fa588e9-bbfb-47e5-e3b2-d19507114a00/800x1000
     aos: fade
     cta_link: contact/
     bg_color: white
