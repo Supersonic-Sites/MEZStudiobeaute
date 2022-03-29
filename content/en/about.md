@@ -14,8 +14,7 @@ components:
     aos: fade
     cta_link: contact/
     bg_color: white
-    img_alt: Please type in a description of the image for the search engine or
-      visually impaired people
+    img_alt: Mariam
     cta: Call To Action
     desc: >
       Mariam has always been passionate about arts, beauty, design & fashion.
@@ -34,8 +33,7 @@ components:
     aos_select: true
     title: "A Passion For Beauty And Fashion "
     type: img_half_right
-    img_title: Please type in a description of the image that would help the user
-      when they hover the image
+    img_title: Mariam has always been passionate about arts, beauty, design & fashion.
   - type: cards_fourth_img
     bg_color: white
     cards:
@@ -68,12 +66,11 @@ components:
         description: "#"
   - type: divider_half
     bg_color: white
-  - img: https://via.placeholder.com/350x350
+  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/b4c7176b-c0d4-475d-33ed-a1d5d4c1c300/600x400
     aos: fade-up
     cta_link: contact/
     bg_color: white
-    img_alt: Please type in a description of the image for the search engine or
-      visually impaired people
+    img_alt: Azadeh has been an esthetician since 2016
     cta: Call To Action
     desc: >
       Azadeh has been an esthetician since 2016. After moving to Canada from
@@ -86,8 +83,7 @@ components:
       Azadeh is passionate about her work. She loves working with clients and offering practical tips on how to keep their skin looking young and healthy. She is known as the lady with “magic fingers” when she does facials. She is certified as a lashlift technician, lash extensions technician, micro-needling technician, and laser and electrolysis technician. 
     title: "Azedeh - Esthetician "
     type: img_third_left
-    img_title: Please type in a description of the image that would help the user
-      when they hover the image
+    img_title: Azadeh has been an esthetician since 2016
   - type: divider
     bg_color: white
   - type: heading_full

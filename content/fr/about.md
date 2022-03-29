@@ -68,7 +68,7 @@ components:
         description: "#"
   - type: divider_half
     bg_color: white
-  - img: https://via.placeholder.com/350x350
+  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/b4c7176b-c0d4-475d-33ed-a1d5d4c1c300/600x400
     aos: fade-up
     cta_link: contact/
     bg_color: white
