@@ -32,7 +32,7 @@
     <link rel="stylesheet" href="{{ $aos.RelPermalink }}" />
     <link href="{{ $styles.RelPermalink }}" rel="stylesheet" />
     
-    <!-- {{- partial "gtm-head" . }} -->
+    {{- partial "gtm-head" . }}
   </head>
 <body>
     {{- partial "nav" . }}
@@ -43,6 +43,6 @@
 <script>
       AOS.init({ disable: "mobile" });
     </script>
-     <!-- {{- partial "gtm-body" . }} -->
+     {{- partial "gtm-body" . }}
     </body>
 </html>
