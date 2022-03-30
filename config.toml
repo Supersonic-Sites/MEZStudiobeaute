@@ -1,6 +1,6 @@
 baseURL = "/"
-languageCode = "en-ca"
-DefaultContentLanguage = "en"
+languageCode = "fr"
+DefaultContentLanguage = "fr"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 
 [sitemap]
@@ -15,7 +15,7 @@ enableRobotsTXT = true
 [languages]
 
 [languages.en]
-title = "MEZ Salon Beauté"
+title = "MEZ Studio Beauté"
 languageCode = "en"
 contentDir = "content/en"
 
@@ -68,7 +68,7 @@ url = "https://mez-collections-and-studio-beaute.appointlet.com/"
 weight = "6"
 
 [languages.fr]
-title = "MEZ Salon Beauté"
+title = "MEZ Studio Beauté"
 languageCode = "fr"
 contentDir = "content/fr"
 

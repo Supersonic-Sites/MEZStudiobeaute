@@ -1,8 +1,7 @@
 ---
 title: Services
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
-  aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
-  aliquam at ut neque.
+description: Let our team provide you with an incredible transformation.
+  Hairstyle. Makeup. Aesthetic. Waxing & Free consultation.
 components:
   - type: header_sub
     bg_color: primary

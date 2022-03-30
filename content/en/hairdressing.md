@@ -1,8 +1,7 @@
 ---
 title: Hairdressing
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
-  aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
-  aliquam at ut neque.
+description: No matter what the occasion, we will help you look stunning with
+  whatever hairstyle you choose. For full price list visit our website.
 slug: services/hairdressing
 components:
   - type: header_sub

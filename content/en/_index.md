@@ -1,7 +1,8 @@
 ---
 title: Home - Hairdresser, Makeup Artist & Esthetician
 description: At MEZ Studio Beauté we take care of our clients from full glam
-  makeup, hairdressing, esthetics, laser treatments and much more.
+  makeup, hairdressing, esthetics, laser treatments and much more. Contact us
+  for a free consultaiton.
 components:
   - cta2: Book Now
     img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/1d863b2e-39c8-4cd7-c598-164a507e8b00/HeroBackground

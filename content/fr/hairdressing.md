@@ -1,8 +1,8 @@
 ---
-title: "Coiffure "
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
-  aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
-  aliquam at ut neque.
+title: "Service De Coiffure "
+description: Quelle que soit l'occasion, nous vous aiderons à être superbe avec
+  la coiffure que vous choisirez. Pour la liste complète des prix, visitez notre
+  site Web.
 slug: services/coiffure
 components:
   - type: header_sub

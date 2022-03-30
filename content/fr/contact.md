@@ -1,8 +1,7 @@
 ---
-title: Contact Us
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
-  aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
-  aliquam at ut neque.
+title: Nous Contacter
+description: Nous sommes là pour vous. N’hésitez pas à nous poser vos questions.
+  Écrivez-nous directement via notre formulaire en ligne.
 slug: contact/
 layout: contact
 ---

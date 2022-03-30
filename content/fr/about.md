@@ -1,8 +1,7 @@
 ---
 title: À propos de MEZCollection & Salon Beauté
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at
-  aliquam nibh, quis tincidunt ante. Vivamus sit amet diam et velit aliquam
-  aliquam at ut neque.
+description: À propos de MEZ Beauty Studio. Notre passion, notre mission et
+  notre culture. Visitez notres site pour en savoir plus.
 slug: a-propos
 components:
   - type: header_sub
