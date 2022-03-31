@@ -329,7 +329,7 @@ components:
 
           <div class="md:px-2">1h30min</div>
 
-          <div class="md:px-2">$50</div>
+          <div class="md:px-2">$60</div>
 
           </div>
 
@@ -348,7 +348,7 @@ components:
 
           <div class="md:px-2">2h30min</div>
 
-          <div class="md:px-2">$100</div>
+          <div class="md:px-2">$120</div>
 
           </div>
 
