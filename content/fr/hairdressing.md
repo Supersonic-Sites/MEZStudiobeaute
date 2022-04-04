@@ -362,7 +362,7 @@ components:
 
           <span class="md:text-xl">Coiffure & Maquillage Pour Marié</span><br>
 
-          <small class="mb-2">* Starting at $200</small>
+          <small class="mb-2">* À partir de $200</small>
 
           </div>
 
