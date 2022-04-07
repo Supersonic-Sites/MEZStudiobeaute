@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://www.mezstudiobeaute.com/"
 languageCode = "fr"
 DefaultContentLanguage = "fr"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
