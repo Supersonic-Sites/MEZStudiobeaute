@@ -1,4 +1,5 @@
 {{ define "main" }}
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <header class="h-52 pt-20 md:pb-6 flex flex-col justify-center md:mt-0" id="">
   <div class="container max-w-7xl mx-auto flex flex-col px-4">
       <h1 class="capitalize text-4xl md:text-7xl text-center text-black">Contact Us</h1>
@@ -146,6 +147,7 @@
                 class="block w-full shadow-sm py-3 px-4 placeholder-black rounded-sm focus:border-white ring-primary"
                 placeholder="Message"></textarea>
             </div>
+            <div class="g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy"></div>
             <div>
               <button type="submit"
                 class="inline-flex justify-center transition duration-500 py-3 px-6 border border-transparent shadow-2xl text-2xl tracking-widest font-medium rounded-sm text-white bg-primary hover:shadow-sm">
