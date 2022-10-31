@@ -1,3 +1,4 @@
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <div class="relative bg-{{ .bg_color }}">
   <div class="absolute inset-0">
     <div class="absolute inset-y-0 left-0 w-1/2 bg-gray-50"></div>
@@ -80,6 +81,7 @@
               class="block w-full shadow-sm py-3 px-4 placeholder-black rounded-sm focus:border-white ring-primary"
               placeholder="{{ i18n "phone" }}"></textarea>
           </div>
+          <div class="g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy"></div>
           <div>
             <button type="submit"
               class="inline-flex justify-center transition duration-500 py-3 px-6 border border-transparent shadow-2xl text-2xl tracking-widest font-medium rounded-sm text-white bg-primary hover:shadow-sm">
