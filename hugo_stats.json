@@ -6,6 +6,7 @@
       "article",
       "b",
       "base",
+      "be",
       "blockquote",
       "body",
       "br",
@@ -49,6 +50,7 @@
       "template",
       "textarea",
       "title",
+      "u",
       "ul",
       "use"
     ],

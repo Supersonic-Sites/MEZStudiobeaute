@@ -219,9 +219,11 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Soprano ICE is the most complete and effective laser hair removal solution available today.<br><br>
+          <span class="md:text-xl">The Spirit is the first product utilizing the SPT-Laser method, a unique treatment protocol developed by Active Optical Systems and offers a breakthrough in hair removal safety and efficiency.<br><br>
 
-          By incorporating multiple laser wavelengths and technologies, Soprano ICE allows us to treat the widest range of patients and hair types all year round, administer treatments quickly and comfortably and achieve the best possible clinical results.<br><br>
+          The Spirit 918 Trio is powered by Speed Pulse Technology (SPT), Active’s novel technology, which includes fine-tuning of diode laser capabilities and elevating them to a new level of efficiency. SPT, based on improved laser diodes, produces a beam of energy concentrated into high-power short pulses.<br><br>
+
+          SPT exceptional results do not compromise on patients’ safety and comfort; it significantly reduces treatment time.'<br><br>
 
           <small>Please contact us for free consultation and customized laser packages at 450-619-1600</small>
 
@@ -243,7 +245,7 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b>126$</b></div>
+          <div class="md:px-2 text-primary"><b>75$</b></div>
 
           </div>
 
@@ -256,33 +258,7 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b>161$</b></div>
-
-          </div>
-
-
-          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
-
-          <div>
-
-          <span class="md:text-xl">Bikini + half legs</span><br>
-
-          </div>
-
-          <div class="md:px-2 text-primary"><b>189$</b></div>
-
-          </div>
-
-
-          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
-
-          <div>
-
-          <span class="md:text-xl">Brésilien bikini + full legs</span><br>
-
-          </div>
-
-          <div class="md:px-2 text-primary"><b>238$</b></div>
+          <div class="md:px-2 text-primary"><b>160$</b></div>
 
           </div>
 
@@ -290,7 +266,20 @@ components:
           <small>* Free underarms for 3 sessions for new clients (-155$)</small><br><br>
 
 
-          <span class="text-xl italic text-primary">Combo 3- 30% discount*</span><br><br>
+          <span class="text-xl italic text-primary">Combo 3- 30% discount*</span><br><be>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Integral + underarms + half leg</span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 230$*</b></div>
+
+          </div>
 
 
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
@@ -301,7 +290,7 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 217$</b></div>
+          <div class="md:px-2 text-primary"><b> 210$</b></div>
 
           </div>
 
@@ -314,7 +303,7 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 322$*</b></div>
+          <div class="md:px-2 text-primary"><b> 300$*</b></div>
 
           </div>
 
@@ -333,7 +322,7 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 196$*</b></div>
+          <div class="md:px-2 text-primary"><b> 130$*</b></div>
 
           </div>
 
@@ -360,7 +349,7 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 185$</b></div>
+          <div class="md:px-2 text-primary"><b> 150$</b></div>
 
           </div>
 
@@ -373,7 +362,7 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 49$</b></div>
+          <div class="md:px-2 text-primary"><b> 45$</b></div>
 
           </div>
 
@@ -386,7 +375,7 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 42$</b></div>
+          <div class="md:px-2 text-primary"><b> 45$</b></div>
 
           </div>
 
@@ -399,51 +388,7 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 42$</b></div>
-
-          </div>
-
-
-          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
-
-          <div>
-
-          <span class="md:text-xl">Chin</span><br>
-
-          </div>
-
-          <div class="md:px-2 text-primary"><b> 42$</b></div>
-
-          </div>
-
-
-          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
-
-          <div>
-
-          <span class="md:text-xl">Ears</span><br>
-
-          </div>
-
-          <div class="md:px-2 text-primary"><b> 42$</b></div>
-
-          </div>
-
-          <small>* Free underarms for 3 sessions for new clients (-155$)</small>
-
-          </div>
-
-
-
-          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
-
-          <div>
-
-          <span class="md:text-xl">Chin</span><br>
-
-          </div>
-
-          <div class="md:px-2 text-primary"><b> 42$</b></div>
+          <div class="md:px-2 text-primary"><b> 45$</b></div>
 
           </div>
 
@@ -473,7 +418,7 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 157$*</b></div>
+          <div class="md:px-2 text-primary"><b> 150$*</b></div>
 
           </div>
 
@@ -486,7 +431,7 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 126$</b></div>
+          <div class="md:px-2 text-primary"><b> 80$</b></div>
 
           </div>
 
@@ -497,7 +442,7 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 77$</b></div>
+          <div class="md:px-2 text-primary"><b> 70$</b></div>
 
           </div>
 
@@ -508,32 +453,7 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 164$*</b></div>
-
-          </div>
-
-
-          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
-
-          <div>
-
-          <span class="md:text-xl">Back + shoulder</span><br>
-
-          </div>
-
-          <div class="md:px-2 text-primary"><b> 168$</b></div>
-
-          </div>
-           
-          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
-
-          <div>
-
-          <span class="md:text-xl">Shoulder </span><br>
-
-          </div>
-
-          <div class="md:px-2 text-primary"><b> 105$</b></div>
+          <div class="md:px-2 text-primary"><b> 160$*</b></div>
 
           </div>
 
@@ -546,7 +466,7 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 42$</b></div>
+          <div class="md:px-2 text-primary"><b> 40$</b></div>
 
           </div>
 
@@ -559,7 +479,7 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 133$</b></div>
+          <div class="md:px-2 text-primary"><b> 130$</b></div>
 
           </div>
            
@@ -577,7 +497,7 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 98$</b></div>
+          <div class="md:px-2 text-primary"><b> 90$</b></div>
 
           </div>
 
@@ -590,7 +510,33 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 133$</b></div>
+          <div class="md:px-2 text-primary"><b> 120$</b></div>
+
+          </div>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Bikini Integral</span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 130$</b></div>
+
+          </div>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Toes </span><br>
+
+          </div>
+
+          <div class="md:px-2 text-primary"><b> 20$</b></div>
 
           </div>
 
@@ -603,7 +549,7 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 94$</b></div>
+          <div class="md:px-2 text-primary"><b> 90$</b></div>
 
           </div>
            
@@ -615,7 +561,7 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 147$</b></div>
+          <div class="md:px-2 text-primary"><b> 140$</b></div>
 
           </div>
 
@@ -624,11 +570,11 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Half leg incl. feet & toes</span><br>
+          <span class="md:text-xl">Half legs incl. feet & toes</span><br>
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 182$</b></div>
+          <div class="md:px-2 text-primary"><b> 110$</b></div>
 
           </div>
            
@@ -636,27 +582,26 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Toes </span><br>
+          <span class="md:text-xl">Full legs incl. feet & toes</span><br>
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 24$</b></div>
+          <div class="md:px-2 text-primary"><b> 180$</b></div>
 
           </div>
-           
+
+
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
           <div>
 
-          <span class="md:text-xl">Foot </span><br>
+          <span class="md:text-xl">Full body</span><br>
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 42$</b></div>
+          <div class="md:px-2 text-primary"><b> 450$</b></div>
 
           </div>
-
-          <small>* Free underarms for 3 sessions for new clients (-155$)</small>
     cta_link: https://mez-collections-and-studio-beaute.appointlet.com/
     bg_color: white
     cta_select: true
@@ -1011,10 +956,10 @@ components:
     desc: "#"
     id_select: true
   - type: faq_toggle
-    question: What is Soprano Ice laser hair removal?
+    question: What is Spirit Active 918 laser hair removal?
     answer: '- The Complete Solution for Hair Removal<br><br>- The latest generation
-      of the award-winning Soprano laser hair removal system, Soprano ICE, is
-      used by advanced hair removal clinics and leading physicians around the
+      of the award-winning laser hair removal system, Spirit Active 918, is used
+      by advanced hair removal clinics and leading physicians around the
       world.<br><br> - The Soprano ICE platform represents a new era in laser
       hair removal technology and treatment methods. By incorporating multiple
       laser wavelengths and technologies, Soprano ICE allows you to treat the
@@ -1027,17 +972,15 @@ components:
       the roots within those hair follicles. The laser energy kills the roots of
       the hair that are in the growth phase at the time of the treatment.</p>'
     faqs:
-      - question: "Is Soprano ice platinum good for hair removal? "
-        answer: The Soprano ICE Laser system is the safest method of laser hair removal
+      - question: "Is The Spirit Active 918 good for hair removal? "
+        answer: The Spirit Active 918 system is the safest method of laser hair removal
           for all skin types, including darker skin tones where melanin is much
           more sensitive to the heat used by lasers.
-      - question: "Is Soprano Ice platinum painful? "
-        answer: "The Soprano ICE laser hair removal system for the simple reason that it
-          is virtually pain free. The system uses ICE™ technology to cool the
-          skin’s surface which helps to prevent overheating and discomfort
-          caused by the laser. Most clients only experience a gentle warming
-          sensation in the area being treated which is much less compared with
-          other types of laser hair removal. "
+      - question: "Is Spirit Active 918 platinum painful? "
+        answer: "The Spirit Active 918 laser hair removal system for the simple reason
+          that it is virtually pain free. Most clients only experience a gentle
+          warming sensation in the area being treated which is much less
+          compared with other types of laser hair removal. "
       - question: To be sure that a laser hair removal machine is good for me, should I
           get a patch test?
         answer: "Even if you have had laser hair treatment in the past it is always
@@ -1074,17 +1017,17 @@ components:
           recommend staying away from sunbeds and fake tan prior to your
           treatment, but you don’t have to worry about avoiding being out in the
           sun. "
-      - question: "Is Soprano ice safe for all skin types? "
-        answer: According to multiple studies, the Soprano ICE Laser system is the
+      - question: "Is Spirit Active 918 safe for all skin types? "
+        answer: According to multiple studies, the Spirit Active 918 system is the
           safest method of laser hair removal for all skin types, including
           darker skin tones where melanin is much more sensitive to the heat
           used by lasers. Of course, we’d always recommend an initial
           consultation and skin patch test prior to treatment to double check
           suitability and ensure that there are no adverse reactions.
       - question: Can I have a laser hair removal if I am pregnant?
-        answer: "No"
+        answer: No
       - question: Can I do laser if I am taking Accutane?
-        answer: "No"
+        answer: No
       - question: "Can I do laser during the first 6 months after giving birth? "
         answer: Not during the first 6 months after labor the hormones go through the
           stabilization phase so one must avoid laser treatment and many other

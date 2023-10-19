@@ -16,6 +16,13 @@ components:
     service_list:
       - service: Threading
         desc: >-
+          <div class="font-bold text-primary text-base pb-4">Pour la liste des
+          tarifs, <a
+          href="https://mez-collections-and-studio-beaute.appointlet.com/"
+          target="_blank"><u>veuillez cliquer ici</u></a> ou sur le bouton
+          "Prendre Rendez-Vous"</div>
+
+
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
           <div>
@@ -28,7 +35,7 @@ components:
 
           <div class="md:px-2">25min</div>
 
-          <div class="md:px-2">$25</div>
+
 
           </div>
 
@@ -47,7 +54,7 @@ components:
 
           <div class="md:px-2">15min</div>
 
-          <div class="md:px-2">$20</div>
+
 
           </div>
 
@@ -66,7 +73,7 @@ components:
 
           <div class="md:px-2">10min</div>
 
-          <div class="md:px-2">$15</div>
+
 
           </div>
 
@@ -85,7 +92,7 @@ components:
 
           <div class="md:px-2">10min</div>
 
-          <div class="md:px-2">$8</div>
+
 
           </div>
 
@@ -104,7 +111,7 @@ components:
 
           <div class="md:px-2">5min</div>
 
-          <div class="md:px-2">$5</div>
+
 
           </div>
 
@@ -124,7 +131,7 @@ components:
 
           <div class="md:px-2">5min</div>
 
-          <div class="md:px-2">$5</div>
+
 
           </div>
 
@@ -143,13 +150,20 @@ components:
 
           <div class="md:px-2">20min</div>
 
-          <div class="md:px-2">$15</div>
+
 
           </div>
 
           </div>
       - service: Électrolyse
         desc: >-
+          <div class="font-bold text-primary text-base pb-4">Pour la liste des
+          tarifs, <a
+          href="https://mez-collections-and-studio-beaute.appointlet.com/"
+          target="_blank"><u>veuillez cliquer ici</u></a> ou sur le bouton
+          "Prendre Rendez-Vous"</div>
+
+
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
           <div>
@@ -164,7 +178,7 @@ components:
 
           <div class="md:px-2">15min</div>
 
-          <div class="md:px-2">$20</div>
+
 
           </div>
 
@@ -185,7 +199,7 @@ components:
 
           <div class="md:px-2">30min</div>
 
-          <div class="md:px-2">$35</div>
+
 
           </div>
 
@@ -206,22 +220,32 @@ components:
 
           <div class="md:px-2">45min</div>
 
-          <div class="md:px-2">$50</div>
+
 
           </div>
 
           </div>
       - service: Épilation au Laser
         desc: >
-          
+          <div class="font-bold text-primary text-base pb-4">Pour la liste des
+          tarifs, <a
+          href="https://mez-collections-and-studio-beaute.appointlet.com/"
+          target="_blank"><u>veuillez cliquer ici</u></a> ou sur le bouton
+          "Prendre Rendez-Vous"</div>
+
+
           <a href="#faqlaser" class="underline text-primary">Veuillez lire notre foire aux questions sur l'épilation au laser</a>
 
 
           <div>
 
-          <span class="md:text-xl">Soprano ICE est la solution d'épilation au laser la plus complète et la plus efficace disponible aujourd'hui.<br><br>
+          <p>Le Spirit est le premier produit utilisant la méthode SPT-Laser, un protocole de traitement unique développé par Active Optical Systems et offre une percée en matière de sécurité et d'efficacité de l'épilation.</p><br>
 
-          En incorporant plusieurs longueurs d'onde et technologies laser, Soprano ICE nous permet de traiter le plus large éventail de patients et de types de poils tout au long de l'année, d'administrer des traitements rapidement et confortablement et d'obtenir les meilleurs résultats cliniques possibles.<br><br>
+
+          <p>Le Spirit 918 Trio est alimenté par la technologie Speed Pulse (SPT), la technologie innovante d'Active, qui comprend le réglage précis des capacités du laser à diode et les élève à un nouveau niveau d'efficacité. Le SPT, basé sur des diodes laser améliorées, produit un faisceau d'énergie concentré en impulsions courtes de haute puissance.</p><br>
+
+
+          <p>Les résultats exceptionnels du SPT ne compromettent pas la sécurité et le confort des patients ; il réduit considérablement le temps de traitement.</p><br>
 
           <small>Veuillez nous contacter pour une consultation gratuite et des forfaits laser personnalisés au 450-619-1600</small>
 
@@ -243,8 +267,6 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b>126$</b></div>
-
           </div>
 
 
@@ -255,21 +277,6 @@ components:
           <span class="md:text-xl">Bikini Brésilien + Aisselles  </span><br>
 
           </div>
-
-          <div class="md:px-2 text-primary"><b>161$</b></div>
-
-          </div>
-
-
-          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
-
-          <div>
-
-          <span class="md:text-xl">Bikini + Demi-Jambes</span><br>
-
-          </div>
-
-          <div class="md:px-2 text-primary"><b>189$</b></div>
 
           </div>
 
@@ -282,7 +289,7 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b>238$</b></div>
+
 
           </div>
 
@@ -297,11 +304,20 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Bikini + Aisselles + Demi-Jambes</span><br>
+          <span class="md:text-xl">Intégral + Aisselles + Demi-Jambes</span><br>
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 217$</b></div>
+          </div>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Bikini + Aisselles + Demi-Jambes</span><br>
+
+          </div>
 
           </div>
 
@@ -314,7 +330,7 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 322$*</b></div>
+
 
           </div>
 
@@ -333,7 +349,16 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 196$*</b></div>
+          </div>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Lèvre supérieur</span><br>
+
+          </div>
 
           </div>
 
@@ -342,25 +367,9 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Cou</span><br>
+          <span class="md:text-xl">Barbe-Cou</span><br>
 
           </div>
-
-          <div class="md:px-2 text-primary"><b> 77$</b></div>
-
-          </div>
-
-
-
-          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
-
-          <div>
-
-          <span class="md:text-xl">Cou + Barbe</span><br>
-
-          </div>
-
-          <div class="md:px-2 text-primary"><b> 185$</b></div>
 
           </div>
 
@@ -369,11 +378,11 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Sideburns</span><br>
+          <span class="md:text-xl">Favori</span><br>
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 49$</b></div>
+
 
           </div>
 
@@ -386,83 +395,21 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 42$</b></div>
-
           </div>
 
+
+          <small>* Aisselles gratuites pendant 3 séances pour les nouveaux clients</small><br><br>
 
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
           <div>
 
-          <span class="md:text-xl">Lèvre Supérieur</span><br>
-
-          </div>
-
-          <div class="md:px-2 text-primary"><b> 42$</b></div>
-
-          </div>
-
-
-          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
-
-          <div>
-
-          <span class="md:text-xl">Menton</span><br>
-
-          </div>
-
-          <div class="md:px-2 text-primary"><b> 42$</b></div>
-
-          </div>
-
-
-          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
-
-          <div>
-
-          <span class="md:text-xl">Oreilles</span><br>
-
-          </div>
-
-          <div class="md:px-2 text-primary"><b> 42$</b></div>
+          <span class="md:text-xl">Aisselles</span><br>
 
           </div>
 
           </div>
 
-
-
-          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
-
-          <div>
-
-          <span class="md:text-xl">Menton</span><br>
-
-          </div>
-
-          <div class="md:px-2 text-primary"><b> 42$</b></div>
-
-          </div>
-
-
-          <small>* Aisselles gratuites pendant 3 séances pour les nouveaux clients (-155$)</small><br><br>
-
-
-          <span class="text-xl italic text-primary"> Upper body laser</span><br><br>
-
-
-          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
-
-          <div>
-
-          <span class="md:text-xl">Aiselles</span><br>
-
-          </div>
-
-          <div class="md:px-2 text-primary"><b> 45$</b></div>
-
-          </div>
 
 
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
@@ -473,7 +420,7 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 157$*</b></div>
+
 
           </div>
 
@@ -486,7 +433,7 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 126$</b></div>
+
 
           </div>
 
@@ -497,45 +444,21 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 77$</b></div>
+
 
           </div>
 
            <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
           <div>
 
-          <span class="md:text-xl">Dos Complet</span><br>
-
-          </div>
-
-          <div class="md:px-2 text-primary"><b> 164$*</b></div>
+          <span class="md:text-xl">Dos Complèt</span><br>
 
           </div>
 
 
-          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
-
-          <div>
-
-          <span class="md:text-xl">Dos + Épaule</span><br>
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 168$</b></div>
-
-          </div>
-           
-          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
-
-          <div>
-
-          <span class="md:text-xl">Épaule</span><br>
-
-          </div>
-
-          <div class="md:px-2 text-primary"><b> 105$</b></div>
-
-          </div>
 
 
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
@@ -546,7 +469,7 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 42$</b></div>
+
 
           </div>
 
@@ -559,7 +482,7 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 133$</b></div>
+
 
           </div>
            
@@ -577,7 +500,7 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 98$</b></div>
+
 
           </div>
 
@@ -590,7 +513,31 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 133$</b></div>
+
+
+          </div>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Bikini intégral</span><br>
+
+          </div>
+
+
+
+          </div>
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Orteils</span><br>
+
+          </div>
 
           </div>
 
@@ -603,7 +550,7 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 94$</b></div>
+
 
           </div>
            
@@ -611,11 +558,11 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Cuisses Complètes</span><br>
+          <span class="md:text-xl">Cuisses </span><br>
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 147$</b></div>
+
 
           </div>
 
@@ -628,31 +575,29 @@ components:
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 182$</b></div>
-
           </div>
-           
+
+
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
           <div>
 
-          <span class="md:text-xl">Orteils</span><br>
+          <span class="md:text-xl">Jambes complètes incl pieds</span><br>
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 24$</b></div>
+          </div> 
 
-          </div>
-           
+
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
           <div>
 
-          <span class="md:text-xl">Pieds</span><br>
+          <span class="md:text-xl">Corps complet</span><br>
 
           </div>
 
-          <div class="md:px-2 text-primary"><b> 42$</b></div>
+
 
           </div>
 
@@ -663,6 +608,13 @@ components:
     img_alt: Epilation
     cta: Prendre Rendez-Vous
     desc: >-
+      <div class="font-bold text-primary text-base pb-4">Pour la liste des
+      tarifs, <a
+      href="https://mez-collections-and-studio-beaute.appointlet.com/"
+      target="_blank"><u>veuillez cliquer ici</u></a> ou sur le bouton "Prendre
+      Rendez-Vous"</div>
+
+
       <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
 
       <div>
@@ -677,7 +629,7 @@ components:
 
       <div class="md:px-2">30min</div>
 
-      <div class="md:px-2">$25</div>
+
 
       </div>
 
@@ -698,7 +650,7 @@ components:
 
       <div class="md:px-2">1h30min</div>
 
-      <div class="md:px-2">$120</div>
+
 
       </div>
 
@@ -717,7 +669,7 @@ components:
 
       <div class="md:px-2">10min</div>
 
-      <div class="md:px-2">$10</div>
+
 
       </div>
 
@@ -736,7 +688,7 @@ components:
 
       <div class="md:px-2">5min</div>
 
-      <div class="md:px-2">$5</div>
+
 
       </div>
 
@@ -755,7 +707,7 @@ components:
 
       <div class="md:px-2">5min</div>
 
-      <div class="md:px-2">$5</div>
+
 
       </div>
 
@@ -776,7 +728,7 @@ components:
 
       <div class="md:px-2">45min</div>
 
-      <div class="md:px-2">$44</div>
+
 
       </div>
 
@@ -797,7 +749,7 @@ components:
 
       <div class="md:px-2">45min</div>
 
-      <div class="md:px-2">$22</div>
+
 
       </div>
 
@@ -818,7 +770,7 @@ components:
 
       <div class="md:px-2">30min</div>
 
-      <div class="md:px-2">$22</div>
+
 
       </div>
 
@@ -839,7 +791,7 @@ components:
 
       <div class="md:px-2">15min</div>
 
-      <div class="md:px-2">$17</div>
+
 
       </div>
 
@@ -858,7 +810,7 @@ components:
 
       <div class="md:px-2">10min</div>
 
-      <div class="md:px-2">$12</div>
+
 
       </div>
 
@@ -877,7 +829,7 @@ components:
 
       <div class="md:px-2">45min</div>
 
-      <div class="md:px-2">$33</div>
+
 
       </div>
 
@@ -896,7 +848,7 @@ components:
 
       <div class="md:px-2">15min</div>
 
-      <div class="md:px-2">$17</div>
+
 
       </div>
 
@@ -915,7 +867,7 @@ components:
 
       <div class="md:px-2">40min</div>
 
-      <div class="md:px-2">$55</div>
+
 
       </div>
 
@@ -934,7 +886,7 @@ components:
 
       <div class="md:px-2">30min</div>
 
-      <div class="md:px-2">$28</div>
+
 
       </div>
 
@@ -953,7 +905,7 @@ components:
 
       <div class="md:px-2">20min</div>
 
-      <div class="md:px-2">$15</div>
+
 
       </div>
 
@@ -972,7 +924,7 @@ components:
 
       <div class="md:px-2">5min</div>
 
-      <div class="md:px-2">$5</div>
+
 
       </div>
 
@@ -991,7 +943,7 @@ components:
 
       <div class="md:px-2">15min</div>
 
-      <div class="md:px-2">$18</div>
+
 
       </div>
 
@@ -1011,34 +963,33 @@ components:
     desc: "#"
     id_select: true
   - type: faq_toggle
-    question: "Qu’est-ce que le laser Soprano Ice? "
-    answer: "Solution complète d’épilation au laser  <br> - Toute dernière
-      génération des lasers Soprano, le Soprano ICE est un appareil primé qui
-      est utilisé par des cliniques de laser spécialisées et d’éminents médecins
-      partout sur la planète.  <br> - La gamme de lasers Soprano ICE témoigne
-      d’une ère nouvelle dans l’épilation au laser. En misant sur diverses
-      longueurs d’onde et technologies de laser, le Soprano ICE permet de
-      traiter un grand nombre de patients et de types de poils (plus que la
-      compétition) rapidement et sans douleur à tout moment de l’année.  <br> -
-      Pratiquement indolore  <br> - Innocuité éprouvée  <br> - Tous les types de
-      peau  <br> - Efficace sur les peaux hâlées  <br> - Couverture totale
-      <br><br>L’épilation au laser consiste en la concentration d’impulsions
-      d’énergie hautement concentrée qui pénètrent les follicules pileux et
-      détruisent le bulbe pileux. L’impulsion lumineuse détruit les bulbes
-      pileux en phase de croissance au moment du traitement. "
+    question: "Qu’est-ce que le laser Active Spirit 918 Trio? "
+    answer: "Solution complète d’épilation au laser  <br><br> - Le Active Spirit 918
+      Trio est un avur diverses longueurs d’onde et technologies de laser, le
+      Active Spirit 918 Trio permet de traiter un grand nombre de patients et de
+      types de poils (plus que la compétition) rapidement et sans douleur à tout
+      moment de l’année.<br>  <br> - Pratiquement indolore  <br> - Innocuité
+      éprouvée  <br> - Tous les types de peau  <br> - Efficace sur les peaux
+      hâlées  <br> - Couverture totale <br><br>L’épilation au laser consiste en
+      la concentration d’impulsions d’énergie hautement concentrée qui pénètrent
+      les follicules pileux et détruisent le bulbe pileux. L’impulsion lumineuse
+      détruit les bulbes pileux en phase de croissance au moment du traitement.
+      "
     faqs:
-      - question: "L’appareil Soprano ICE Platinum convient-il à l’épilation au laser? "
-        answer: "Le système Soprano ICE est la méthode d’épilation au laser la plus
-          sécuritaire pour tous les types de peau, notamment les peaux hâlées
-          dont la mélanine est beaucoup plus sensible à la chaleur produite par
-          les lasers. "
-      - question: "L’épilation avec l’appareil Soprano ICE est-elle douloureuse? "
-        answer: "L’épilation au laser avec le système Soprano ICE est pratiquement
-          indolore parce qu’on a recours à la technologie ICE™ pour refroidir la
-          surface de la peau afin de prévenir la surchauffe et les malaises que
-          peut occasionner l’épilation au laser. La plupart n’expérience qu’une
-          légère sensation de chaleur sur la région traitée, ce qui est bien
-          mieux que les autres appareils d’épilation au laser. "
+      - question: "L’appareil Active Spirit 918 Trio convient-il à l’épilation au laser?
+          "
+        answer: "Le système Active Spirit 918 Trio est la méthode d’épilation au laser
+          la plus sécuritaire pour tous les types de peau, notamment les peaux
+          hâlées dont la mélanine est beaucoup plus sensible à la chaleur
+          produite par les lasers. "
+      - question: "L’épilation avec l’appareil Active Spirit 918 Trio est-elle
+          douloureuse? "
+        answer: "L’épilation au laser avec le système Active Spirit 918 Trio est
+          pratiquement indolore parce qu’on a recours à la technologie ICE™ pour
+          refroidir la surface de la peau afin de prévenir la surchauffe et les
+          malaises que peut occasionner l’épilation au laser. La plupart
+          n’expérience qu’une légère sensation de chaleur sur la région traitée,
+          ce qui est bien mieux que les autres appareils d’épilation au laser. "
       - question: "Pour vérifier qu’une machine fonctionnera pour moi, devrais-je subir
           un test localisé? "
         answer: "Même si vous avez déjà eu recours à l’épilation au laser, il vaut mieux
@@ -1074,19 +1025,20 @@ components:
       - question: "Peut-on avoir recours à l’épilation au laser sur une peau brunie par
           le soleil? "
         answer: "Contrairement à plusieurs autres systèmes d’épilation au laser, le
-          Soprano ICE peut être utilisé en toute sécurité pour traiter des peaux
-          brunies naturellement par le soleil. Nous recommandons tout de même
-          d’éviter les lits de bronzage et le faux bronzage avant votre
-          traitement, mais vous n’avez pas à vous encloîtrer pour éviter toute
-          exposition au soleil. "
-      - question: "L’appareil Soprano ICE peut-il être utilisé en toute sécurité sur
-          tous les types de peaux? "
-        answer: "Selon de multiples études, le Soprano ICE est la méthode d’épilation au
-          laser la plus sécuritaire, notamment pour les peaux hâlées dont la
-          mélanine est plus sensible à la chaleur produite par les lasers.
-          Évidemment, nous recommandons toujours de recevoir une consultation et
-          de subir un test localisé pour vérifier que votre peau répond bien au
-          traitement et que vous n’avez pas de réactions indésirables. "
+          Active Spirit 918 Trio peut être utilisé en toute sécurité pour
+          traiter des peaux brunies naturellement par le soleil. Nous
+          recommandons tout de même d’éviter les lits de bronzage et le faux
+          bronzage avant votre traitement, mais vous n’avez pas à vous
+          encloîtrer pour éviter toute exposition au soleil. "
+      - question: "L’appareil Active Spirit 918 Trio peut-il être utilisé en toute
+          sécurité sur tous les types de peaux? "
+        answer: "Selon de multiples études, le Active Spirit 918 Trio est la méthode
+          d’épilation au laser la plus sécuritaire, notamment pour les peaux
+          hâlées dont la mélanine est plus sensible à la chaleur produite par
+          les lasers. Évidemment, nous recommandons toujours de recevoir une
+          consultation et de subir un test localisé pour vérifier que votre peau
+          répond bien au traitement et que vous n’avez pas de réactions
+          indésirables. "
       - question: "Les femmes enceintes peuvent-elles avoir recours à l’épilation au
           laser? "
         answer: Non
