@@ -341,7 +341,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Hairdressing for Event</span></small>
+          <span class="md:text-xl">Hairdressing For Event</span></small>
 
           </div>
 
