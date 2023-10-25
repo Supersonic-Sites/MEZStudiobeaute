@@ -344,7 +344,7 @@ components:
           <span class="md:text-xl">Hairdressing for Event</span></small>
 
           </div>
-ß
+
           <div class="font-bold text-primary text-base flex flex-col text-right">
 
           <div class="md:px-2">1h30min</div>
