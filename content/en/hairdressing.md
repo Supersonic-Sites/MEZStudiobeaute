@@ -25,9 +25,9 @@ components:
 
           <div class="font-bold text-primary text-base flex flex-col text-right">
 
-          <div class="md:px-2">1h</div>
+          <div class="md:px-2">30min</div>
 
-          <div class="md:px-2">$45</div>
+          <div class="md:px-2">$25</div>
 
           </div>
 
@@ -40,9 +40,9 @@ components:
 
           <div class="font-bold text-primary text-base flex flex-col text-right">
 
-          <div class="md:px-2">1h30</div>
+          <div class="md:px-2">40min</div>
 
-          <div class="md:px-2">$60</div>
+          <div class="md:px-2">$45</div>
 
           </div>
 
@@ -288,6 +288,26 @@ components:
           </div>
 
 
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">BIOTOX Hair Treatment</span><br>
+
+          <small class="mb-2">BIOTOX Organique is a rejuvenating and anti-frizz treatment that will deeply repair damaged to very damaged and dull hair, restoring shine, strength and shine, thanks to its unique and innovative formula enriched with silk protein, collagen and vitamins. useful for hair.. We end with an MEP. The price starts at $180 but it depends on thickness and length.</small>
+
+          </div>
+
+          <div class="font-bold text-primary text-base flex flex-col text-right">
+
+          <div class="md:px-2">2h30</div>
+
+          <div class="md:px-2">$180/h</div>
+
+
+          </div>
+
+          </div>
 
           <div class="flex justify-between pb-4 mb-4">
 
@@ -329,7 +349,25 @@ components:
 
           <div class="md:px-2">1h30min</div>
 
-          <div class="md:px-2">$60</div>
+          <div class="md:px-2">$80</div>
+
+          </div>
+
+          </div>
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Hairdressing for weddings</span></small>
+
+          </div>
+
+          <div class="font-bold text-primary text-base flex flex-col text-right">
+
+          <div class="md:px-2">1h30min</div>
+
+          <div class="md:px-2">$170</div>
 
           </div>
 
@@ -348,7 +386,7 @@ components:
 
           <div class="md:px-2">2h30min</div>
 
-          <div class="md:px-2">$120</div>
+          <div class="md:px-2">$160</div>
 
           </div>
 
@@ -422,26 +460,14 @@ components:
 
       <div class="md:px-2">30min</div>
 
-      <div class="md:px-2">$18</div>
+      <div class="md:px-2">$20</div>
 
       </div>
 
       </div>
 
 
-      <div class="flex justify-between py-4">
 
-      <span class="md:text-xl">Children 13-18</span>
-
-      <div class="font-bold text-primary text-base flex flex-col text-right">
-
-      <div class="md:px-2">30min</div>
-
-      <div class="md:px-2">$21</div>
-
-      </div>
-
-      </div>
     service: Cuts
     aos_select: true
     title: Services

@@ -28,7 +28,7 @@ components:
 
           <div class="md:px-2">1h</div>
 
-          <div class="md:px-2">$45</div>
+
 
           </div>
 
@@ -43,7 +43,7 @@ components:
 
           <div class="md:px-2">1h30</div>
 
-          <div class="md:px-2">$60</div>
+
 
           </div>
 
@@ -64,7 +64,7 @@ components:
 
           <div class="md:px-2">1h30min</div>
 
-          <div class="md:px-2">$70</div>
+
 
           </div>
 
@@ -85,7 +85,7 @@ components:
 
           <div class="md:px-2">1h30min</div>
 
-          <div class="md:px-2">$50</div>
+
 
           </div>
 
@@ -106,7 +106,7 @@ components:
 
           <div class="md:px-2">2h00</div>
 
-          <div class="md:px-2">$66</div>
+
 
           </div>
 
@@ -127,7 +127,7 @@ components:
 
           <div class="md:px-2">2h30min</div>
 
-          <div class="md:px-2">$88</div>
+
 
           </div>
 
@@ -150,7 +150,7 @@ components:
 
           <div class="md:px-2">50min</div>
 
-          <div class="md:px-2">$45</div>
+
 
           </div>
 
@@ -173,7 +173,7 @@ components:
 
           <div class="md:px-2">3h00</div>
 
-          <div class="md:px-2">$150</div>
+
 
           </div>
 
@@ -195,7 +195,7 @@ components:
 
           <div class="md:px-2">2h00</div>
 
-          <div class="md:px-2">$99</div>
+
 
           </div>
 
@@ -214,7 +214,7 @@ components:
 
           <div class="md:px-2">2h20min</div>
 
-          <div class="md:px-2">$120</div>
+
 
           </div>
 
@@ -233,7 +233,7 @@ components:
 
           <div class="md:px-2">2h45min</div>
 
-          <div class="md:px-2">$180</div>
+
 
           </div>
 
@@ -260,7 +260,7 @@ components:
 
           <div class="md:px-2">45min</div>
 
-          <div class="md:px-2">$45</div>
+
 
           </div>
 
@@ -282,12 +282,32 @@ components:
 
           <div class="md:px-2">3h00</div>
 
-          <div class="md:px-2">$80/h</div>
+          </div>
+
+          </div>
+
+          
+
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">	Traitement capilaire BIOTOX</span><br>
+
+          <small class="mb-2">BIOTOX Organique est un traitement rajeunissant et anti-frizz qui va réparer en profondeur les cheveux abimés à très abimés et ternes, en leur redonnant éclat, force et brillance, grâce à sa formule unique et innovante enrichie en protéine de soie, en collagène et vitamines utiles aux cheveux.. Nous finissons avec une MEP. Le prix commence à 180$ mais cela dépend d’épaisseur et longueur.</small>
+
+          </div>
+
+          <div class="font-bold text-primary text-base flex flex-col text-right">
+
+          <div class="md:px-2">2h30</div>
 
           </div>
 
           </div>
 
+          
 
 
           <div class="flex justify-between pb-4 mb-4">
@@ -304,7 +324,7 @@ components:
 
           <div class="md:px-2">4h00</div>
 
-          <div class="md:px-2">$180</div>
+
 
           </div>
 
@@ -330,7 +350,25 @@ components:
 
           <div class="md:px-2">1h30min</div>
 
-          <div class="md:px-2">$60</div>
+
+
+          </div>
+
+          </div>
+
+          <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
+
+          <div>
+
+          <span class="md:text-xl">Coiffure Pour La Mariée</span></small>
+
+          </div>
+
+          <div class="font-bold text-primary text-base flex flex-col text-right">
+
+          <div class="md:px-2">1h30min</div>
+
+
 
           </div>
 
@@ -349,7 +387,7 @@ components:
 
           <div class="md:px-2">2h30min</div>
 
-          <div class="md:px-2">$120</div>
+
 
           </div>
 
@@ -370,7 +408,7 @@ components:
 
           <div class="md:px-2">3h00min</div>
 
-          <div class="md:px-2">$200</div>
+
 
           </div>
 
@@ -393,7 +431,7 @@ components:
 
       <div class="md:px-2">30min</div>
 
-      <div class="md:px-2">$25</div>
+
 
       </div>
 
@@ -408,7 +446,7 @@ components:
 
       <div class="md:px-2">40min</div>
 
-      <div class="md:px-2">$45</div>
+
 
       </div>
 
@@ -423,26 +461,14 @@ components:
 
       <div class="md:px-2">30min</div>
 
-      <div class="md:px-2">$18</div>
+
 
       </div>
 
       </div>
 
 
-      <div class="flex justify-between py-4">
 
-      <span class="md:text-xl">Coupe Enfant 13-18 ans</span>
-
-      <div class="font-bold text-primary text-base flex flex-col text-right">
-
-      <div class="md:px-2">30min</div>
-
-      <div class="md:px-2">$21</div>
-
-      </div>
-
-      </div>
     service: Coupes
     aos_select: true
     title: Services
