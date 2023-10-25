@@ -341,10 +341,10 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Hairdressing for events</span></small>
+          <span class="md:text-xl">Hairdressing for Event</span></small>
 
           </div>
-
+ß
           <div class="font-bold text-primary text-base flex flex-col text-right">
 
           <div class="md:px-2">1h30min</div>
@@ -359,7 +359,7 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Hairdressing for weddings</span></small>
+          <span class="md:text-xl">Hairdressing For Wedding</span></small>
 
           </div>
 
