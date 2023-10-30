@@ -13,6 +13,42 @@ components:
   - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/787046c3-89b4-4eb2-f7c8-19cbe544fc00/Square400px
     aos: fade-in
     service_list:
+      - service: Shampoo & Set
+        desc: >-
+          <small class="mb-2">* A price adjustment will apply. if the hair is
+          very thick which takes more than an hour</small><br>
+
+
+          <div class="flex justify-between pb-4 border-b border-gray-300">
+
+          <span class="md:text-xl">Shampoo & Set - Short hair</span>
+
+          <div class="font-bold text-primary text-base flex flex-col text-right">
+
+          <div class="md:px-2">1h</div>
+
+          <div class="md:px-2">$45</div>
+
+
+          </div>
+
+          </div>
+
+
+          <div class="flex justify-between pb-4 border-b border-gray-300">
+
+          <span class="md:text-xl">Shampoo & Set - Medium & Long Length</span>
+
+          <div class="font-bold text-primary text-base flex flex-col text-right">
+
+          <div class="md:px-2">1h30min</div>
+
+          <div class="md:px-2">$55</div>
+
+
+          </div>
+
+          </div>
       - service: Shampoo & Set / Cut Combo
         desc: >-
           <small class="mb-2">* A price adjustment will be applicable if the
@@ -25,9 +61,9 @@ components:
 
           <div class="font-bold text-primary text-base flex flex-col text-right">
 
-          <div class="md:px-2">30min</div>
+          <div class="md:px-2">1h20</div>
 
-          <div class="md:px-2">$25</div>
+          <div class="md:px-2">$55</div>
 
           </div>
 
@@ -40,9 +76,9 @@ components:
 
           <div class="font-bold text-primary text-base flex flex-col text-right">
 
-          <div class="md:px-2">40min</div>
+          <div class="md:px-2">1h30</div>
 
-          <div class="md:px-2">$45</div>
+          <div class="md:px-2">$65</div>
 
           </div>
 
@@ -84,7 +120,7 @@ components:
 
           <div class="md:px-2">1h30min</div>
 
-          <div class="md:px-2">$50</div>
+          <div class="md:px-2">$55</div>
 
           </div>
 
@@ -105,7 +141,7 @@ components:
 
           <div class="md:px-2">2h00</div>
 
-          <div class="md:px-2">$66</div>
+          <div class="md:px-2">$70</div>
 
           </div>
 
@@ -126,7 +162,7 @@ components:
 
           <div class="md:px-2">2h30min</div>
 
-          <div class="md:px-2">$88</div>
+          <div class="md:px-2">$90</div>
 
           </div>
 
@@ -149,7 +185,7 @@ components:
 
           <div class="md:px-2">50min</div>
 
-          <div class="md:px-2">$45</div>
+          <div class="md:px-2">$50</div>
 
           </div>
 
@@ -162,7 +198,7 @@ components:
 
           <span class="md:text-xl">Balayage & Highlights </span><br>
 
-          <small class="mb-2">* Starting at $ 150. Contact us before an appointment with your hair history of at least past 6 months : previous coloration -bleaching - Length -Thickness - overall Health of your hair.
+          <small class="mb-2">* Starting at $ 170. Contact us before an appointment with your hair history of at least past 6 months : previous coloration -bleaching - Length -Thickness - overall Health of your hair.
 
           </small>
 
@@ -172,7 +208,7 @@ components:
 
           <div class="md:px-2">3h00</div>
 
-          <div class="md:px-2">$150</div>
+          <div class="md:px-2">$170</div>
 
           </div>
 
@@ -194,7 +230,7 @@ components:
 
           <div class="md:px-2">2h00</div>
 
-          <div class="md:px-2">$99</div>
+          <div class="md:px-2">$150</div>
 
           </div>
 
@@ -213,7 +249,7 @@ components:
 
           <div class="md:px-2">2h20min</div>
 
-          <div class="md:px-2">$120</div>
+          <div class="md:px-2">$180</div>
 
           </div>
 
@@ -232,7 +268,7 @@ components:
 
           <div class="md:px-2">2h45min</div>
 
-          <div class="md:px-2">$180</div>
+          <div class="md:px-2">$240</div>
 
           </div>
 
@@ -465,9 +501,6 @@ components:
       </div>
 
       </div>
-
-
-
     service: Cuts
     aos_select: true
     title: Services

@@ -28,136 +28,31 @@ components:
 
           <div class="md:px-2">1h00</div>
 
-          <div class="md:px-2">$110</div>
-
           </div>
 
           </div>
 
           <a href="#microdermabrasion" class="underline text-primary">Please read our FAQ about microdermabrasion</a>
-      - service: "Soins Spécifique: Soins Lifting-Coup d'Éclat"
-        desc: >-
+      - service: Facial Peeling Chimique
+        desc: >+
           <div class="flex justify-between pb-4 mb-4">
 
           <div>
 
-          <span class="md:text-xl"><strong>Phyto Nutri-Lifting Complex + Acides de fruits + Vitamine A, C and E
-
-          </strong><br>Ce soin professionnel allie le pouvoir des extraits végétaux à celui des acides de fruits naturels pour exfolier, lisser, nourrir et protéger la peau en un seul geste.</span>
+          <span class="md:text-xl">Ce soin professionnel allie le pouvoir des acides salicylique Glycoloique, Mandélique, Enztmatique, JC peeling pour exfolier, lisser, nourrir et protéger la peau en travaillant directement dans la glande sébacée, le peeling chimique est le soin idéal pour la peau grasse, congestionnée ou hyperpigmentée, peau mature, réduit le séburm, dommages causés par le soleil etc.</span>
 
           </div>
 
-          <div class="text-base font-bold text-primary flex flex-col text-right">
+          <div class="font-bold text-primary text-base flex flex-col text-right">
 
           <div class="md:px-2">1h00</div>
 
-          <div class="md:px-2">$80</div>
+
 
           </div>
 
           </div>
-      - service: "Soins Spécifique: Voile de Collagène"
-        desc: >-
-          <div class="flex justify-between pb-4 mb-4">
 
-          <div>
-
-          <span class="md:text-xl"><strong>Objectifs:</strong> Redensifier, hydrater, apaiser Composé de trois molécules distinctes de collagène, le Voile de collagène agit comme une seconde peau et se définit par son action ultra-hydratante et régénératrice des tissus cutanés.<br><br>
-
-          <strong>Collagène Natif:</strong>  Dit non-dénaturé, il apaise et hydrate la peau.<br><br>
-
-          <strong>Collagène Natif Soluble:</strong>e plus bio-assimilable, il fournit un apport direct en collagène. <br><br>
-
-          <strong>Peptides De Collagène :</strong> Petites protéines, elles augmentent la production naturelle de collagène.  <br><br><strong>Resultats:</strong><br> • Diminution de 30% du relief cutané (rides et ridules).<br> • Augmentation du taux d’hydratation de la peau et de sa capacité de conservation de l’humidité.<br> • Diminution des rougeurs et de la sensation d’inconfort.</span><br>
-
-          </div>
-
-          <div class="text-base font-bold text-primary flex flex-col text-right">
-
-          <div class="md:px-2">1h00</div>
-
-          <div class="md:px-2">$99</div>
-
-          </div>
-
-          </div>
-      - service: "Soins Spécifique: Soin Modelant Éclaircissement"
-        desc: >-
-          <div class="flex justify-between pb-4 mb-4">
-
-          <div>
-
-          <span class="md:text-xl"><strong>Vitamin C + Phyto Éclat Complex</strong><br>
-
-          Vitamin C + Scutelllaria + Saxifraga + Black Mulberry + Grape + Marine Polysaccharids<br><br>
-
-          Riche en principes actifs éclaircissants, régénérants et hydratants, ce masque est spécialement formulé pour apporter éclat et confort à tous les types de peaux et plus particulièrement aux peaux atones. <br><br>
-
-          Grâce à son complexe végétal éclaircissant il régularise la production de mélanine et stimule la synthèse de collagène. Il agit en produisant un refroidissement de la peau, en conséquence, celle-ci retrouve souplesse, luminosité et douceur dès la première séance.
-
-          </span>
-
-          </div>
-
-          <div class="text-base font-bold text-primary flex flex-col text-right">
-
-          <div class="md:px-2">1h10</div>
-
-          <div class="md:px-2">$99</div>
-
-          </div>
-
-          </div>
-      - service: "Soins Spécifique: Soin Protocol-C"
-        desc: >-
-          <div class="flex justify-between pb-4 mb-4">
-
-          <div>
-
-          <span class="md:text-xl">Un traitement antioxydant et anti-âge conçu pour raviver la peau en stimulant la synthèse de collagène et en la protégeant contre les radicaux libres. <br><br>
-
-          Formulé avec des ingrédients actifs de sources marines et végétales et d’un concentré de vitamine C, ce traitement atténue l’apparence des rides et ridules, unifie le teint et rend la peau radieuse pour lui redonner son air de jeunesse.<br><br>
-
-          Le nouveau PROTOCOL-C aux multiples effets éprouvés, en un seul traitement:<br><br>
-
-          • Stimule la peau fatiguée, stressée<br> 
-
-          • La peau est visiblement lisse et plus souple<br> 
-
-          • Protège la peau et réduit les rides
-
-          </span>
-
-          </div>
-
-          <div class="text-base font-bold text-primary flex flex-col text-right">
-
-          <div class="md:px-2">1h10</div>
-
-          <div class="md:px-2">$99</div>
-
-          </div>
-
-          </div>
-      - service: Soin De Paraphine
-        desc: >
-          <div class="flex justify-between pb-4 mb-4">
-
-          <div>
-
-          <span class="md:text-xl">Aux huiles essentielles de lavande, orange et géranium Adoucissante, notre paraffine a la propriété de retenir la chaleur et l’eau, de dilater les pores de la peau. Chaude, elle active la circulation sanguine en réduisant la sécheresse de la peau et soulage les douleurs de l’arthrite et des rhumatismes.</span> 
-
-          </div>
-
-          <div class="text-base font-bold text-primary flex flex-col text-right">
-
-          <div class="md:px-2">15min</div>
-
-          <div class="md:px-2">$15</div>
-
-          </div>
-
-          </div>
       - service: Microneedling
         desc: >
           <div class="flex justify-between pb-4 mb-4">
@@ -196,7 +91,7 @@ components:
 
           <div class="md:px-2">1h30min</div>
 
-          <div class="md:px-2">$250</div>
+
 
           </div>
 
@@ -204,6 +99,110 @@ components:
 
 
           <a href="#microneedling" class="underline text-primary">Veuillez lire notre foire aux questions sur le microneedling</a>
+      - service: Facial Peeling Chemique et Microneedling
+        desc: >+
+          <div class="flex justify-between pb-4 mb-4">
+
+          <div>
+
+          <span class="md:text-xl">Redonner la peau son elastisité et brillance en réduissant l'apparence des rédules, hyperpigmentation, pore dilatés, cicatrices, secheresse etc.<br><br>
+
+
+          Composé des molécules distinctes de collagène, Bio-C, les acides Hyaluronique, Salicylique Glycoloique, Mandélique, Enztmatique. Microneedling RF est une technologie innovante qui combine le micro-aiguillage et la radiofréquence afin de stimuler autant en surface qu’en profondeur les cellules cutanées.<br><br>
+
+          </p>
+
+          </span> 
+
+          </div>
+
+          <div class="text-base font-bold text-primary flex flex-col text-right">
+
+          <div class="md:px-2">1h30min</div>
+
+
+
+          </div>
+
+          </div>
+
+      - service: Microneedling Traitement Capilaire
+        desc: >-
+          <div class="flex justify-between pb-4 mb-4">
+
+          <div>
+
+          <span class="md:text-xl">Quels sont les avantages d’ACS-PEN – Stimulation Cellulaire Avancée?<br><br>
+
+
+          Le collagène et les follicules pileux se trouvant dans les mêmes couches de la peau, les micro-perforations tendent à rebooster la création de collagène, donc de booster et assainir les follicules pileux, ce qui favorise la croissance des cheveux.<br><br>
+
+          </p>
+
+          </span> 
+
+          </div>
+
+          <div class="text-base font-bold text-primary flex flex-col text-right">
+
+          <div class="md:px-2">1h00min</div>
+
+          </div>
+
+          </div>
+      - service: Aqua-Microdermabrasion Facial
+        desc: >-
+          <div class="flex justify-between pb-4 mb-4">
+
+          <div>
+
+          <span class="md:text-xl">Hydrater et éclaircir la peau et lisser les rides.<br>
+
+          - Aide à réduire les tâches pigmentaires et tout dommage à la peau<br>
+
+          - Régule la sécrétion des glandes sébacées, réduit l'acné du visage, améliore cutanée des nutriments.<br>
+
+          - Élimine les imperfections du visage<br>
+
+          - Améliore le teint cutané de la peau<br>
+
+          - Raffermissement de la peau<br><br>
+
+          </p>
+
+          </span> 
+
+          </div>
+
+          <div class="text-base font-bold text-primary flex flex-col text-right">
+
+          <div class="md:px-2">1h30min</div>
+
+          </div>
+
+          </div>
+      - service: Soin De Paraphine
+        desc: >+
+          <div class="flex justify-between pb-4 mb-4">
+
+          <div>
+
+          <span class="md:text-xl"><p> Aux huiles essentielles de lavande, orange et géranium. Adoucissante, notre paraffine a la propriété de retenir la chaleur et l’eau, de dilater les pores de la peau. Chaude, elle active la circulation sanguine en réduisant la sécheresse de la peau et soulage les douleurs de l’arthrite et des rhumatismes.
+
+          </p>
+
+          </span> 
+
+          </div>
+
+          <div class="text-base font-bold text-primary flex flex-col text-right">
+
+          <div class="md:px-2">15min</div>
+
+          </div>
+
+          </div>
+
     cta_link: https://mez-collections-and-studio-beaute.appointlet.com/
     bg_color: white
     cta_select: true
@@ -222,13 +221,13 @@ components:
 
       <div class="md:px-2">1h00</div>
 
-      <div class="md:px-2">$77</div>
+
 
       </div>
 
       </div>
 
-    service: Facial
+    service: Facial Signature
     aos_select: true
     title: Soins du Visage Spécialisés
     type: img_half_right_toggle
@@ -253,7 +252,7 @@ components:
 
           <div class="md:px-2">3h30</div>
 
-          <div class="md:px-2">$429</div>
+
 
           </div>
 
@@ -279,7 +278,7 @@ components:
 
           <div class="md:px-2">2h30</div>
 
-          <div class="md:px-2">$299</div>
+
 
           </div>
 
@@ -302,7 +301,7 @@ components:
 
           <div class="md:px-2">15min</div>
 
-          <div class="md:px-2">$15</div>
+
 
           </div>
 
@@ -323,7 +322,7 @@ components:
 
           <div class="md:px-2">45min</div>
 
-          <div class="md:px-2">$35</div>
+
 
           </div>
 
@@ -342,7 +341,7 @@ components:
 
           <div class="md:px-2">15min</div>
 
-          <div class="md:px-2">$15</div>
+
 
           </div>
 
@@ -361,7 +360,7 @@ components:
 
           <div class="md:px-2">50min</div>
 
-          <div class="md:px-2">$77</div>
+
 
           </div>
 
@@ -389,7 +388,7 @@ components:
 
       <div class="md:px-2">2h00</div>
 
-      <div class="md:px-2">$349</div>
+
 
       </div>
 
@@ -427,7 +426,7 @@ components:
 
       <div class="md:px-2">2h30</div>
 
-      <div class="md:px-2">$399</div>
+
 
       </div>
 
@@ -458,7 +457,7 @@ components:
 
           <div class="md:px-2">1h00</div>
 
-          <div class="md:px-2">$60</div>
+
 
           </div>
 
@@ -477,7 +476,7 @@ components:
 
           <div class="md:px-2">2h30min</div>
 
-          <div class="md:px-2">$120</div>
+
 
           </div>
 
@@ -498,7 +497,7 @@ components:
 
           <div class="md:px-2">3h00min</div>
 
-          <div class="md:px-2">$200</div>
+
 
           </div>
 
@@ -520,7 +519,7 @@ components:
 
           <div class="md:px-2">1h30</div>
 
-          <div class="md:px-2">$50</div>
+
 
           </div>
 
@@ -539,7 +538,7 @@ components:
 
           <div class="md:px-2">1h00</div>
 
-          <div class="md:px-2">$40</div>
+
 
           </div>
 
@@ -558,7 +557,7 @@ components:
 
           <div class="md:px-2">40h</div>
 
-          <div class="md:px-2">$25</div>
+
 
           </div>
 
@@ -579,7 +578,7 @@ components:
 
           <div class="md:px-2">20h</div>
 
-          <div class="md:px-2">$20</div>
+
 
           </div>
 
@@ -602,7 +601,7 @@ components:
 
           <div class="md:px-2">30min</div>
 
-          <div class="md:px-2">$30</div>
+
 
           </div>
 
@@ -625,7 +624,7 @@ components:
 
           <div class="md:px-2">40min</div>
 
-          <div class="md:px-2">$35</div>
+
 
           </div>
 
@@ -645,7 +644,7 @@ components:
 
           <div class="md:px-2">20min</div>
 
-          <div class="md:px-2">$12</div>
+
 
           </div>
 
@@ -666,7 +665,7 @@ components:
 
           <div class="md:px-2">1h00</div>
 
-          <div class="md:px-2">$50</div>
+
 
           </div>
 
@@ -687,7 +686,7 @@ components:
 
           <div class="md:px-2">45min</div>
 
-          <div class="md:px-2">$30</div>
+
 
           </div>
 
@@ -706,7 +705,7 @@ components:
 
           <div class="md:px-2">20min</div>
 
-          <div class="md:px-2">$12</div>
+
 
           </div>
 
@@ -727,7 +726,7 @@ components:
 
           <div class="md:px-2">30min</div>
 
-          <div class="md:px-2">$40</div>
+
 
           </div>
 
@@ -748,7 +747,7 @@ components:
 
           <div class="md:px-2">40min</div>
 
-          <div class="md:px-2">$60</div>
+
 
           </div>
 
@@ -778,7 +777,7 @@ components:
 
       <div class="md:px-2">1h30</div>
 
-      <div class="md:px-2">$70</div>
+
 
       </div>
 
@@ -797,7 +796,7 @@ components:
 
       <div class="md:px-2">1h00</div>
 
-      <div class="md:px-2">$40</div>
+
 
       </div>
 
@@ -816,7 +815,7 @@ components:
 
       <div class="md:px-2">2h00</div>
 
-      <div class="md:px-2">$85</div>
+
 
       </div>
 
@@ -835,7 +834,7 @@ components:
 
       <div class="md:px-2">1h00</div>
 
-      <div class="md:px-2">$60</div>
+
 
       </div>
 
@@ -854,7 +853,7 @@ components:
 
       <div class="md:px-2">2h30min</div>
 
-      <div class="md:px-2">$99</div>
+
 
       </div>
 
@@ -873,7 +872,7 @@ components:
 
       <div class="md:px-2">1h00</div>
 
-      <div class="md:px-2">$65</div>
+
 
       </div>
 
@@ -901,7 +900,7 @@ components:
 
           <div class="md:px-2">30min</div>
 
-          <div class="md:px-2">$99</div>
+
 
           </div>
 
@@ -924,7 +923,7 @@ components:
 
       <div class="md:px-2">2h30</div>
 
-      <div class="md:px-2">$249</div>
+
 
       </div>
 

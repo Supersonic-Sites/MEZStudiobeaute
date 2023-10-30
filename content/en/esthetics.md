@@ -28,14 +28,14 @@ components:
 
           <div class="md:px-2">1h00</div>
 
-          <div class="md:px-2">$110</div>
+          <div class="md:px-2">$100</div>
 
           </div>
 
           </div>
 
           <a href="#microdermabrasion" class="underline text-primary">Please read our FAQ about microdermabrasion</a>
-      - service: Nutri-Lifting Treatment
+      - service: Chemical Facial Peeling
         desc: >-
           <div class="flex justify-between pb-4 mb-4">
 
@@ -43,7 +43,7 @@ components:
 
           <span class="md:text-xl"><strong>Phyto Nutri-Lifting Complex + Fruit Acids + Vitamin A, C and E
 
-          </strong><br>This professional care combines the power of plant extracts to natural fruit acids to exfoliate, wreathe, nourish and protect the skin all at once.</span>
+          </strong><br>This professional treatment combines the power of salicylic acids Glycoloic, Mandelic, Enztmatic, JC peeling to exfoliate, smooth, nourish and protect the skin by working directly in the sebaceous gland, chemical peeling is the ideal treatment for oily, congested or hyperpigmented skin , mature skin, reduces seburm, sun damage etc.</span>
 
           </div>
 
@@ -51,107 +51,7 @@ components:
 
           <div class="md:px-2">1h00</div>
 
-          <div class="md:px-2">$80</div>
-
-          </div>
-
-          </div>
-      - service: "Specific Care: Collagen Veil"
-        desc: >-
-          <div class="flex justify-between pb-4 mb-4">
-
-          <div>
-
-          <span class="md:text-xl"><strong>Goal:</strong> Redensify, moisturize, soothe Composed of three distinct collagen molecules, the Collagen Veil acts like a second skin and is defined by its ultra-hydrating and regenerating action on skin tissue. <br><br>
-
-          <strong>Native Collagen:</strong> Said to be undenatured, it soothes and hydrates the skin.<br><br>
-
-          <strong>Native Soluble:</strong> The most bio-assimilable, it provides a direct supply of collagen.<br><br>
-
-          <strong>Collagen Peptides:</strong> Small proteins, they increase the natural production of collagen. <br><br><strong>Results:</strong><br> • 30% reduction in skin relief (fine lines and wrinkles).<br> • Increases the skin's hydration level and its ability to retain moisture.<br> • Reduced redness and feeling of discomfort.</span><br>
-
-          </div>
-
-          <div class="text-base font-bold text-primary flex flex-col text-right">
-
-          <div class="md:px-2">1h00</div>
-
-          <div class="md:px-2">$99</div>
-
-          </div>
-
-          </div>
-      - service: Ligntening Peel-Off Cooling Treatment
-        desc: >-
-          <div class="flex justify-between pb-4 mb-4">
-
-          <div>
-
-          <span class="md:text-xl"><strong>Vitamin C + Phyto Éclat Complex</strong><br>
-
-          Vitamin C + Scutelllaria + Saxifraga + Black Mulberry + Grape + Marine Polysaccharids<br><br>
-
-          This treatment is specially formulated to enlighten complexion. It provides radiance and luminance to all skin types. Enriched with Vitamin C (free anti-radicals), it regulates the production of melamine by inhibiting tyrosinase and stimulates collagen synthesis.<br><br>
-
-          Optimal treatment that creates a damp atmosphere which through the osmosis phenomenon, improves durably the skin hydration.
-
-          </span>
-
-          </div>
-
-          <div class="text-base font-bold text-primary flex flex-col text-right">
-
-          <div class="md:px-2">1h10</div>
-
-          <div class="md:px-2">$99</div>
-
-          </div>
-
-          </div>
-      - service: Protocol-C Treatment
-        desc: >-
-          <div class="flex justify-between pb-4 mb-4">
-
-          <div>
-
-          <span class="md:text-xl">The innovative treatment with Vitamin C that makes the skin looks alive.<br><br>
-
-          An innovative antioxidant care with Vitamin C. Never before a facial massage will have procured such efficiency.<br><br>
-
-          An antioxidant and anti-ageing treatment conceived to revive the skin by stimulating the synthesis of collagen and protecting it from free radicals. Formulated with marine and vegetal actives ingredients plus a concentrate of Vitamin C, this treatment diminishes the appearance of wrinkles and fine lines, blends the complexion and gives a radiant look to the skin by bringing back its youth. The new PROTOCOL-C with multiple proven effects in one single treatment:<br><br>
-           • Stimulates fatigued, stressed skin<br> 
-          • The skin is visibly smoothed and more supple<br> 
-
-          • Protects the skin and reduces wrinkles
-
-          </span>
-
-          </div>
-
-          <div class="text-base font-bold text-primary flex flex-col text-right">
-
-          <div class="md:px-2">1h10</div>
-
-          <div class="md:px-2">$99</div>
-
-          </div>
-
-          </div>
-      - service: Paraphine Treatment
-        desc: >
-          <div class="flex justify-between pb-4 mb-4">
-
-          <div>
-
-          <span class="md:text-xl">With essential oils of lavender, orange and geranium softening, our paraffin has the property of retaining heat and water, and dilate the pores of the skin. Warm, it activates the blood circulation by reducing the dryness of the skin and relieves the pains of arthritis and rheumatism.</span> 
-
-          </div>
-
-          <div class="text-base font-bold text-primary flex flex-col text-right">
-
-          <div class="md:px-2">15min</div>
-
-          <div class="md:px-2">$15</div>
+          <div class="md:px-2">$120</div>
 
           </div>
 
@@ -195,9 +95,9 @@ components:
 
           <div class="text-base font-bold text-primary flex flex-col text-right">
 
-          <div class="md:px-2">1h30min</div>
+          <div class="md:px-2">1h00min</div>
 
-          <div class="md:px-2">$250</div>
+          <div class="md:px-2">$120</div>
 
           </div>
 
@@ -205,6 +105,107 @@ components:
 
 
           <a href="#microneedling" class="underline text-primary">Please read our FAQ about microneedling</a>
+      - service: Chemical Facial Peeling + Microneedling
+        desc: >-
+          <div class="flex justify-between pb-4 mb-4">
+
+          <div>
+
+          <span class="md:text-xl"><strong>Phyto Nutri-Lifting Complex + Fruit Acids + Vitamin A, C and E
+
+          </strong><br>Restore the skin's elasticity and shine by reducing the appearance of red lines, hyperpigmentation, enlarged pores, scars, dryness, etc.<br><br>
+
+
+          Composed of distinct molecules of collagen, Bio-C, Hyaluronic, Salicylic Glycoloic, Mandelic, Enztmatic acids. Microneedling RF is an innovative technology that combines microneedling and radiofrequency to stimulate skin cells both on the surface and deep down.</span>
+
+          </div>
+
+          <div class="text-base font-bold text-primary flex flex-col text-right">
+
+          <div class="md:px-2">1h30</div>
+
+          <div class="md:px-2">$160</div>
+
+          </div>
+
+          </div>
+      - service: Microneedling Hair Treatment
+        desc: >
+          <div class="flex justify-between pb-4 mb-4">
+
+          <div>
+
+          <span class="md:text-xl"><strong>Phyto Nutri-Lifting Complex + Fruit Acids + Vitamin A, C and E
+
+          </strong><br>What are the advantages of ACS-PEN – Advanced Cellular Stimulation? Collagen and hair follicles are found in the same layers of the skin, the micro-perforations tend to reboost the creation of collagen, therefore boosting and cleaning up the hair follicles, which promotes hair growth.</span>
+
+          </div>
+
+          <div class="text-base font-bold text-primary flex flex-col text-right">
+
+          <div class="md:px-2">1h00</div>
+
+          <div class="md:px-2">$150</div>
+
+          </div>
+
+          </div>
+      - service: Aqua-Microdermabrasion Facial RF
+        desc: >+
+          <div class="flex justify-between pb-4 mb-4">
+
+          <div>
+
+          <span class="md:text-xl"><strong>Phyto Nutri-Lifting Complex + Fruit Acids + Vitamin A, C and E
+
+          </strong><br>Moisturize and brighten the skin and smooth wrinkles.<br>
+
+          -Helps reduce pigment spots and any damage to the skin<br>
+
+          -Regulates the secretion of sebaceous glands, reduces facial acne, improves skin nutrients.<br>
+
+          -Eliminates facial imperfections<br>
+
+          -Improves skin tone<br>
+
+          -Skin firming<br></span>
+
+          </div>
+
+          <div class="text-base font-bold text-primary flex flex-col text-right">
+
+          <div class="md:px-2">1h30</div>
+
+          <div class="md:px-2">$180</div>
+
+          </div>
+
+          </div>
+
+
+      - service: Soin de Paraphine
+        desc: >-
+          <div class="flex justify-between pb-4 mb-4">
+
+          <div>
+
+          <span class="md:text-xl"><strong>Phyto Nutri-Lifting Complex + Fruit Acids + Vitamin A, C and E
+
+          </strong><br>With essential oils of lavender, orange and geranium
+
+          Softening, our paraffin has the property of retaining heat and water and dilating the pores of the skin. Hot, it activates blood circulation by reducing dryness of the skin and relieves the pain of arthritis and rheumatism.</span>
+
+          </div>
+
+          <div class="text-base font-bold text-primary flex flex-col text-right">
+
+          <div class="md:px-2">15min</div>
+
+          <div class="md:px-2">$15</div>
+
+          </div>
+
+          </div>
     cta_link: https://mez-collections-and-studio-beaute.appointlet.com/
     bg_color: white
     cta_select: true
@@ -223,13 +224,13 @@ components:
 
       <div class="md:px-2">1h00</div>
 
-      <div class="md:px-2">$77</div>
+      <div class="md:px-2">$80</div>
 
       </div>
 
       </div>
 
-    service: Facials
+    service: Signature Facials
     aos_select: true
     title: Specialized facials treatments
     type: img_half_right_toggle

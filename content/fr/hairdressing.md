@@ -14,6 +14,40 @@ components:
   - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/787046c3-89b4-4eb2-f7c8-19cbe544fc00/Square400px
     aos: fade-in
     service_list:
+      - service: MEP
+        desc: >-
+          <small class="mb-2">* Une adjustment de prix sera applicable. si les
+          cheveux sont trés épais qui prend plus qu'une heure</small><br>
+
+
+          <div class="flex justify-between pb-4 border-b border-gray-300">
+
+          <span class="md:text-xl">MEP cheveux court</span>
+
+          <div class="font-bold text-primary text-base flex flex-col text-right">
+
+          <div class="md:px-2">1h</div>
+
+
+
+          </div>
+
+          </div>
+
+
+          <div class="flex justify-between pb-4 border-b border-gray-300">
+
+          <span class="md:text-xl">MEP cheveux mi-long- long</span>
+
+          <div class="font-bold text-primary text-base flex flex-col text-right">
+
+          <div class="md:px-2">1h30min</div>
+
+
+
+          </div>
+
+          </div>
       - service: Combo Shampooing, Coupe et MEP
         desc: >-
           <small class="mb-2">* Une adjustment de prix sera applicable. Si les
@@ -286,7 +320,7 @@ components:
 
           </div>
 
-          
+
 
 
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
@@ -307,7 +341,7 @@ components:
 
           </div>
 
-          
+
 
 
           <div class="flex justify-between pb-4 mb-4">
@@ -431,8 +465,6 @@ components:
 
       <div class="md:px-2">30min</div>
 
-
-
       </div>
 
       </div>
@@ -466,9 +498,6 @@ components:
       </div>
 
       </div>
-
-
-
     service: Coupes
     aos_select: true
     title: Services
