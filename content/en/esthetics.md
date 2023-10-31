@@ -1,6 +1,6 @@
 ---
 title: Aesthetics
-description: WE are best in the industry by providing the high end products for
+description: We are best in the industry by providing the high end products for
   guaranteed results. Microdermabrasion, microneedling,  lash lift, extensions,
   eyebrows threading, microblading, permanent makeup, mani-pedi and more.
 slug: services/aesthetics
@@ -304,7 +304,7 @@ components:
 
           <div class="md:px-2">15min</div>
 
-          <div class="md:px-2">$15</div>
+          <div class="md:px-2">$20</div>
 
           </div>
 
@@ -325,7 +325,7 @@ components:
 
           <div class="md:px-2">45min</div>
 
-          <div class="md:px-2">$35</div>
+          <div class="md:px-2">$40</div>
 
           </div>
 
@@ -363,7 +363,7 @@ components:
 
           <div class="md:px-2">50min</div>
 
-          <div class="md:px-2">$77</div>
+          <div class="md:px-2">$80</div>
 
           </div>
 
@@ -452,15 +452,15 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Makeup</span><br>
+          <span class="md:text-xl">Bride Makeup </span><br>
 
           </div>
 
           <div class="font-bold text-primary text-base flex flex-col text-right">
 
-          <div class="md:px-2">1h00</div>
+          <div class="md:px-2">1h30</div>
 
-          <div class="md:px-2">$60</div>
+          <div class="md:px-2">$170</div>
 
           </div>
 
@@ -471,15 +471,15 @@ components:
 
           <div>
 
-          <span class="md:text-xl">Hairdo & Makeup Full Glam</span><br>
+          <span class="md:text-xl">Event Makeup </span><br>
 
           </div>
 
           <div class="font-bold text-primary text-base flex flex-col text-right">
 
-          <div class="md:px-2">2h30min</div>
+          <div class="md:px-2">1h00</div>
 
-          <div class="md:px-2">$120</div>
+          <div class="md:px-2">$80</div>
 
           </div>
 
@@ -507,7 +507,7 @@ components:
           </div>
 
 
-          Please note that silk lashes are included in our makeup package. Clients with very thick and long hair will be charged extra depending on the extra time taken.. 
+          Please note that silk lashes are included in our makeup package. Clients with very thick and long hair will be charged extra depending on the extra time taken.
       - service: Hands and Nails Care
         desc: >-
           <div class="flex justify-between pb-4 mb-4 border-b border-gray-300">
@@ -604,7 +604,7 @@ components:
 
           <div class="md:px-2">30min</div>
 
-          <div class="md:px-2">$30</div>
+          <div class="md:px-2">$25</div>
 
           </div>
 
@@ -799,7 +799,7 @@ components:
 
       <div class="md:px-2">1h00</div>
 
-      <div class="md:px-2">$40</div>
+      <div class="md:px-2">$45</div>
 
       </div>
 
@@ -837,7 +837,7 @@ components:
 
       <div class="md:px-2">1h00</div>
 
-      <div class="md:px-2">$60</div>
+      <div class="md:px-2">$50</div>
 
       </div>
 
@@ -856,7 +856,7 @@ components:
 
       <div class="md:px-2">2h30min</div>
 
-      <div class="md:px-2">$99</div>
+      <div class="md:px-2">$90</div>
 
       </div>
 
@@ -875,7 +875,7 @@ components:
 
       <div class="md:px-2">1h00</div>
 
-      <div class="md:px-2">$65</div>
+      <div class="md:px-2">$60</div>
 
       </div>
 
