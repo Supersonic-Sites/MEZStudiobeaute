@@ -63,14 +63,6 @@ components:
         title: PhiBrows
         img_title: PhiBrows Certification
         description: "#"
-  - type: divider_half
-    bg_color: white
-  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/b4c7176b-c0d4-475d-33ed-a1d5d4c1c300/600x400
-    aos: fade-up
-    cta_link: contact/
-    bg_color: white
-    img_alt: Azadeh has been an esthetician since 2016
-    cta: Call To Action
   - type: divider
     bg_color: white
   - type: heading_full
