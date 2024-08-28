@@ -67,27 +67,6 @@ components:
         description: "#"
   - type: divider_half
     bg_color: white
-  - img: https://imagedelivery.net/55TzV2Sm0ZC5Gj13gsciyw/b4c7176b-c0d4-475d-33ed-a1d5d4c1c300/600x400
-    aos: fade-up
-    cta_link: contact/
-    bg_color: white
-    img_alt: Azedeh - Esthéticienne
-    cta: Call To Action
-    desc: >
-      Azadeh travaille dans le monde de l’esthétique depuis 2016. Elle a quitté
-      l’Iran pour le Canada en 2014. Dès son arrivée, elle a suivi des cours de
-      français, avant d’entreprendre des cours dans une école de soins de beauté
-      en 2016. En 2018, avec son diplôme en main, elle a effectué un stage dans
-      un salon sur la Rive-Sud de Montréal, avant d’arriver au MEZ Studio
-      Beauté. <br><br>
-
-
-      Azadeh est passionnée par son travail. Elle adore le contact avec ses clientes et aime leur donner des conseils pratiques pour les aider à obtenir une peau d’apparence saine et radieuse. Elle est reconnue pour ses doigts de fée, qui lui sont d’excellents outils lorsqu’elle offre des soins au visage. Elle est titulaire de diverses attestations en rehaussement des cils, en pose d’extensions de cils, en microaiguillage (aussi appelé microneedling, thérapie d’induction de collagène ou resserrement cutané avec microaiguillage), en épilation au laser et en électrolyse. 
-    title: Azedeh - Esthéticienne
-    type: img_third_left
-    img_title: Azedeh - Esthéticienne
-  - type: divider
-    bg_color: white
   - type: heading_full
     align: center
     id: none
