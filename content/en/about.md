@@ -71,18 +71,6 @@ components:
     bg_color: white
     img_alt: Azadeh has been an esthetician since 2016
     cta: Call To Action
-    desc: >
-      Azadeh has been an esthetician since 2016. After moving to Canada from
-      Iran in 2014, she took French language courses before going to beauty
-      school in 2016. After she graduated in 2018, she spent her internship at a
-      salon on the south shore of Montreal before working for MEZ Studio
-      Beauté.<br><br>
-
-
-      Azadeh is passionate about her work. She loves working with clients and offering practical tips on how to keep their skin looking young and healthy. She is known as the lady with “magic fingers” when she does facials. She is certified as a lashlift technician, lash extensions technician, micro-needling technician, and laser and electrolysis technician. 
-    title: "Azedeh - Esthetician "
-    type: img_third_left
-    img_title: Azadeh has been an esthetician since 2016
   - type: divider
     bg_color: white
   - type: heading_full
